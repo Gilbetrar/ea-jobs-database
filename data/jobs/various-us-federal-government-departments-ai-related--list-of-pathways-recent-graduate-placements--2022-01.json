@@ -1,10 +1,10 @@
 {
-  "id": "various-us-federal-government-departments--list-of-pathways-recent-graduate-placements--2022-01",
+  "id": "various-us-federal-government-departments-ai-related--list-of-pathways-recent-graduate-placements--2022-01",
   "title": "List of Pathways Recent Graduate Placements",
-  "organization": "various-us-federal-government-departments",
+  "organization": "various-us-federal-government-departments-ai-related",
   "source": "80k-hours",
   "source_url": "https://www.usajobs.gov/Search/Results?wt=15326&hp=graduates",
-  "jd_file": "data/jds/various-us-federal-government-departments--list-of-pathways-recent-graduate-placements--2022-01.md",
+  "jd_file": "data/jds/various-us-federal-government-departments-ai-related--list-of-pathways-recent-graduate-placements--2022-01.md",
   "location": {
     "type": "onsite",
     "cities": [

@@ -146,24 +146,39 @@ def phase3():
     print("\n=== Phase 3: Post-Merge Checks ===\n")
 
     # 4. After --apply: no fuzzy-similar org names remain (similarity > 0.85)
+    #    Pairs listed in exports/rejected-merges.json are excluded (human-reviewed)
     try:
         from rapidfuzz import fuzz
 
         org_files = glob.glob("data/orgs/*.json")
-        org_names = []
+        org_data = {}
         for f in org_files:
             with open(f) as fh:
-                org_names.append(json.load(fh)["name"])
+                org = json.load(fh)
+                org_data[org["id"]] = org["name"]
 
+        # Load rejected merges (human-reviewed pairs that are intentionally kept separate)
+        rejected_pairs = set()
+        rejected_path = "exports/rejected-merges.json"
+        if os.path.isfile(rejected_path):
+            with open(rejected_path) as fh:
+                for entry in json.load(fh):
+                    pair = tuple(sorted([entry["id_a"], entry["id_b"]]))
+                    rejected_pairs.add(pair)
+
+        org_ids = list(org_data.keys())
         similar_pairs = []
-        for i, name1 in enumerate(org_names):
-            for name2 in org_names[i + 1 :]:
-                sim = fuzz.ratio(name1.lower(), name2.lower()) / 100
+        for i, id1 in enumerate(org_ids):
+            for id2 in org_ids[i + 1 :]:
+                pair_key = tuple(sorted([id1, id2]))
+                if pair_key in rejected_pairs:
+                    continue
+                sim = fuzz.ratio(org_data[id1].lower(), org_data[id2].lower()) / 100
                 if sim > 0.85:
-                    similar_pairs.append((name1, name2, sim))
+                    similar_pairs.append((org_data[id1], org_data[id2], sim))
 
         check(
-            "No fuzzy-similar org names remain (>0.85)",
+            "No fuzzy-similar org names remain (>0.85, excluding rejected)",
             len(similar_pairs) == 0,
             f"found {len(similar_pairs)} similar pairs: "
             + "; ".join(f"'{a}' vs '{b}' ({s:.2f})" for a, b, s in similar_pairs[:3]),

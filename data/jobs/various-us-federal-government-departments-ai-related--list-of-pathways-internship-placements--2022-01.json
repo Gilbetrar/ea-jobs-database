@@ -1,10 +1,10 @@
 {
-  "id": "various-us-federal-government-departments--list-of-pathways-internship-placements--2022-01",
+  "id": "various-us-federal-government-departments-ai-related--list-of-pathways-internship-placements--2022-01",
   "title": "List of Pathways Internship Placements",
-  "organization": "various-us-federal-government-departments",
+  "organization": "various-us-federal-government-departments-ai-related",
   "source": "80k-hours",
   "source_url": "https://intern.usajobs.gov/Search/Results?hp=student&wt=15328&s=salary&sd=desc&p=1",
-  "jd_file": "data/jds/various-us-federal-government-departments--list-of-pathways-internship-placements--2022-01.md",
+  "jd_file": "data/jds/various-us-federal-government-departments-ai-related--list-of-pathways-internship-placements--2022-01.md",
   "location": {
     "type": "onsite",
     "cities": [

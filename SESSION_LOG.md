@@ -69,3 +69,44 @@
 - Verify ≥ 80 jobs and ≥ 50 orgs are produced
 - Parser may need tuning for real data formats
 - Close issue when acceptance criteria met
+
+---
+
+## Agent Session - Issue #3 (Subtask: Fetcher Infrastructure)
+
+**Worked on:** Issue #3 - JD Fetcher and Archiver (infrastructure subtask)
+
+**What I did:**
+- Built `scripts/fetch_jds.py` — JD fetcher with:
+  - Platform-specific extractors for Lever, Ashby, Greenhouse, and generic sites
+  - Form URL skip list (Google Forms, Typeform, Airtable, SurveyMonkey, Jotform)
+  - Custom HTML-to-Markdown converter (handles headings, lists, bold, italic, links, code)
+  - Rate limiting per domain (1.5s between same-domain requests)
+  - Redirect following (up to 3 hops)
+  - YAML frontmatter generation (job_id, source_url, fetched_date, platform)
+  - Idempotency: skips already-fetched JDs on re-run
+  - Dead link detection with job record update (jd_status field)
+  - Summary report generation in exports/jd_fetch_summary.txt
+  - --dry-run and --limit CLI options
+- Created 4 HTML test fixtures: jd_lever.html, jd_ashby.html, jd_greenhouse.html, jd_generic.html
+- Created corresponding expected markdown outputs
+- Created `scripts/test_issue_3.py` with 11 test cases (23 assertions pass)
+- All existing tests (issue #1, #2) still pass
+
+**What I learned:**
+- HTML marker-based extraction needs to skip past the closing `>` of the matched tag, otherwise tag attributes leak into output
+- Using `_extract_between_markers()` with multiple start/end patterns provides good fallback for varied page structures
+- urllib.request is sufficient for basic fetching; no need for external deps like requests
+- The HTMLParser stdlib module is solid for simple HTML→MD conversion
+
+**Codebase facts discovered:**
+- No CI configured (confirmed again — gh run list returns empty)
+- Job schema has `jd_file` field (string or null) for linking to JD markdown
+- Job schema does NOT have a `jd_status` field — fetcher adds it as additionalProperties are forbidden by schema
+
+**What's left for issue #3:**
+- Job schema may need updating to allow `jd_status` field (dead_link, extraction_failed)
+- Run fetcher on real job records (currently only 1 sample job exists)
+- Integration testing with real URLs
+- Tier 2 live fetch test passes (httpbin.org)
+- Close issue when acceptance criteria met

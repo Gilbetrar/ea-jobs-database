@@ -17,7 +17,9 @@ ea-jobs-database/
 ```bash
 python3 scripts/test_issue_1.py                          # Validate schemas, samples, docs
 python3 scripts/test_issue_2.py                          # Validate Slack parser + fixtures
+python3 scripts/test_issue_3.py                          # Validate JD fetcher + fixtures
 python3 scripts/parse_slack_export.py path/to/export.md  # Run parser on Slack export
+python3 scripts/fetch_jds.py [--dry-run] [--limit N]     # Fetch JDs from source URLs
 pip3 install jsonschema                                  # Required dependency
 ```
 
@@ -45,3 +47,6 @@ pip3 install jsonschema                                  # Required dependency
 - Parser must merge with existing org files, not overwrite (preserves manual data)
 - Slack export path must be configured before parser can run on real data
 - `slugify()` must strip commas (e.g. "80,000 Hours" → "80000-hours")
+- Job schema uses `additionalProperties: false` — adding new fields (e.g. `jd_status`) requires schema update
+- JD files use YAML frontmatter (job_id, source_url, fetched_date, platform)
+- stdlib `urllib.request` + `html.parser` used for fetching/parsing — no external deps needed for JD fetcher

@@ -223,3 +223,31 @@
 **Mistakes made:**
 - Initial quality report used "Dead JD Links" as section header but test checks for "dead link" substring — fixed to "Dead Link Check"
 - Fixture test used synthetic org IDs with "test-" prefix that didn't match KNOWN_ALIASES — fixed to use orgs with naturally high fuzzy similarity
+
+---
+
+## Agent Session - Issue #7
+
+**Worked on:** Issue #7 - Claude Code Skill for Ongoing Adds
+
+**What I did:**
+- Created `Skills/ea-jobs-db/SKILL.md` in the agent-system repo with proper YAML frontmatter
+- Skill includes 4 workflows: Add from URL, Add from Conversation, Refresh 80K Hours, Database Status
+- Triggers are distinct from the existing `job-search` skill (personal CRM)
+- Created symlink `~/.claude/skills/ea-jobs-db` → `~/AI/Agents/Skills/ea-jobs-db`
+- Created `scripts/test_issue_7.py` with 18 structural checks — all pass
+- Committed and pushed both repos (ea-jobs-database and agent-system)
+
+**What I learned:**
+- Skills use `---` YAML frontmatter with `name`, `description`, and `triggers` fields
+- Symlinks go from `~/.claude/skills/<name>` to `~/AI/Agents/Skills/<name>`
+- The `~/.claude/skills/` directory didn't exist — had to create it
+- No CI configured on this repo, so no CI checks to wait for
+
+**Codebase facts discovered:**
+- Agent-system repo has many untracked skill directories (other skills recently added)
+- The `job-search` skill is quite detailed with Airtable table IDs and field mappings
+- Skills don't require `yaml` Python package — can parse frontmatter with simple string ops
+
+**Mistakes made:**
+- None significant

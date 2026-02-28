@@ -1,0 +1,18 @@
+{
+  "total_jobs": 835,
+  "eligible": 835,
+  "selected": 300,
+  "excluded": {
+    "low_confidence": 0,
+    "missing_fields": 0
+  },
+  "criteria": {
+    "min_confidence": 0.7,
+    "max_age_months": 6,
+    "target_count": 300
+  },
+  "selected_stats": {
+    "has_salary": 250,
+    "has_jd": 300
+  }
+}

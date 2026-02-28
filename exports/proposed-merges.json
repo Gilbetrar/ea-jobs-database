@@ -1,0 +1,18 @@
+[
+  {
+    "canonical_id": "us-government",
+    "canonical_name": "US Government",
+    "merge_id": "uk-government",
+    "merge_name": "UK Government",
+    "confidence": 0.923,
+    "reason": "fuzzy match: 'UK Government' \u2248 'US Government'"
+  },
+  {
+    "canonical_id": "various-us-federal-government-departments-ai-related",
+    "canonical_name": "Various US Federal Government Departments (AI related)",
+    "merge_id": "various-us-federal-government-departments",
+    "merge_name": "Various US Federal Government Departments",
+    "confidence": 0.863,
+    "reason": "fuzzy match: 'Various US Federal Government Departments (AI related)' \u2248 'Various US Federal Government Departments'"
+  }
+]

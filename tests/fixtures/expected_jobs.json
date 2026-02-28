@@ -1,0 +1,264 @@
+[
+  {
+    "id": "80000-hours--head-of-web-engineering--2025-10",
+    "title": "Head of Web Engineering",
+    "organization": "80000-hours",
+    "source": "slack-export",
+    "source_url": "https://80000hours.org/careers/head-web-engineering",
+    "jd_file": null,
+    "location": {
+      "type": "hybrid",
+      "cities": [
+        "London, UK"
+      ]
+    },
+    "salary": {
+      "currency": "GBP",
+      "period": "annual",
+      "min": 65000,
+      "max": 85000
+    },
+    "posted_date": "2025-10-05",
+    "deadline": "2025-11-01",
+    "date_added": "2026-02-28",
+    "tags": [
+      "engineering"
+    ],
+    "status": "unknown",
+    "confidence": 1.0,
+    "notes": null
+  },
+  {
+    "id": "centre-for-effective-altruism--communications-manager--2025-09",
+    "title": "Communications Manager",
+    "organization": "centre-for-effective-altruism",
+    "source": "slack-export",
+    "source_url": "https://centreforeffectivealtruism.org/careers/comms-manager",
+    "jd_file": null,
+    "location": {
+      "type": "remote",
+      "cities": []
+    },
+    "salary": {
+      "currency": "GBP",
+      "period": "annual",
+      "min": 40000,
+      "max": 55000
+    },
+    "posted_date": "2025-09-03",
+    "deadline": "2025-10-15",
+    "date_added": "2026-02-28",
+    "tags": [
+      "communications"
+    ],
+    "status": "unknown",
+    "confidence": 0.97,
+    "notes": null
+  },
+  {
+    "id": "centre-for-effective-altruism--events-coordinator--2025-09",
+    "title": "Events Coordinator",
+    "organization": "centre-for-effective-altruism",
+    "source": "slack-export",
+    "source_url": "https://centreforeffectivealtruism.org/careers/events-coordinator",
+    "jd_file": null,
+    "location": {
+      "type": "hybrid",
+      "cities": [
+        "Oxford, UK"
+      ]
+    },
+    "salary": {
+      "currency": "GBP",
+      "period": "annual",
+      "min": 35000,
+      "max": 45000
+    },
+    "posted_date": "2025-09-03",
+    "deadline": "2025-10-15",
+    "date_added": "2026-02-28",
+    "tags": [
+      "operations"
+    ],
+    "status": "unknown",
+    "confidence": 1.0,
+    "notes": null
+  },
+  {
+    "id": "centre-for-effective-altruism--finance-officer--2025-09",
+    "title": "Finance Officer",
+    "organization": "centre-for-effective-altruism",
+    "source": "slack-export",
+    "source_url": "https://centreforeffectivealtruism.org/careers/finance-officer",
+    "jd_file": null,
+    "location": {
+      "type": "onsite",
+      "cities": [
+        "Oxford, UK"
+      ]
+    },
+    "salary": {
+      "currency": "GBP",
+      "period": "annual",
+      "min": 38000,
+      "max": 48000
+    },
+    "posted_date": "2025-09-03",
+    "deadline": "2025-10-15",
+    "date_added": "2026-02-28",
+    "tags": [
+      "operations",
+      "finance"
+    ],
+    "status": "unknown",
+    "confidence": 1.0,
+    "notes": null
+  },
+  {
+    "id": "founders-pledge--impact-analyst-climate--2025-12",
+    "title": "Impact Analyst (Climate)",
+    "organization": "founders-pledge",
+    "source": "slack-export",
+    "source_url": "https://founderspledge.com/careers/impact-analyst-climate",
+    "jd_file": null,
+    "location": {
+      "type": "hybrid",
+      "cities": [
+        "London, UK"
+      ]
+    },
+    "salary": {
+      "currency": "GBP",
+      "period": "annual",
+      "min": 42000,
+      "max": 58000
+    },
+    "posted_date": "2025-12-01",
+    "deadline": "2026-01-15",
+    "date_added": "2026-02-28",
+    "tags": [
+      "research",
+      "climate"
+    ],
+    "status": "unknown",
+    "confidence": 1.0,
+    "notes": null
+  },
+  {
+    "id": "givewell--research-analyst--2025-08",
+    "title": "Research Analyst",
+    "organization": "givewell",
+    "source": "slack-export",
+    "source_url": "https://www.givewell.org/careers/research-analyst",
+    "jd_file": null,
+    "location": {
+      "type": "onsite",
+      "cities": [
+        "Oakland, CA"
+      ]
+    },
+    "salary": {
+      "currency": "USD",
+      "period": "annual",
+      "min": 85000,
+      "max": 110000
+    },
+    "posted_date": "2025-08-15",
+    "deadline": "2025-09-30",
+    "date_added": "2026-02-28",
+    "tags": [
+      "research",
+      "global-health"
+    ],
+    "status": "unknown",
+    "confidence": 1.0,
+    "notes": null
+  },
+  {
+    "id": "giving-what-we-can--partnerships-lead--2025-11",
+    "title": "Partnerships Lead",
+    "organization": "giving-what-we-can",
+    "source": "slack-export",
+    "source_url": "https://www.givingwhatwecan.org/careers/partnerships-lead",
+    "jd_file": null,
+    "location": {
+      "type": "hybrid",
+      "cities": [
+        "Basel, Switzerland"
+      ]
+    },
+    "salary": {
+      "currency": "CHF",
+      "period": "annual",
+      "min": 80000,
+      "max": 100000
+    },
+    "posted_date": "2025-11-02",
+    "deadline": "2025-12-15",
+    "date_added": "2026-02-28",
+    "tags": [
+      "partnerships"
+    ],
+    "status": "unknown",
+    "confidence": 1.0,
+    "notes": null
+  },
+  {
+    "id": "open-philanthropy--program-associate-ai-governance--2025-10",
+    "title": "Program Associate, AI Governance",
+    "organization": "open-philanthropy",
+    "source": "slack-export",
+    "source_url": "https://www.openphilanthropy.org/careers/program-associate-ai-governance",
+    "jd_file": null,
+    "location": {
+      "type": "onsite",
+      "cities": [
+        "Washington, DC"
+      ]
+    },
+    "salary": {
+      "currency": "USD",
+      "period": "annual",
+      "min": 95000,
+      "max": 130000
+    },
+    "posted_date": "2025-10-20",
+    "deadline": null,
+    "date_added": "2026-02-28",
+    "tags": [
+      "ai-governance",
+      "grantmaking"
+    ],
+    "status": "unknown",
+    "confidence": 1.0,
+    "notes": null
+  },
+  {
+    "id": "rethink-priorities--senior-research-analyst--2025-09",
+    "title": "Senior Research Analyst",
+    "organization": "rethink-priorities",
+    "source": "slack-export",
+    "source_url": "https://rethinkpriorities.org/careers/senior-researcher",
+    "jd_file": null,
+    "location": {
+      "type": "remote",
+      "cities": []
+    },
+    "salary": {
+      "currency": "EUR",
+      "period": "annual",
+      "min": 55000,
+      "max": 75000
+    },
+    "posted_date": "2025-09-18",
+    "deadline": null,
+    "date_added": "2026-02-28",
+    "tags": [
+      "research",
+      "animal-welfare"
+    ],
+    "status": "unknown",
+    "confidence": 1.0,
+    "notes": null
+  }
+]

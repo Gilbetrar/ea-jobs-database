@@ -1,0 +1,84 @@
+[
+  {
+    "id": "80000-hours",
+    "name": "80,000 Hours",
+    "aliases": [],
+    "website": "https://80000hours.org",
+    "cause_areas": [],
+    "hq_location": null,
+    "size_estimate": null,
+    "notes": null
+  },
+  {
+    "id": "centre-for-effective-altruism",
+    "name": "Centre for Effective Altruism",
+    "aliases": [
+      "CEA"
+    ],
+    "website": "https://centreforeffectivealtruism.org",
+    "cause_areas": [],
+    "hq_location": null,
+    "size_estimate": null,
+    "notes": null
+  },
+  {
+    "id": "founders-pledge",
+    "name": "Founders Pledge",
+    "aliases": [],
+    "website": "https://founderspledge.com",
+    "cause_areas": [
+      "climate"
+    ],
+    "hq_location": null,
+    "size_estimate": null,
+    "notes": null
+  },
+  {
+    "id": "givewell",
+    "name": "GiveWell",
+    "aliases": [],
+    "website": "https://www.givewell.org",
+    "cause_areas": [],
+    "hq_location": null,
+    "size_estimate": null,
+    "notes": null
+  },
+  {
+    "id": "giving-what-we-can",
+    "name": "Giving What We Can",
+    "aliases": [
+      "GWWC"
+    ],
+    "website": "https://www.givingwhatwecan.org",
+    "cause_areas": [],
+    "hq_location": null,
+    "size_estimate": null,
+    "notes": null
+  },
+  {
+    "id": "open-philanthropy",
+    "name": "Open Philanthropy",
+    "aliases": [],
+    "website": "https://www.openphilanthropy.org",
+    "cause_areas": [
+      "ai-governance"
+    ],
+    "hq_location": null,
+    "size_estimate": null,
+    "notes": null
+  },
+  {
+    "id": "rethink-priorities",
+    "name": "Rethink Priorities",
+    "aliases": [
+      "RP"
+    ],
+    "website": "https://rethinkpriorities.org",
+    "cause_areas": [
+      "animal-welfare"
+    ],
+    "hq_location": null,
+    "size_estimate": null,
+    "notes": null
+  }
+]

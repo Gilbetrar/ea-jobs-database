@@ -192,3 +192,34 @@
 **Mistakes made:**
 - Initially used `datetime.utcfromtimestamp()` (deprecated in Python 3.12+), switched to `datetime.fromtimestamp(ts, tz=timezone.utc)`
 - Initially tried `browse_objects()` which isn't allowed with search-only keys
+
+---
+
+## Agent Session - Issue #6 (Phase 1)
+
+**Worked on:** Issue #6 - Data Quality Review + Org Deduplication (all scripts, Phase 1 tests)
+
+**What I did:**
+- Created `scripts/review_data.py` — generates quality report at `exports/quality-report.md`
+- Created `scripts/merge_orgs.py` — fuzzy org dedup with `rapidfuzz`, known alias mappings, and `--apply` flag
+- Created `scripts/generate_curated.py` — scores and selects top 300 jobs for Airtable curation
+- Created `scripts/test_issue_6.py` — phased test script (Phase 1 passes, Phase 2 needs human review)
+- Generated outputs: quality report (122 issues), proposed merges (2 candidates), curated subset (300 jobs)
+
+**What I learned:**
+- All 835 jobs are confidence >= 0.7 (834 from 80K Hours + 1 manual) — no low-confidence records yet
+- 370 orgs exist, 17 have no linked jobs (orphans)
+- 46 suspicious salaries found — many are grants, fellowships, or non-USD salaries stored as USD
+- 59 duplicate job pairs detected (same org + similar title)
+- Only 2 fuzzy org matches found: "UK/US Government" (false positive) and "Various US Federal Government" variants
+- None of the known alias org IDs (CEA, open-phil, etc.) exist in data yet — those are for future Slack ingestion
+
+**Codebase facts discovered:**
+- `difflib.SequenceMatcher` built-in is sufficient for job title dedup (0.8+ threshold)
+- `rapidfuzz` needed for org name matching — `pip3 install rapidfuzz` required
+- Phase 2 human review checkpoint is required before applying merges
+- Phase 3 tests correctly fail until merges are applied (expected)
+
+**Mistakes made:**
+- Initial quality report used "Dead JD Links" as section header but test checks for "dead link" substring — fixed to "Dead Link Check"
+- Fixture test used synthetic org IDs with "test-" prefix that didn't match KNOWN_ALIASES — fixed to use orgs with naturally high fuzzy similarity

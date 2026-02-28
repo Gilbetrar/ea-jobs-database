@@ -26,6 +26,13 @@ python3 scripts/fetch_80k_hours.py [--dry-run] [--since] # Fetch 80K Hours jobs 
 python3 scripts/test_issue_5.py                          # Validate 80K Hours fetcher
 pip3 install jsonschema                                  # Required dependency
 pip3 install algoliasearch markdownify                   # Required for 80K Hours fetcher
+pip3 install rapidfuzz                                   # Required for org dedup
+python3 scripts/review_data.py                           # Generate quality report
+python3 scripts/merge_orgs.py                            # Generate proposed org merges
+python3 scripts/merge_orgs.py --apply                    # Apply approved merges
+python3 scripts/generate_curated.py                      # Generate curated subset (300 jobs)
+python3 scripts/test_issue_6.py                          # Validate issue #6 Phase 1
+python3 scripts/test_issue_6.py --post-merge             # Validate Phase 3 (after merge apply)
 ```
 
 ## Conventions
@@ -62,3 +69,6 @@ pip3 install algoliasearch markdownify                   # Required for 80K Hour
 - Algolia SDK v4 returns Pydantic models — use `.to_dict()` to get plain dicts
 - 80K Hours data: `description_short` has HTML, `description` is usually empty
 - Use `datetime.fromtimestamp(ts, tz=timezone.utc)` not `utcfromtimestamp()` (deprecated Python 3.12+)
+- Issue #6 has a human review checkpoint (Phase 2) — merges cannot be auto-applied
+- Test section name assertions are case-insensitive substring checks — ensure report headers contain expected keywords
+- `rapidfuzz.fuzz.ratio` returns 0-100, divide by 100 for 0-1 range

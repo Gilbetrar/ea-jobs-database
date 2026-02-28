@@ -15,8 +15,10 @@ ea-jobs-database/
 ## Commands That Work
 
 ```bash
-python3 scripts/test_issue_1.py   # Validate schemas, samples, docs
-pip3 install jsonschema            # Required dependency
+python3 scripts/test_issue_1.py                          # Validate schemas, samples, docs
+python3 scripts/test_issue_2.py                          # Validate Slack parser + fixtures
+python3 scripts/parse_slack_export.py path/to/export.md  # Run parser on Slack export
+pip3 install jsonschema                                  # Required dependency
 ```
 
 ## Conventions
@@ -38,3 +40,8 @@ pip3 install jsonschema            # Required dependency
 - No npm/node setup — this is a Python + JSON project
 - `jsonschema` must be installed (`pip3 install jsonschema`) before running tests
 - Airtable integration is Tier 2 (warning only, not blocking)
+- macOS `find` is aliased to `fd` — use shell loops for file operations
+- Job schema requires `date_added` field — parser sets it to today's date
+- Parser must merge with existing org files, not overwrite (preserves manual data)
+- Slack export path must be configured before parser can run on real data
+- `slugify()` must strip commas (e.g. "80,000 Hours" → "80000-hours")

@@ -1,0 +1,10 @@
+{
+  "id": "open-philanthropy",
+  "name": "Open Philanthropy",
+  "aliases": ["OpenPhil", "Open Phil"],
+  "website": "https://www.openphilanthropy.org",
+  "cause_areas": ["global-health", "ai-safety", "biosecurity", "criminal-justice-reform"],
+  "hq_location": "San Francisco, CA",
+  "size_estimate": "50-200",
+  "notes": null
+}

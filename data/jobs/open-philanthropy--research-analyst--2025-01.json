@@ -1,0 +1,25 @@
+{
+  "id": "open-philanthropy--research-analyst--2025-01",
+  "title": "Research Analyst",
+  "organization": "open-philanthropy",
+  "source": "manual",
+  "source_url": "https://www.openphilanthropy.org/careers",
+  "jd_file": null,
+  "location": {
+    "type": "hybrid",
+    "cities": ["San Francisco, CA"]
+  },
+  "salary": {
+    "min": 80000,
+    "max": 120000,
+    "currency": "USD",
+    "period": "annual"
+  },
+  "posted_date": "2025-01-15",
+  "deadline": null,
+  "date_added": "2026-02-28",
+  "tags": ["research", "global-health", "ai-safety"],
+  "status": "unknown",
+  "confidence": 1.0,
+  "notes": "Sample record for schema validation"
+}

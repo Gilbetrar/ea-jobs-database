@@ -1,0 +1,47 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "$id": "https://github.com/Gilbetrar/ea-jobs-database/schemas/org.schema.json",
+  "title": "EA Organization",
+  "description": "Schema for an effective altruism organization record",
+  "type": "object",
+  "required": ["id", "name"],
+  "properties": {
+    "id": {
+      "type": "string",
+      "description": "Unique slug identifier: org-name",
+      "pattern": "^[a-z0-9-]+$"
+    },
+    "name": {
+      "type": "string",
+      "description": "Official organization name"
+    },
+    "aliases": {
+      "type": "array",
+      "items": { "type": "string" },
+      "description": "Alternative names for fuzzy matching"
+    },
+    "website": {
+      "type": ["string", "null"],
+      "format": "uri",
+      "description": "Organization website URL"
+    },
+    "cause_areas": {
+      "type": "array",
+      "items": { "type": "string" },
+      "description": "Cause areas the organization works on"
+    },
+    "hq_location": {
+      "type": ["string", "null"],
+      "description": "Headquarters location"
+    },
+    "size_estimate": {
+      "type": ["string", "null"],
+      "description": "Estimated organization size (e.g., '10-50', '50-200')"
+    },
+    "notes": {
+      "type": ["string", "null"],
+      "description": "Freetext notes about this organization"
+    }
+  },
+  "additionalProperties": false
+}

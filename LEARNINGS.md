@@ -20,6 +20,8 @@ python3 scripts/test_issue_2.py                          # Validate Slack parser
 python3 scripts/test_issue_3.py                          # Validate JD fetcher + fixtures
 python3 scripts/parse_slack_export.py path/to/export.md  # Run parser on Slack export
 python3 scripts/fetch_jds.py [--dry-run] [--limit N]     # Fetch JDs from source URLs
+python3 scripts/sync_to_airtable.py --dry-run --all      # Preview Airtable sync
+python3 scripts/test_issue_4.py                          # Validate Airtable sync script
 pip3 install jsonschema                                  # Required dependency
 ```
 
@@ -50,3 +52,6 @@ pip3 install jsonschema                                  # Required dependency
 - Job schema uses `additionalProperties: false` — adding new fields (e.g. `jd_status`) requires schema update
 - JD files use YAML frontmatter (job_id, source_url, fetched_date, platform)
 - stdlib `urllib.request` + `html.parser` used for fetching/parsing — no external deps needed for JD fetcher
+- Airtable sync uses env vars: AIRTABLE_API_KEY, AIRTABLE_BASE_ID (required for live sync)
+- Airtable multi-select fields require `[{"name": "value"}]` format, not plain arrays
+- Sync script logs to stderr, JSON output to stdout — keeps --output-json clean

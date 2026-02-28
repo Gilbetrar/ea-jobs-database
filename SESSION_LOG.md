@@ -110,3 +110,43 @@
 - Integration testing with real URLs
 - Tier 2 live fetch test passes (httpbin.org)
 - Close issue when acceptance criteria met
+
+---
+
+## Agent Session - Issue #4
+
+**Worked on:** Issue #4 - Airtable Sync Script
+
+**What I did:**
+- Built `scripts/sync_to_airtable.py` — full Airtable sync script with:
+  - CLI modes: --ids, --ids-file, --all, --filter, --dry-run, --output-json, --force
+  - AirtableClient using stdlib urllib (no external deps)
+  - DryRunClient for safe previews without credentials
+  - Field mapping: jobs (salary→numbers, tags→multi-select, location→text) and orgs (cause_areas→multi-select, aliases→text)
+  - Idempotent sync via git_id field for dedup (check existing, update or create)
+  - Record count tracking with warnings at 80% (800) and error at 95% (950) of free tier
+  - Pre-flight checks: missing --ids-file fails fast, empty data dirs detected
+  - Dot-notation filter support for nested fields (e.g. salary.currency=GBP)
+  - Logs to stderr, JSON output to stdout (clean separation)
+- Created `scripts/test_issue_4.py` with:
+  - 16 Tier 1 deterministic tests (all pass)
+  - 2 Tier 2 integration tests (skip without Airtable credentials)
+  - Tests cover: CLI flags, pre-flight checks, dry-run, field mapping, filter logic, env var validation
+- All existing tests (issue #1, #2, #3) still pass
+
+**What I learned:**
+- Separating log output (stderr) from JSON output (stdout) is essential for --output-json to work cleanly
+- DryRunClient pattern is effective — same interface, no side effects, clean testability
+- Multi-select fields in Airtable require [{"name": "value"}] format, not plain arrays
+- None values must be stripped before sending to Airtable API (some field types reject null)
+
+**Codebase facts discovered:**
+- Still no CI configured (gh run list returns empty)
+- Config via env vars: AIRTABLE_API_KEY, AIRTABLE_BASE_ID, AIRTABLE_JOBS_TABLE_ID, AIRTABLE_ORGS_TABLE_ID
+- Airtable free tier: 1000 records across all tables
+
+**What's left for issue #4:**
+- Airtable credentials need to be configured for Tier 2 integration tests
+- Linked records (Jobs → Organizations relationship) not yet implemented (requires Airtable record IDs)
+- curated.json doesn't exist yet (depends on issue #6 Data Quality Review)
+- May need to test with real Airtable base to verify field type compatibility

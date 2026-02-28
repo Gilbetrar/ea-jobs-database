@@ -1,0 +1,32 @@
+{
+  "id": "the-broad-institute-sabeti-lab--operations-specialist--2026-01",
+  "title": "Operations Specialist",
+  "organization": "the-broad-institute-sabeti-lab",
+  "source": "80k-hours",
+  "source_url": "https://broadinstitute.avature.net/en_US/careers/JobDetail/Operations-Specialist-II-Sabeti-Lab/21193",
+  "jd_file": "data/jds/the-broad-institute-sabeti-lab--operations-specialist--2026-01.md",
+  "location": {
+    "type": "onsite",
+    "cities": [
+      "Boston metro area"
+    ]
+  },
+  "salary": {
+    "currency": "USD",
+    "period": "annual",
+    "min": 70000.0,
+    "max": 94000.0
+  },
+  "posted_date": "2026-01-06",
+  "deadline": null,
+  "date_added": "2026-02-28",
+  "tags": [
+    "biosecurity-pandemic-preparedness",
+    "full-time",
+    "operations",
+    "finance"
+  ],
+  "status": "unknown",
+  "confidence": 1.0,
+  "notes": null
+}

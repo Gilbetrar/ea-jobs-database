@@ -1,0 +1,27 @@
+{
+  "id": "saferai--policy-associate--2026-02",
+  "title": "Policy Associate",
+  "organization": "saferai",
+  "source": "80k-hours",
+  "source_url": "https://www.safer-ai.org/jobs/policy-associate",
+  "jd_file": "data/jds/saferai--policy-associate--2026-02.md",
+  "location": {
+    "type": "onsite",
+    "cities": [
+      "Paris, France",
+      "London, UK"
+    ]
+  },
+  "salary": null,
+  "posted_date": "2026-02-03",
+  "deadline": null,
+  "date_added": "2026-02-28",
+  "tags": [
+    "ai-safety-policy",
+    "full-time",
+    "policy"
+  ],
+  "status": "unknown",
+  "confidence": 1.0,
+  "notes": null
+}

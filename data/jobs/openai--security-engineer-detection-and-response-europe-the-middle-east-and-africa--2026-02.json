@@ -1,0 +1,28 @@
+{
+  "id": "openai--security-engineer-detection-and-response-europe-the-middle-east-and-africa--2026-02",
+  "title": "Security Engineer, Detection and Response, Europe, the Middle East and Africa",
+  "organization": "openai",
+  "source": "80k-hours",
+  "source_url": "https://openai.com/careers/security-engineer-detection-and-response-emea-london-uk/",
+  "jd_file": "data/jds/openai--security-engineer-detection-and-response-europe-the-middle-east-and-africa--2026-02.md",
+  "location": {
+    "type": "onsite",
+    "cities": [
+      "London, UK",
+      "Dublin, Ireland"
+    ]
+  },
+  "salary": null,
+  "posted_date": "2026-02-18",
+  "deadline": null,
+  "date_added": "2026-02-28",
+  "tags": [
+    "ai-safety-policy",
+    "full-time",
+    "software-engineering",
+    "information-security"
+  ],
+  "status": "unknown",
+  "confidence": 1.0,
+  "notes": null
+}

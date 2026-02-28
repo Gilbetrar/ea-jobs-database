@@ -1,0 +1,29 @@
+{
+  "id": "aquatic-life-institute--community-specialist-aquatic-animal-alliance--2026-02",
+  "title": "Community Specialist, Aquatic Animal Alliance",
+  "organization": "aquatic-life-institute",
+  "source": "80k-hours",
+  "source_url": "https://www.ali.fish/aaa-community-specialist",
+  "jd_file": "data/jds/aquatic-life-institute--community-specialist-aquatic-animal-alliance--2026-02.md",
+  "location": {
+    "type": "remote"
+  },
+  "salary": {
+    "currency": "USD",
+    "period": "annual",
+    "min": 45000.0,
+    "max": 49999.0
+  },
+  "posted_date": "2026-02-20",
+  "deadline": null,
+  "date_added": "2026-02-28",
+  "tags": [
+    "animal-welfare",
+    "full-time",
+    "outreach",
+    "operations"
+  ],
+  "status": "unknown",
+  "confidence": 1.0,
+  "notes": null
+}

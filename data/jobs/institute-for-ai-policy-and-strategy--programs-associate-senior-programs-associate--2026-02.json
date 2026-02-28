@@ -1,0 +1,31 @@
+{
+  "id": "institute-for-ai-policy-and-strategy--programs-associate-senior-programs-associate--2026-02",
+  "title": "Programs Associate / Senior Programs Associate",
+  "organization": "institute-for-ai-policy-and-strategy",
+  "source": "80k-hours",
+  "source_url": "https://www.iaps.ai/senior-programs-associate",
+  "jd_file": "data/jds/institute-for-ai-policy-and-strategy--programs-associate-senior-programs-associate--2026-02.md",
+  "location": {
+    "type": "remote",
+    "cities": [
+      "Washington, DC metro area"
+    ]
+  },
+  "salary": {
+    "currency": "USD",
+    "period": "annual",
+    "min": 70000.0,
+    "max": 110000.0
+  },
+  "posted_date": "2026-02-16",
+  "deadline": "2026-03-08",
+  "date_added": "2026-02-28",
+  "tags": [
+    "ai-safety-policy",
+    "full-time",
+    "operations"
+  ],
+  "status": "unknown",
+  "confidence": 1.0,
+  "notes": null
+}

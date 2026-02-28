@@ -1,0 +1,28 @@
+{
+  "id": "animal-equality--front-end-developer--2022-01",
+  "title": "Front-End Developer",
+  "organization": "animal-equality",
+  "source": "80k-hours",
+  "source_url": "https://animal-equality.rippling-ats.com/job/974110/front-end-developer",
+  "jd_file": "data/jds/animal-equality--front-end-developer--2022-01.md",
+  "location": {
+    "type": "remote"
+  },
+  "salary": {
+    "currency": "USD",
+    "period": "annual",
+    "min": 70000.0,
+    "max": 80000.0
+  },
+  "posted_date": "2022-01-01",
+  "deadline": null,
+  "date_added": "2026-02-28",
+  "tags": [
+    "animal-welfare",
+    "full-time",
+    "software-engineering"
+  ],
+  "status": "unknown",
+  "confidence": 1.0,
+  "notes": null
+}

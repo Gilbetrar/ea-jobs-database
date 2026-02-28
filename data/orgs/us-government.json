@@ -1,0 +1,14 @@
+{
+  "id": "us-government",
+  "name": "US Government",
+  "aliases": [],
+  "website": "https://www.usa.gov/",
+  "cause_areas": [
+    "AI safety & policy",
+    "Biosecurity & pandemic preparedness",
+    "Nuclear security"
+  ],
+  "hq_location": "Washington, DC metro area, USA",
+  "size_estimate": "101+",
+  "notes": null
+}

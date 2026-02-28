@@ -1,0 +1,24 @@
+{
+  "id": "mercy-for-animals--volunteer--2022-01",
+  "title": "Volunteer",
+  "organization": "mercy-for-animals",
+  "source": "80k-hours",
+  "source_url": "https://mercyforanimals.lat/empleos/",
+  "jd_file": "data/jds/mercy-for-animals--volunteer--2022-01.md",
+  "location": {
+    "type": "remote"
+  },
+  "salary": null,
+  "posted_date": "2022-01-02",
+  "deadline": null,
+  "date_added": "2026-02-28",
+  "tags": [
+    "animal-welfare",
+    "volunteering",
+    "outreach",
+    "operations"
+  ],
+  "status": "unknown",
+  "confidence": 1.0,
+  "notes": null
+}

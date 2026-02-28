@@ -1,0 +1,26 @@
+{
+  "id": "redwood-research--technical-staff--2022-01",
+  "title": "Technical Staff",
+  "organization": "redwood-research",
+  "source": "80k-hours",
+  "source_url": "https://www.redwoodresearch.org/careers",
+  "jd_file": "data/jds/redwood-research--technical-staff--2022-01.md",
+  "location": {
+    "type": "onsite",
+    "cities": [
+      "San Francisco Bay Area"
+    ]
+  },
+  "salary": null,
+  "posted_date": "2022-01-12",
+  "deadline": null,
+  "date_added": "2026-02-28",
+  "tags": [
+    "ai-safety-policy",
+    "full-time",
+    "software-engineering"
+  ],
+  "status": "unknown",
+  "confidence": 1.0,
+  "notes": null
+}

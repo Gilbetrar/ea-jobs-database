@@ -1,0 +1,26 @@
+{
+  "id": "harmony-intelligence--expression-of-interest--2022-01",
+  "title": "Expression of Interest",
+  "organization": "harmony-intelligence",
+  "source": "80k-hours",
+  "source_url": "https://www.harmonyintelligence.com/careers#:~:text=APPLY-,Expression%20of%20interest,-If%20none%20of",
+  "jd_file": "data/jds/harmony-intelligence--expression-of-interest--2022-01.md",
+  "location": {
+    "type": "remote"
+  },
+  "salary": null,
+  "posted_date": "2022-01-05",
+  "deadline": null,
+  "date_added": "2026-02-28",
+  "tags": [
+    "ai-safety-policy",
+    "full-time",
+    "research",
+    "outreach",
+    "operations",
+    "software-engineering"
+  ],
+  "status": "unknown",
+  "confidence": 1.0,
+  "notes": null
+}

@@ -1,0 +1,24 @@
+{
+  "id": "encode--expression-of-interest--2022-01",
+  "title": "Expression of Interest",
+  "organization": "encode",
+  "source": "80k-hours",
+  "source_url": "https://docs.google.com/document/d/1QozUvK_7FpeaJSttdpXhE8h4VIwYxDbwCuHxY76Zafg/edit?tab=t.0",
+  "jd_file": "data/jds/encode--expression-of-interest--2022-01.md",
+  "location": {
+    "type": "remote"
+  },
+  "salary": null,
+  "posted_date": "2022-01-06",
+  "deadline": null,
+  "date_added": "2026-02-28",
+  "tags": [
+    "ai-safety-policy",
+    "volunteering",
+    "policy",
+    "outreach"
+  ],
+  "status": "unknown",
+  "confidence": 1.0,
+  "notes": null
+}

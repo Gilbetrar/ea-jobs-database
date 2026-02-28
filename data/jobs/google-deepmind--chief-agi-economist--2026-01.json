@@ -1,0 +1,27 @@
+{
+  "id": "google-deepmind--chief-agi-economist--2026-01",
+  "title": "Chief AGI Economist",
+  "organization": "google-deepmind",
+  "source": "80k-hours",
+  "source_url": "https://job-boards.greenhouse.io/deepmind/jobs/7556396",
+  "jd_file": "data/jds/google-deepmind--chief-agi-economist--2026-01.md",
+  "location": {
+    "type": "onsite",
+    "cities": [
+      "London, UK"
+    ]
+  },
+  "salary": null,
+  "posted_date": "2026-01-27",
+  "deadline": null,
+  "date_added": "2026-02-28",
+  "tags": [
+    "ai-safety-policy",
+    "full-time",
+    "research",
+    "management"
+  ],
+  "status": "unknown",
+  "confidence": 1.0,
+  "notes": null
+}

@@ -1,0 +1,12 @@
+{
+  "id": "talos-network",
+  "name": "Talos Network",
+  "aliases": [],
+  "website": "https://www.talosnetwork.org/",
+  "cause_areas": [
+    "AI safety & policy"
+  ],
+  "hq_location": "Brussels, Belgium",
+  "size_estimate": "1-10",
+  "notes": null
+}

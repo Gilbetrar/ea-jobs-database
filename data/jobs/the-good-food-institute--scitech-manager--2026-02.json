@@ -1,0 +1,32 @@
+{
+  "id": "the-good-food-institute--scitech-manager--2026-02",
+  "title": "SciTech Manager",
+  "organization": "the-good-food-institute",
+  "source": "80k-hours",
+  "source_url": "https://gfi.org/resource/scitech-manager/",
+  "jd_file": "data/jds/the-good-food-institute--scitech-manager--2026-02.md",
+  "location": {
+    "type": "onsite",
+    "cities": [
+      "Beijing, China"
+    ]
+  },
+  "salary": {
+    "currency": "USD",
+    "period": "annual",
+    "min": 540000.0,
+    "max": 720000.0
+  },
+  "posted_date": "2026-02-04",
+  "deadline": "2026-03-01",
+  "date_added": "2026-02-28",
+  "tags": [
+    "animal-welfare",
+    "full-time",
+    "research",
+    "strategy"
+  ],
+  "status": "unknown",
+  "confidence": 1.0,
+  "notes": null
+}

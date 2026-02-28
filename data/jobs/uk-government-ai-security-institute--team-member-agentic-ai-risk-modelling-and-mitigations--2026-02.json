@@ -1,0 +1,33 @@
+{
+  "id": "uk-government-ai-security-institute--team-member-agentic-ai-risk-modelling-and-mitigations--2026-02",
+  "title": "Team Member, Agentic AI Risk Modelling and Mitigations",
+  "organization": "uk-government-ai-security-institute",
+  "source": "80k-hours",
+  "source_url": "https://job-boards.eu.greenhouse.io/aisi/jobs/4778107101",
+  "jd_file": "data/jds/uk-government-ai-security-institute--team-member-agentic-ai-risk-modelling-and-mitigations--2026-02.md",
+  "location": {
+    "type": "onsite",
+    "cities": [
+      "London, UK"
+    ]
+  },
+  "salary": {
+    "currency": "GBP",
+    "period": "annual",
+    "min": 65000.0,
+    "max": 145000.0
+  },
+  "posted_date": "2026-02-13",
+  "deadline": "2026-03-08",
+  "date_added": "2026-02-28",
+  "tags": [
+    "ai-safety-policy",
+    "full-time",
+    "research",
+    "policy",
+    "information-security"
+  ],
+  "status": "unknown",
+  "confidence": 1.0,
+  "notes": null
+}

@@ -1,0 +1,28 @@
+{
+  "id": "centre-for-effective-altruism--senior-associate-executive-office--2026-02",
+  "title": "Senior Associate, Executive Office",
+  "organization": "centre-for-effective-altruism",
+  "source": "80k-hours",
+  "source_url": "https://www.centreforeffectivealtruism.org/careers?ashby_jid=e91ac0cc-df82-4f1a-ba75-13ab23cc9824",
+  "jd_file": "data/jds/centre-for-effective-altruism--senior-associate-executive-office--2026-02.md",
+  "location": {
+    "type": "remote"
+  },
+  "salary": {
+    "currency": "GBP",
+    "period": "annual",
+    "min": 90026.0,
+    "max": 54159.0
+  },
+  "posted_date": "2026-02-13",
+  "deadline": "2026-03-05",
+  "date_added": "2026-02-28",
+  "tags": [
+    "building-effective-altruism",
+    "full-time",
+    "operations"
+  ],
+  "status": "unknown",
+  "confidence": 1.0,
+  "notes": null
+}

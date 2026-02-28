@@ -1,0 +1,27 @@
+{
+  "id": "irregular--cyber-researcher--2022-01",
+  "title": "Cyber Researcher",
+  "organization": "irregular",
+  "source": "80k-hours",
+  "source_url": "https://jobs.ashbyhq.com/Irregular/7a9dde60-14ab-4296-b355-63f2564263e0?embed=js",
+  "jd_file": "data/jds/irregular--cyber-researcher--2022-01.md",
+  "location": {
+    "type": "onsite",
+    "cities": [
+      "Tel Aviv, Israel"
+    ]
+  },
+  "salary": null,
+  "posted_date": "2022-01-05",
+  "deadline": null,
+  "date_added": "2026-02-28",
+  "tags": [
+    "ai-safety-policy",
+    "full-time",
+    "research",
+    "information-security"
+  ],
+  "status": "unknown",
+  "confidence": 1.0,
+  "notes": null
+}

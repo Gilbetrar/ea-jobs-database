@@ -1,0 +1,34 @@
+{
+  "id": "lila-sciences--senior-research-scientist-principal-research-scientist-ai-safety-biological-physical-sciences--2026-01",
+  "title": "Senior Research Scientist / Principal Research Scientist, AI Safety, Biological / Physical Sciences",
+  "organization": "lila-sciences",
+  "source": "80k-hours",
+  "source_url": "https://job-boards.greenhouse.io/lilasciences/jobs/4111976009",
+  "jd_file": "data/jds/lila-sciences--senior-research-scientist-principal-research-scientist-ai-safety-biological-physical-sciences--2026-01.md",
+  "location": {
+    "type": "onsite",
+    "cities": [
+      "London, UK",
+      "San Francisco Bay Area",
+      "Boston metro area"
+    ]
+  },
+  "salary": {
+    "currency": "USD",
+    "period": "annual",
+    "min": 268000.0,
+    "max": 384000.0
+  },
+  "posted_date": "2026-01-29",
+  "deadline": null,
+  "date_added": "2026-02-28",
+  "tags": [
+    "ai-safety-policy",
+    "full-time",
+    "research",
+    "strategy"
+  ],
+  "status": "unknown",
+  "confidence": 1.0,
+  "notes": null
+}

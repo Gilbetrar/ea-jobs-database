@@ -1,0 +1,32 @@
+{
+  "id": "active-site--head-of-operations--2026-02",
+  "title": "Head of Operations",
+  "organization": "active-site",
+  "source": "80k-hours",
+  "source_url": "https://jobs.ashbyhq.com/panoplialabs/76cbb5a1-291d-424e-bbb3-fd18ca624a0f",
+  "jd_file": "data/jds/active-site--head-of-operations--2026-02.md",
+  "location": {
+    "type": "onsite",
+    "cities": [
+      "Boston metro area"
+    ]
+  },
+  "salary": {
+    "currency": "USD",
+    "period": "annual",
+    "min": 110000.0,
+    "max": 160000.0
+  },
+  "posted_date": "2026-02-09",
+  "deadline": null,
+  "date_added": "2026-02-28",
+  "tags": [
+    "biosecurity-pandemic-preparedness",
+    "full-time",
+    "operations",
+    "management"
+  ],
+  "status": "unknown",
+  "confidence": 1.0,
+  "notes": null
+}

@@ -1,0 +1,34 @@
+{
+  "id": "openai--security-engineer-detection-and-response-uk--2022-01",
+  "title": "Security Engineer, Detection and Response, UK",
+  "organization": "openai",
+  "source": "80k-hours",
+  "source_url": "https://openai.com/careers/security-engineer-detection-and-response-sydney-australia/",
+  "jd_file": "data/jds/openai--security-engineer-detection-and-response-uk--2022-01.md",
+  "location": {
+    "type": "onsite",
+    "cities": [
+      "Sydney, Australia",
+      "Tokyo, Japan",
+      "Singapore, Singapore"
+    ]
+  },
+  "salary": {
+    "currency": "USD",
+    "period": "annual",
+    "min": 255000.0,
+    "max": 405000.0
+  },
+  "posted_date": "2022-01-11",
+  "deadline": null,
+  "date_added": "2026-02-28",
+  "tags": [
+    "ai-safety-policy",
+    "full-time",
+    "software-engineering",
+    "information-security"
+  ],
+  "status": "unknown",
+  "confidence": 1.0,
+  "notes": null
+}

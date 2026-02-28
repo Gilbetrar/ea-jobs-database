@@ -1,0 +1,29 @@
+{
+  "id": "aquatic-life-institute--policy-and-food-systems-specialist--2026-02",
+  "title": "Policy and Food Systems Specialist",
+  "organization": "aquatic-life-institute",
+  "source": "80k-hours",
+  "source_url": "https://www.ali.fish/policy-food-systems-specialist",
+  "jd_file": "data/jds/aquatic-life-institute--policy-and-food-systems-specialist--2026-02.md",
+  "location": {
+    "type": "remote"
+  },
+  "salary": {
+    "currency": "USD",
+    "period": "annual",
+    "min": 45000.0,
+    "max": 49999.0
+  },
+  "posted_date": "2026-02-20",
+  "deadline": null,
+  "date_added": "2026-02-28",
+  "tags": [
+    "animal-welfare",
+    "full-time",
+    "policy",
+    "outreach"
+  ],
+  "status": "unknown",
+  "confidence": 1.0,
+  "notes": null
+}

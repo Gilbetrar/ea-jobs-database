@@ -1,0 +1,28 @@
+{
+  "id": "omidyar-network--tech-journalism-fund--2026-02",
+  "title": "Tech Journalism Fund",
+  "organization": "omidyar-network",
+  "source": "80k-hours",
+  "source_url": "https://omidyar.com/where-we-focus/tech-journalism-fund/",
+  "jd_file": "data/jds/omidyar-network--tech-journalism-fund--2026-02.md",
+  "location": {
+    "type": "remote"
+  },
+  "salary": {
+    "currency": "USD",
+    "period": "annual",
+    "min": 5000.0,
+    "max": 25000.0
+  },
+  "posted_date": "2026-02-09",
+  "deadline": null,
+  "date_added": "2026-02-28",
+  "tags": [
+    "ai-safety-policy",
+    "funding",
+    "other"
+  ],
+  "status": "unknown",
+  "confidence": 1.0,
+  "notes": null
+}

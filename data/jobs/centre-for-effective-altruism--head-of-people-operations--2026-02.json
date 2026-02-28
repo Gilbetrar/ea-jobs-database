@@ -1,0 +1,29 @@
+{
+  "id": "centre-for-effective-altruism--head-of-people-operations--2026-02",
+  "title": "Head of People Operations",
+  "organization": "centre-for-effective-altruism",
+  "source": "80k-hours",
+  "source_url": "https://www.centreforeffectivealtruism.org/careers?ashby_jid=671c5541-5410-4c4c-9e7f-e53acf90e215",
+  "jd_file": "data/jds/centre-for-effective-altruism--head-of-people-operations--2026-02.md",
+  "location": {
+    "type": "remote"
+  },
+  "salary": {
+    "currency": "GBP",
+    "period": "annual",
+    "min": 157435.0,
+    "max": 94711.0
+  },
+  "posted_date": "2026-02-13",
+  "deadline": null,
+  "date_added": "2026-02-28",
+  "tags": [
+    "building-effective-altruism",
+    "full-time",
+    "operations",
+    "management"
+  ],
+  "status": "unknown",
+  "confidence": 1.0,
+  "notes": null
+}

@@ -1,0 +1,32 @@
+{
+  "id": "us-government-bureau-of-industry-and-security--director-office-of-exporter-services--2026-02",
+  "title": "Director, Office of Exporter Services",
+  "organization": "us-government-bureau-of-industry-and-security",
+  "source": "80k-hours",
+  "source_url": "https://www.usajobs.gov/job/858000100",
+  "jd_file": "data/jds/us-government-bureau-of-industry-and-security--director-office-of-exporter-services--2026-02.md",
+  "location": {
+    "type": "onsite",
+    "cities": [
+      "Washington, DC metro area"
+    ]
+  },
+  "salary": {
+    "currency": "USD",
+    "period": "annual",
+    "min": 151661.0,
+    "max": 228000.0
+  },
+  "posted_date": "2026-02-20",
+  "deadline": "2026-03-04",
+  "date_added": "2026-02-28",
+  "tags": [
+    "other-policy-focused",
+    "full-time",
+    "policy",
+    "management"
+  ],
+  "status": "unknown",
+  "confidence": 1.0,
+  "notes": null
+}

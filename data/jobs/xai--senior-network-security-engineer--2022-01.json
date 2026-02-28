@@ -1,0 +1,32 @@
+{
+  "id": "xai--senior-network-security-engineer--2022-01",
+  "title": "Senior Network Security Engineer",
+  "organization": "xai",
+  "source": "80k-hours",
+  "source_url": "https://job-boards.greenhouse.io/xai/jobs/4800712007",
+  "jd_file": "data/jds/xai--senior-network-security-engineer--2022-01.md",
+  "location": {
+    "type": "onsite",
+    "cities": [
+      "San Francisco Bay Area"
+    ]
+  },
+  "salary": {
+    "currency": "USD",
+    "period": "annual",
+    "min": 180000.0,
+    "max": 440000.0
+  },
+  "posted_date": "2022-01-06",
+  "deadline": null,
+  "date_added": "2026-02-28",
+  "tags": [
+    "ai-safety-policy",
+    "full-time",
+    "software-engineering",
+    "information-security"
+  ],
+  "status": "unknown",
+  "confidence": 1.0,
+  "notes": null
+}

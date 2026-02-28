@@ -1,0 +1,28 @@
+{
+  "id": "survival-and-flourishing--full-stack-software-engineer-s-process--2022-01",
+  "title": "Full-Stack Software Engineer, S-Process",
+  "organization": "survival-and-flourishing",
+  "source": "80k-hours",
+  "source_url": "https://survivalandflourishing.com/full-stack-engineer",
+  "jd_file": "data/jds/survival-and-flourishing--full-stack-software-engineer-s-process--2022-01.md",
+  "location": {
+    "type": "remote"
+  },
+  "salary": {
+    "currency": "USD",
+    "period": "annual",
+    "min": 250000.0,
+    "max": 350000.0
+  },
+  "posted_date": "2022-01-06",
+  "deadline": null,
+  "date_added": "2026-02-28",
+  "tags": [
+    "ai-safety-policy",
+    "full-time",
+    "software-engineering"
+  ],
+  "status": "unknown",
+  "confidence": 1.0,
+  "notes": null
+}

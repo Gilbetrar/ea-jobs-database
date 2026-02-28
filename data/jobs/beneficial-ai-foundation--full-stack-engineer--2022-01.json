@@ -1,0 +1,26 @@
+{
+  "id": "beneficial-ai-foundation--full-stack-engineer--2022-01",
+  "title": "Full-Stack Engineer",
+  "organization": "beneficial-ai-foundation",
+  "source": "80k-hours",
+  "source_url": "https://docs.google.com/forms/d/e/1FAIpQLSdBREOw8eWFcPVsKyaA56UaBDrJlHr_XQ7e6i7V3oQE7JfliQ/viewform",
+  "jd_file": "data/jds/beneficial-ai-foundation--full-stack-engineer--2022-01.md",
+  "location": {
+    "type": "remote",
+    "cities": [
+      "Boston metro area"
+    ]
+  },
+  "salary": null,
+  "posted_date": "2022-01-06",
+  "deadline": null,
+  "date_added": "2026-02-28",
+  "tags": [
+    "ai-safety-policy",
+    "full-time",
+    "software-engineering"
+  ],
+  "status": "unknown",
+  "confidence": 1.0,
+  "notes": null
+}

@@ -1,0 +1,28 @@
+{
+  "id": "anthropic--research-awards-economic-futures-program--2026-02",
+  "title": "Research Awards, Economic Futures Program",
+  "organization": "anthropic",
+  "source": "80k-hours",
+  "source_url": "https://docs.google.com/forms/d/e/1FAIpQLSchDkB0UMUisYZPcL41CVA_fS73RF99jXyJRoumiEEF7_fpJw/viewform",
+  "jd_file": "data/jds/anthropic--research-awards-economic-futures-program--2026-02.md",
+  "location": {
+    "type": "remote"
+  },
+  "salary": {
+    "currency": "USD",
+    "period": "annual",
+    "min": 10000.0,
+    "max": 50000.0
+  },
+  "posted_date": "2026-02-27",
+  "deadline": null,
+  "date_added": "2026-02-28",
+  "tags": [
+    "ai-safety-policy",
+    "funding",
+    "research"
+  ],
+  "status": "unknown",
+  "confidence": 1.0,
+  "notes": null
+}

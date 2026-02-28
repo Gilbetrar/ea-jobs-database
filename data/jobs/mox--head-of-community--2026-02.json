@@ -1,0 +1,31 @@
+{
+  "id": "mox--head-of-community--2026-02",
+  "title": "Head of Community",
+  "organization": "mox",
+  "source": "80k-hours",
+  "source_url": "https://moxsf.notion.site/head-of-community",
+  "jd_file": "data/jds/mox--head-of-community--2026-02.md",
+  "location": {
+    "type": "onsite",
+    "cities": [
+      "San Francisco Bay Area"
+    ]
+  },
+  "salary": {
+    "currency": "USD",
+    "period": "annual",
+    "min": 90000.0,
+    "max": 140000.0
+  },
+  "posted_date": "2026-02-16",
+  "deadline": null,
+  "date_added": "2026-02-28",
+  "tags": [
+    "ai-safety-policy",
+    "full-time",
+    "operations"
+  ],
+  "status": "unknown",
+  "confidence": 1.0,
+  "notes": null
+}

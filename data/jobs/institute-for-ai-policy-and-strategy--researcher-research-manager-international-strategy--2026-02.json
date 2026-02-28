@@ -1,0 +1,34 @@
+{
+  "id": "institute-for-ai-policy-and-strategy--researcher-research-manager-international-strategy--2026-02",
+  "title": "Researcher / Research Manager, International Strategy",
+  "organization": "institute-for-ai-policy-and-strategy",
+  "source": "80k-hours",
+  "source_url": "https://www.iaps.ai/intstrat-rm-researcher",
+  "jd_file": "data/jds/institute-for-ai-policy-and-strategy--researcher-research-manager-international-strategy--2026-02.md",
+  "location": {
+    "type": "remote",
+    "cities": [
+      "London, UK",
+      "Washington, DC metro area",
+      "San Francisco Bay Area"
+    ]
+  },
+  "salary": {
+    "currency": "USD",
+    "period": "annual",
+    "min": 61000.0,
+    "max": 130000.0
+  },
+  "posted_date": "2026-02-20",
+  "deadline": "2026-03-15",
+  "date_added": "2026-02-28",
+  "tags": [
+    "ai-safety-policy",
+    "full-time",
+    "research",
+    "policy"
+  ],
+  "status": "unknown",
+  "confidence": 1.0,
+  "notes": null
+}

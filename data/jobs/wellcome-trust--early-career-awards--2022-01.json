@@ -1,0 +1,28 @@
+{
+  "id": "wellcome-trust--early-career-awards--2022-01",
+  "title": "Early-Career Awards",
+  "organization": "wellcome-trust",
+  "source": "80k-hours",
+  "source_url": "https://wellcome.org/grant-funding/schemes/early-career-awards",
+  "jd_file": "data/jds/wellcome-trust--early-career-awards--2022-01.md",
+  "location": {
+    "type": "remote"
+  },
+  "salary": {
+    "currency": "USD",
+    "period": "annual",
+    "min": 400000.0,
+    "max": 400000.0
+  },
+  "posted_date": "2022-01-02",
+  "deadline": "2026-07-21",
+  "date_added": "2026-02-28",
+  "tags": [
+    "technical",
+    "funding",
+    "research"
+  ],
+  "status": "unknown",
+  "confidence": 1.0,
+  "notes": null
+}

@@ -1,0 +1,29 @@
+{
+  "id": "rethink-wellbeing--executive-and-operations-assistant-ceo-office--2026-02",
+  "title": "Executive and Operations Assistant, CEO Office",
+  "organization": "rethink-wellbeing",
+  "source": "80k-hours",
+  "source_url": "https://forms.gle/3sxtZiSLU4gQZryR7",
+  "jd_file": "data/jds/rethink-wellbeing--executive-and-operations-assistant-ceo-office--2026-02.md",
+  "location": {
+    "type": "remote"
+  },
+  "salary": {
+    "currency": "USD",
+    "period": "monthly",
+    "min": 425.0,
+    "max": 1100.0
+  },
+  "posted_date": "2026-02-18",
+  "deadline": null,
+  "date_added": "2026-02-28",
+  "tags": [
+    "global-health-development",
+    "full-time",
+    "part-time",
+    "operations"
+  ],
+  "status": "unknown",
+  "confidence": 1.0,
+  "notes": null
+}

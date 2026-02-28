@@ -1,0 +1,32 @@
+{
+  "id": "constellation--director-of-site-services--2026-02",
+  "title": "Director of Site Services",
+  "organization": "constellation",
+  "source": "80k-hours",
+  "source_url": "https://constellation.org/careers/director-site-services?hsLang=en",
+  "jd_file": "data/jds/constellation--director-of-site-services--2026-02.md",
+  "location": {
+    "type": "onsite",
+    "cities": [
+      "San Francisco Bay Area"
+    ]
+  },
+  "salary": {
+    "currency": "USD",
+    "period": "annual",
+    "min": 180000.0,
+    "max": 240000.0
+  },
+  "posted_date": "2026-02-03",
+  "deadline": null,
+  "date_added": "2026-02-28",
+  "tags": [
+    "ai-safety-policy",
+    "full-time",
+    "operations",
+    "management"
+  ],
+  "status": "unknown",
+  "confidence": 1.0,
+  "notes": null
+}

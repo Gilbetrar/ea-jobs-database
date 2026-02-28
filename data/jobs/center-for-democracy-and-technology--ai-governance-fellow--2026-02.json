@@ -1,0 +1,32 @@
+{
+  "id": "center-for-democracy-and-technology--ai-governance-fellow--2026-02",
+  "title": "AI Governance Fellow",
+  "organization": "center-for-democracy-and-technology",
+  "source": "80k-hours",
+  "source_url": "https://cdt.org/careers/#op-690357-ai-governance-fellow",
+  "jd_file": "data/jds/center-for-democracy-and-technology--ai-governance-fellow--2026-02.md",
+  "location": {
+    "type": "onsite",
+    "cities": [
+      "Washington, DC metro area"
+    ]
+  },
+  "salary": {
+    "currency": "USD",
+    "period": "annual",
+    "min": 80000.0,
+    "max": 115000.0
+  },
+  "posted_date": "2026-02-24",
+  "deadline": null,
+  "date_added": "2026-02-28",
+  "tags": [
+    "ai-safety-policy",
+    "fellowship",
+    "research",
+    "policy"
+  ],
+  "status": "unknown",
+  "confidence": 1.0,
+  "notes": null
+}

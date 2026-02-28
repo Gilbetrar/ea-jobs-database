@@ -1,0 +1,29 @@
+{
+  "id": "animal-ask--data-analyst--2026-02",
+  "title": "Data Analyst",
+  "organization": "animal-ask",
+  "source": "80k-hours",
+  "source_url": "https://www.animalask.org/data-analyst",
+  "jd_file": "data/jds/animal-ask--data-analyst--2026-02.md",
+  "location": {
+    "type": "remote"
+  },
+  "salary": {
+    "currency": "USD",
+    "period": "annual",
+    "min": 51247.0,
+    "max": 51247.0
+  },
+  "posted_date": "2026-02-26",
+  "deadline": "2026-03-31",
+  "date_added": "2026-02-28",
+  "tags": [
+    "animal-welfare",
+    "full-time",
+    "research",
+    "data"
+  ],
+  "status": "unknown",
+  "confidence": 1.0,
+  "notes": null
+}

@@ -1,0 +1,28 @@
+{
+  "id": "givewell--talent-pool--2022-01",
+  "title": "Talent Pool",
+  "organization": "givewell",
+  "source": "80k-hours",
+  "source_url": "https://job-boards.greenhouse.io/givewell/jobs/4053379008?gh_src=28dfee808us",
+  "jd_file": "data/jds/givewell--talent-pool--2022-01.md",
+  "location": {
+    "type": "onsite",
+    "cities": [
+      "Various, Global"
+    ]
+  },
+  "salary": null,
+  "posted_date": "2022-01-07",
+  "deadline": null,
+  "date_added": "2026-02-28",
+  "tags": [
+    "global-health-development",
+    "full-time",
+    "research",
+    "outreach",
+    "operations"
+  ],
+  "status": "unknown",
+  "confidence": 1.0,
+  "notes": null
+}

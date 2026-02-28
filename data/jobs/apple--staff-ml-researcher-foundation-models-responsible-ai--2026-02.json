@@ -1,0 +1,31 @@
+{
+  "id": "apple--staff-ml-researcher-foundation-models-responsible-ai--2026-02",
+  "title": "Staff ML Researcher, Foundation Models, Responsible AI",
+  "organization": "apple",
+  "source": "80k-hours",
+  "source_url": "https://jobs.apple.com/en-gb/details/200635834-0836/aiml-staff-ml-researcher-in-foundation-models-responsible-ai?team=MLAI",
+  "jd_file": "data/jds/apple--staff-ml-researcher-foundation-models-responsible-ai--2026-02.md",
+  "location": {
+    "type": "onsite",
+    "cities": [
+      "San Francisco Bay Area"
+    ]
+  },
+  "salary": {
+    "currency": "USD",
+    "period": "annual",
+    "min": 212000.0,
+    "max": 386300.0
+  },
+  "posted_date": "2026-02-16",
+  "deadline": null,
+  "date_added": "2026-02-28",
+  "tags": [
+    "ai-safety-policy",
+    "full-time",
+    "research"
+  ],
+  "status": "unknown",
+  "confidence": 1.0,
+  "notes": null
+}

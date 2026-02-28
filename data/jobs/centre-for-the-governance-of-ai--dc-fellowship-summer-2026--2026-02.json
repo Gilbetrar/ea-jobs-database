@@ -1,0 +1,32 @@
+{
+  "id": "centre-for-the-governance-of-ai--dc-fellowship-summer-2026--2026-02",
+  "title": "DC Fellowship (Summer 2026)",
+  "organization": "centre-for-the-governance-of-ai",
+  "source": "80k-hours",
+  "source_url": "https://www.governance.ai/post/dc-summer-fellowship-2026",
+  "jd_file": "data/jds/centre-for-the-governance-of-ai--dc-fellowship-summer-2026--2026-02.md",
+  "location": {
+    "type": "onsite",
+    "cities": [
+      "Washington, DC metro area"
+    ]
+  },
+  "salary": {
+    "currency": "USD",
+    "period": "annual",
+    "min": 21000.0,
+    "max": 21000.0
+  },
+  "posted_date": "2026-02-05",
+  "deadline": "2026-03-01",
+  "date_added": "2026-02-28",
+  "tags": [
+    "ai-safety-policy",
+    "fellowship",
+    "research",
+    "policy"
+  ],
+  "status": "unknown",
+  "confidence": 1.0,
+  "notes": null
+}

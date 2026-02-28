@@ -1,0 +1,27 @@
+{
+  "id": "fifty-years--5050-program--2026-02",
+  "title": "5050 Program",
+  "organization": "fifty-years",
+  "source": "80k-hours",
+  "source_url": "https://fiftyyears.com/5050",
+  "jd_file": "data/jds/fifty-years--5050-program--2026-02.md",
+  "location": {
+    "type": "onsite",
+    "cities": [
+      "San Francisco Bay Area",
+      "Boston metro area"
+    ]
+  },
+  "salary": null,
+  "posted_date": "2026-02-25",
+  "deadline": "2026-04-04",
+  "date_added": "2026-02-28",
+  "tags": [
+    "technical",
+    "other",
+    "strategy"
+  ],
+  "status": "unknown",
+  "confidence": 1.0,
+  "notes": null
+}

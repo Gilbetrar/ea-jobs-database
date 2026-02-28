@@ -1,0 +1,26 @@
+{
+  "id": "university-of-chicago-development-innovation-lab--research-assistant--2022-01",
+  "title": "Research Assistant",
+  "organization": "university-of-chicago-development-innovation-lab",
+  "source": "80k-hours",
+  "source_url": "https://dil.uchicago.edu/research-assistant-dil/",
+  "jd_file": "data/jds/university-of-chicago-development-innovation-lab--research-assistant--2022-01.md",
+  "location": {
+    "type": "onsite",
+    "cities": [
+      "Chicago, IL"
+    ]
+  },
+  "salary": null,
+  "posted_date": "2022-01-02",
+  "deadline": null,
+  "date_added": "2026-02-28",
+  "tags": [
+    "technical",
+    "full-time",
+    "research"
+  ],
+  "status": "unknown",
+  "confidence": 1.0,
+  "notes": null
+}

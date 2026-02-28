@@ -1,0 +1,28 @@
+{
+  "id": "blueprint-biosecurity--recruiting-lead--2026-02",
+  "title": "Recruiting Lead",
+  "organization": "blueprint-biosecurity",
+  "source": "80k-hours",
+  "source_url": "https://blueprintbiosecurity.pinpointhq.com/postings/a6ae8be7-1b10-484f-8f1a-ee48e861691e?token=yE6EqppRoLoXt7UxdiF7JxBB",
+  "jd_file": "data/jds/blueprint-biosecurity--recruiting-lead--2026-02.md",
+  "location": {
+    "type": "remote"
+  },
+  "salary": {
+    "currency": "USD",
+    "period": "annual",
+    "min": 115000.0,
+    "max": 150000.0
+  },
+  "posted_date": "2026-02-13",
+  "deadline": null,
+  "date_added": "2026-02-28",
+  "tags": [
+    "biosecurity-pandemic-preparedness",
+    "full-time",
+    "operations"
+  ],
+  "status": "unknown",
+  "confidence": 1.0,
+  "notes": null
+}

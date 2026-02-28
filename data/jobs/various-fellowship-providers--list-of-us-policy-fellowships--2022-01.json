@@ -1,0 +1,26 @@
+{
+  "id": "various-fellowship-providers--list-of-us-policy-fellowships--2022-01",
+  "title": "List of US Policy Fellowships",
+  "organization": "various-fellowship-providers",
+  "source": "80k-hours",
+  "source_url": "https://airtable.com/app3AlIYjrAVYhvIe/shr1dGfy6WQfJ5mei/tblD3ExDW2P8mtVlj",
+  "jd_file": "data/jds/various-fellowship-providers--list-of-us-policy-fellowships--2022-01.md",
+  "location": {
+    "type": "onsite",
+    "cities": [
+      "Various, USA"
+    ]
+  },
+  "salary": null,
+  "posted_date": "2022-01-01",
+  "deadline": null,
+  "date_added": "2026-02-28",
+  "tags": [
+    "other-policy-focused",
+    "fellowship",
+    "policy"
+  ],
+  "status": "unknown",
+  "confidence": 1.0,
+  "notes": null
+}

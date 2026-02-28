@@ -1,0 +1,24 @@
+{
+  "id": "ai-alignment-network--volunteer--2022-01",
+  "title": "Volunteer",
+  "organization": "ai-alignment-network",
+  "source": "80k-hours",
+  "source_url": "https://www.aialign.net/recruit",
+  "jd_file": "data/jds/ai-alignment-network--volunteer--2022-01.md",
+  "location": {
+    "type": "remote"
+  },
+  "salary": null,
+  "posted_date": "2022-01-06",
+  "deadline": null,
+  "date_added": "2026-02-28",
+  "tags": [
+    "ai-safety-policy",
+    "volunteering",
+    "outreach",
+    "operations"
+  ],
+  "status": "unknown",
+  "confidence": 1.0,
+  "notes": null
+}

@@ -1,0 +1,25 @@
+{
+  "id": "shrimp-welfare-project--volunteer-general-application--2022-01",
+  "title": "Volunteer, General Application",
+  "organization": "shrimp-welfare-project",
+  "source": "80k-hours",
+  "source_url": "https://docs.google.com/forms/d/e/1FAIpQLSf1fzJ-a8vsyZcQI46OCTH1l0eMYjM-k2fBndWaySrDq9Defg/viewform",
+  "jd_file": "data/jds/shrimp-welfare-project--volunteer-general-application--2022-01.md",
+  "location": {
+    "type": "remote"
+  },
+  "salary": null,
+  "posted_date": "2022-01-02",
+  "deadline": null,
+  "date_added": "2026-02-28",
+  "tags": [
+    "animal-welfare",
+    "volunteering",
+    "research",
+    "policy",
+    "outreach"
+  ],
+  "status": "unknown",
+  "confidence": 1.0,
+  "notes": null
+}

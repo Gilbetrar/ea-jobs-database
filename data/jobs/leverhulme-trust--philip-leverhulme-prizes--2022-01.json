@@ -1,0 +1,28 @@
+{
+  "id": "leverhulme-trust--philip-leverhulme-prizes--2022-01",
+  "title": "Philip Leverhulme Prizes",
+  "organization": "leverhulme-trust",
+  "source": "80k-hours",
+  "source_url": "https://www.leverhulme.ac.uk/philip-leverhulme-prizes",
+  "jd_file": "data/jds/leverhulme-trust--philip-leverhulme-prizes--2022-01.md",
+  "location": {
+    "type": "remote"
+  },
+  "salary": {
+    "currency": "GBP",
+    "period": "annual",
+    "min": 100000.0,
+    "max": 100000.0
+  },
+  "posted_date": "2022-01-03",
+  "deadline": "2026-05-14",
+  "date_added": "2026-02-28",
+  "tags": [
+    "technical",
+    "funding",
+    "research"
+  ],
+  "status": "unknown",
+  "confidence": 1.0,
+  "notes": null
+}

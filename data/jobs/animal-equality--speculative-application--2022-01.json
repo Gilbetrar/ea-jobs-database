@@ -1,0 +1,24 @@
+{
+  "id": "animal-equality--speculative-application--2022-01",
+  "title": "Speculative Application",
+  "organization": "animal-equality",
+  "source": "80k-hours",
+  "source_url": "https://animal-equality-germany-ev.jobs.personio.de/job/1359239?language=de?language=",
+  "jd_file": "data/jds/animal-equality--speculative-application--2022-01.md",
+  "location": {
+    "type": "remote"
+  },
+  "salary": null,
+  "posted_date": "2022-01-01",
+  "deadline": null,
+  "date_added": "2026-02-28",
+  "tags": [
+    "animal-welfare",
+    "full-time",
+    "outreach",
+    "operations"
+  ],
+  "status": "unknown",
+  "confidence": 1.0,
+  "notes": null
+}

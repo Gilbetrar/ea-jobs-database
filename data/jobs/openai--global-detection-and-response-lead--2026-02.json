@@ -1,0 +1,32 @@
+{
+  "id": "openai--global-detection-and-response-lead--2026-02",
+  "title": "Global Detection and Response Lead",
+  "organization": "openai",
+  "source": "80k-hours",
+  "source_url": "https://openai.com/careers/global-detection-and-response-lead-san-francisco/",
+  "jd_file": "data/jds/openai--global-detection-and-response-lead--2026-02.md",
+  "location": {
+    "type": "onsite",
+    "cities": [
+      "San Francisco Bay Area"
+    ]
+  },
+  "salary": {
+    "currency": "USD",
+    "period": "annual",
+    "min": 347000.0,
+    "max": 490000.0
+  },
+  "posted_date": "2026-02-19",
+  "deadline": null,
+  "date_added": "2026-02-28",
+  "tags": [
+    "ai-safety-policy",
+    "full-time",
+    "information-security",
+    "management"
+  ],
+  "status": "unknown",
+  "confidence": 1.0,
+  "notes": null
+}

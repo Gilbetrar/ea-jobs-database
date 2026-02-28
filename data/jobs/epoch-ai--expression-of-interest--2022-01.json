@@ -1,0 +1,27 @@
+{
+  "id": "epoch-ai--expression-of-interest--2022-01",
+  "title": "Expression of Interest",
+  "organization": "epoch-ai",
+  "source": "80k-hours",
+  "source_url": "https://jobs.lever.co/epoch-ai/137cb0dc-03a6-4747-b9dc-8255194daee2",
+  "jd_file": "data/jds/epoch-ai--expression-of-interest--2022-01.md",
+  "location": {
+    "type": "remote"
+  },
+  "salary": null,
+  "posted_date": "2022-01-11",
+  "deadline": null,
+  "date_added": "2026-02-28",
+  "tags": [
+    "ai-safety-policy",
+    "full-time",
+    "research",
+    "outreach",
+    "operations",
+    "software-engineering",
+    "data"
+  ],
+  "status": "unknown",
+  "confidence": 1.0,
+  "notes": null
+}

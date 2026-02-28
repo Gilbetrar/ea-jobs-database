@@ -1,0 +1,25 @@
+{
+  "id": "the-midas-project--volunteers--2022-01",
+  "title": "Volunteers",
+  "organization": "the-midas-project",
+  "source": "80k-hours",
+  "source_url": "https://www.themidasproject.com/volunteer",
+  "jd_file": "data/jds/the-midas-project--volunteers--2022-01.md",
+  "location": {
+    "type": "remote"
+  },
+  "salary": null,
+  "posted_date": "2022-01-06",
+  "deadline": null,
+  "date_added": "2026-02-28",
+  "tags": [
+    "ai-safety-policy",
+    "volunteering",
+    "research",
+    "outreach",
+    "operations"
+  ],
+  "status": "unknown",
+  "confidence": 1.0,
+  "notes": null
+}

@@ -1,0 +1,28 @@
+{
+  "id": "good-impressions-media--project-manager-animal-welfare--2026-02",
+  "title": "Project Manager, Animal Welfare",
+  "organization": "good-impressions-media",
+  "source": "80k-hours",
+  "source_url": "https://docs.google.com/document/d/1l2DGkABij1qhMVd5A3l9EFjExfJeEpmcDZrW5B-O65Q/edit?tab=t.0#heading=h.fk4t8v84gjcb",
+  "jd_file": "data/jds/good-impressions-media--project-manager-animal-welfare--2026-02.md",
+  "location": {
+    "type": "remote"
+  },
+  "salary": {
+    "currency": "USD",
+    "period": "annual",
+    "min": 80000.0,
+    "max": 100000.0
+  },
+  "posted_date": "2026-02-27",
+  "deadline": "2026-04-06",
+  "date_added": "2026-02-28",
+  "tags": [
+    "animal-welfare",
+    "full-time",
+    "outreach"
+  ],
+  "status": "unknown",
+  "confidence": 1.0,
+  "notes": null
+}

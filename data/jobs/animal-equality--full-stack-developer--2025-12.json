@@ -1,0 +1,23 @@
+{
+  "id": "animal-equality--full-stack-developer--2025-12",
+  "title": "Full Stack Developer",
+  "organization": "animal-equality",
+  "source": "80k-hours",
+  "source_url": "https://igualdadanimal.org/empleo/programador-full-stack/",
+  "jd_file": "data/jds/animal-equality--full-stack-developer--2025-12.md",
+  "location": {
+    "type": "remote"
+  },
+  "salary": null,
+  "posted_date": "2025-12-11",
+  "deadline": null,
+  "date_added": "2026-02-28",
+  "tags": [
+    "animal-welfare",
+    "full-time",
+    "software-engineering"
+  ],
+  "status": "unknown",
+  "confidence": 1.0,
+  "notes": null
+}

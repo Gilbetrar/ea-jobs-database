@@ -1,0 +1,32 @@
+{
+  "id": "anthropic--research-scientist-engineer-honesty--2022-01",
+  "title": "Research Scientist / Engineer, Honesty",
+  "organization": "anthropic",
+  "source": "80k-hours",
+  "source_url": "https://job-boards.greenhouse.io/anthropic/jobs/4532887008",
+  "jd_file": "data/jds/anthropic--research-scientist-engineer-honesty--2022-01.md",
+  "location": {
+    "type": "onsite",
+    "cities": [
+      "San Francisco Bay Area"
+    ]
+  },
+  "salary": {
+    "currency": "USD",
+    "period": "annual",
+    "min": 280000.0,
+    "max": 425000.0
+  },
+  "posted_date": "2022-01-12",
+  "deadline": null,
+  "date_added": "2026-02-28",
+  "tags": [
+    "ai-safety-policy",
+    "full-time",
+    "research",
+    "software-engineering"
+  ],
+  "status": "unknown",
+  "confidence": 1.0,
+  "notes": null
+}

@@ -1,0 +1,28 @@
+{
+  "id": "global-rice-research-foundation--global-rice-leadership-awards--2022-01",
+  "title": "Global Rice Leadership Awards",
+  "organization": "global-rice-research-foundation",
+  "source": "80k-hours",
+  "source_url": "https://ricefound.org/awards/",
+  "jd_file": "data/jds/global-rice-research-foundation--global-rice-leadership-awards--2022-01.md",
+  "location": {
+    "type": "remote"
+  },
+  "salary": {
+    "currency": "USD",
+    "period": "annual",
+    "min": 7500.0,
+    "max": 7500.0
+  },
+  "posted_date": "2022-01-01",
+  "deadline": null,
+  "date_added": "2026-02-28",
+  "tags": [
+    "global-health-development",
+    "funding",
+    "research"
+  ],
+  "status": "unknown",
+  "confidence": 1.0,
+  "notes": null
+}

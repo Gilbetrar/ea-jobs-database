@@ -1,0 +1,34 @@
+{
+  "id": "mitre--cyber-new-professional--2022-01",
+  "title": "Cyber New Professional",
+  "organization": "mitre",
+  "source": "80k-hours",
+  "source_url": "https://careers.mitre.org/us/en/job/R115758/Cyber-New-Professional",
+  "jd_file": "data/jds/mitre--cyber-new-professional--2022-01.md",
+  "location": {
+    "type": "onsite",
+    "cities": [
+      "San Antonio, TX",
+      "Colorado Springs, CO",
+      "Huntsville, AL",
+      "San Diego, CA"
+    ]
+  },
+  "salary": {
+    "currency": "USD",
+    "period": "annual",
+    "min": 83000.0,
+    "max": 125000.0
+  },
+  "posted_date": "2022-01-03",
+  "deadline": null,
+  "date_added": "2026-02-28",
+  "tags": [
+    "technical",
+    "full-time",
+    "information-security"
+  ],
+  "status": "unknown",
+  "confidence": 1.0,
+  "notes": null
+}

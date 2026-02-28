@@ -1,0 +1,31 @@
+{
+  "id": "university-of-washington-institute-for-health-metrics-and-evaluation--postdoctoral-scholar-hiv-tb-and-selected-infectious-diseases--2022-01",
+  "title": "Postdoctoral Scholar, HIV, TB, and Selected Infectious Diseases",
+  "organization": "university-of-washington-institute-for-health-metrics-and-evaluation",
+  "source": "80k-hours",
+  "source_url": "https://www.healthdata.org/about/careers/job-openings/postdoctoral-scholar-institute-health-metrics-and-evaluation-hiv-tb-and",
+  "jd_file": "data/jds/university-of-washington-institute-for-health-metrics-and-evaluation--postdoctoral-scholar-hiv-tb-and-selected-infectious-diseases--2022-01.md",
+  "location": {
+    "type": "onsite",
+    "cities": [
+      "Seattle metro area"
+    ]
+  },
+  "salary": {
+    "currency": "USD",
+    "period": "annual",
+    "min": 81000.0,
+    "max": 91188.0
+  },
+  "posted_date": "2022-01-02",
+  "deadline": null,
+  "date_added": "2026-02-28",
+  "tags": [
+    "global-health-development",
+    "full-time",
+    "research"
+  ],
+  "status": "unknown",
+  "confidence": 1.0,
+  "notes": null
+}

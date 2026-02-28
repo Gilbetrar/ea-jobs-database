@@ -1,0 +1,32 @@
+{
+  "id": "machine-intelligence-research-institute--research-fellow-technical-governance-team--2025-12",
+  "title": "Research Fellow, Technical Governance Team",
+  "organization": "machine-intelligence-research-institute",
+  "source": "80k-hours",
+  "source_url": "https://techgov.intelligence.org/blog/announcing-miri-technical-governance-team-research-fellowship",
+  "jd_file": "data/jds/machine-intelligence-research-institute--research-fellow-technical-governance-team--2025-12.md",
+  "location": {
+    "type": "remote",
+    "cities": [
+      "San Francisco Bay Area"
+    ]
+  },
+  "salary": {
+    "currency": "USD",
+    "period": "annual",
+    "min": 1200.0,
+    "max": 1200.0
+  },
+  "posted_date": "2025-12-18",
+  "deadline": null,
+  "date_added": "2026-02-28",
+  "tags": [
+    "ai-safety-policy",
+    "fellowship",
+    "research",
+    "policy"
+  ],
+  "status": "unknown",
+  "confidence": 1.0,
+  "notes": null
+}

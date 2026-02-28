@@ -1,0 +1,29 @@
+{
+  "id": "openai--security-researcher-trusted-computing-and-cryptography--2022-01",
+  "title": "Security Researcher, Trusted Computing and Cryptography",
+  "organization": "openai",
+  "source": "80k-hours",
+  "source_url": "https://openai.com/careers/security-researcher-trusted-computing-and-cryptography-remote-us/",
+  "jd_file": "data/jds/openai--security-researcher-trusted-computing-and-cryptography--2022-01.md",
+  "location": {
+    "type": "remote"
+  },
+  "salary": {
+    "currency": "USD",
+    "period": "annual",
+    "min": 324000.0,
+    "max": 490000.0
+  },
+  "posted_date": "2022-01-11",
+  "deadline": null,
+  "date_added": "2026-02-28",
+  "tags": [
+    "ai-safety-policy",
+    "full-time",
+    "research",
+    "information-security"
+  ],
+  "status": "unknown",
+  "confidence": 1.0,
+  "notes": null
+}

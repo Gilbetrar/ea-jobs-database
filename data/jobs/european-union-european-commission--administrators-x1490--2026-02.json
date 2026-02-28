@@ -1,0 +1,26 @@
+{
+  "id": "european-union-european-commission--administrators-x1490--2026-02",
+  "title": "Administrators (x1490)",
+  "organization": "european-union-european-commission",
+  "source": "80k-hours",
+  "source_url": "https://eur-lex.europa.eu/eli/C/2026/711/oj",
+  "jd_file": "data/jds/european-union-european-commission--administrators-x1490--2026-02.md",
+  "location": {
+    "type": "onsite",
+    "cities": [
+      "Brussels, Belgium"
+    ]
+  },
+  "salary": null,
+  "posted_date": "2026-02-16",
+  "deadline": "2026-03-10",
+  "date_added": "2026-02-28",
+  "tags": [
+    "other-policy-focused",
+    "full-time",
+    "policy"
+  ],
+  "status": "unknown",
+  "confidence": 1.0,
+  "notes": null
+}

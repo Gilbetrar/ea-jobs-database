@@ -1,0 +1,27 @@
+{
+  "id": "aspen-institute--various-fellowships--2022-01",
+  "title": "Various Fellowships",
+  "organization": "aspen-institute",
+  "source": "80k-hours",
+  "source_url": "https://agln.aspeninstitute.org/fellowships",
+  "jd_file": "data/jds/aspen-institute--various-fellowships--2022-01.md",
+  "location": {
+    "type": "onsite",
+    "cities": [
+      "Washington, DC metro area",
+      "Various, USA"
+    ]
+  },
+  "salary": null,
+  "posted_date": "2022-01-01",
+  "deadline": null,
+  "date_added": "2026-02-28",
+  "tags": [
+    "other-policy-focused",
+    "fellowship",
+    "policy"
+  ],
+  "status": "unknown",
+  "confidence": 1.0,
+  "notes": null
+}

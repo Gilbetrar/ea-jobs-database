@@ -1,0 +1,28 @@
+{
+  "id": "society-for-applied-philosophy--post-doctoral-fellowship-scheme--2026-02",
+  "title": "Post-Doctoral Fellowship Scheme",
+  "organization": "society-for-applied-philosophy",
+  "source": "80k-hours",
+  "source_url": "https://www.appliedphil.org/funding/sap-post-doctoral-fellowship-scheme/",
+  "jd_file": "data/jds/society-for-applied-philosophy--post-doctoral-fellowship-scheme--2026-02.md",
+  "location": {
+    "type": "remote"
+  },
+  "salary": {
+    "currency": "GBP",
+    "period": "annual",
+    "min": 20780.0,
+    "max": 20780.0
+  },
+  "posted_date": "2026-02-18",
+  "deadline": "2026-05-01",
+  "date_added": "2026-02-28",
+  "tags": [
+    "technical",
+    "fellowship",
+    "research"
+  ],
+  "status": "unknown",
+  "confidence": 1.0,
+  "notes": null
+}

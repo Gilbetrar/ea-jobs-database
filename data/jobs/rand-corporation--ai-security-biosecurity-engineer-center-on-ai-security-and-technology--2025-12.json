@@ -1,0 +1,32 @@
+{
+  "id": "rand-corporation--ai-security-biosecurity-engineer-center-on-ai-security-and-technology--2025-12",
+  "title": "AI Security / Biosecurity Engineer, Center on AI, Security, and Technology",
+  "organization": "rand-corporation",
+  "source": "80k-hours",
+  "source_url": "https://rand.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/San-Francisco-CA/AI-Security---Biosecurity-Engineer--RAND-CAST_R3442",
+  "jd_file": "data/jds/rand-corporation--ai-security-biosecurity-engineer-center-on-ai-security-and-technology--2025-12.md",
+  "location": {
+    "type": "remote",
+    "cities": [
+      "Various, USA"
+    ]
+  },
+  "salary": {
+    "currency": "USD",
+    "period": "annual",
+    "min": 118500.0,
+    "max": 261400.0
+  },
+  "posted_date": "2025-12-24",
+  "deadline": null,
+  "date_added": "2026-02-28",
+  "tags": [
+    "ai-safety-policy",
+    "biosecurity-pandemic-preparedness",
+    "full-time",
+    "software-engineering"
+  ],
+  "status": "unknown",
+  "confidence": 1.0,
+  "notes": null
+}

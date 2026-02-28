@@ -1,0 +1,12 @@
+{
+  "id": "google-deepmind",
+  "name": "Google DeepMind",
+  "aliases": [],
+  "website": "https://www.deepmind.com",
+  "cause_areas": [
+    "AI safety & policy"
+  ],
+  "hq_location": "London, UK",
+  "size_estimate": "101+",
+  "notes": null
+}

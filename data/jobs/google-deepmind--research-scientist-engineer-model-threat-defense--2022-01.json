@@ -1,0 +1,33 @@
+{
+  "id": "google-deepmind--research-scientist-engineer-model-threat-defense--2022-01",
+  "title": "Research Scientist / Engineer, Model Threat Defense",
+  "organization": "google-deepmind",
+  "source": "80k-hours",
+  "source_url": "https://job-boards.greenhouse.io/deepmind/jobs/7392971",
+  "jd_file": "data/jds/google-deepmind--research-scientist-engineer-model-threat-defense--2022-01.md",
+  "location": {
+    "type": "onsite",
+    "cities": [
+      "San Francisco Bay Area"
+    ]
+  },
+  "salary": {
+    "currency": "USD",
+    "period": "annual",
+    "min": 166000.0,
+    "max": 244000.0
+  },
+  "posted_date": "2022-01-13",
+  "deadline": null,
+  "date_added": "2026-02-28",
+  "tags": [
+    "ai-safety-policy",
+    "full-time",
+    "research",
+    "software-engineering",
+    "information-security"
+  ],
+  "status": "unknown",
+  "confidence": 1.0,
+  "notes": null
+}

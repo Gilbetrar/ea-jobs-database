@@ -1,0 +1,36 @@
+{
+  "id": "rand-corporation--research-lead-ai-cyber-testing--2022-01",
+  "title": "Research Lead, AI Cyber Testing",
+  "organization": "rand-corporation",
+  "source": "80k-hours",
+  "source_url": "https://rand.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/Washington-DC-DC-Metro-Area/Research-Lead----AI-Cyber-Testing---Evaluation_R3122",
+  "jd_file": "data/jds/rand-corporation--research-lead-ai-cyber-testing--2022-01.md",
+  "location": {
+    "type": "remote",
+    "cities": [
+      "Los Angeles, CA",
+      "Washington, DC metro area",
+      "Pittsburgh, PA",
+      "Boston metro area"
+    ]
+  },
+  "salary": {
+    "currency": "USD",
+    "period": "annual",
+    "min": 137000.0,
+    "max": 246600.0
+  },
+  "posted_date": "2022-01-05",
+  "deadline": null,
+  "date_added": "2026-02-28",
+  "tags": [
+    "ai-safety-policy",
+    "full-time",
+    "research",
+    "software-engineering",
+    "information-security"
+  ],
+  "status": "unknown",
+  "confidence": 1.0,
+  "notes": null
+}

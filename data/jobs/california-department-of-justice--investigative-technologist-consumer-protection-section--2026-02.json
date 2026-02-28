@@ -1,0 +1,35 @@
+{
+  "id": "california-department-of-justice--investigative-technologist-consumer-protection-section--2026-02",
+  "title": "Investigative Technologist, Consumer Protection Section",
+  "organization": "california-department-of-justice",
+  "source": "80k-hours",
+  "source_url": "https://calcareers.ca.gov/CalHrPublic/Jobs/JobPosting.aspx?JobControlId=504604",
+  "jd_file": "data/jds/california-department-of-justice--investigative-technologist-consumer-protection-section--2026-02.md",
+  "location": {
+    "type": "onsite",
+    "cities": [
+      "Los Angeles, CA",
+      "San Francisco Bay Area",
+      "San Diego, CA"
+    ]
+  },
+  "salary": {
+    "currency": "USD",
+    "period": "monthly",
+    "min": 9507.0,
+    "max": 12740.0
+  },
+  "posted_date": "2026-02-27",
+  "deadline": "2026-12-03",
+  "date_added": "2026-02-28",
+  "tags": [
+    "ai-safety-policy",
+    "full-time",
+    "policy",
+    "other",
+    "legal"
+  ],
+  "status": "unknown",
+  "confidence": 1.0,
+  "notes": null
+}

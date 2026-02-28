@@ -1,0 +1,28 @@
+{
+  "id": "schmidt-sciences--request-for-proposal-science-of-trustworthy-ai-2026--2026-02",
+  "title": "Request for Proposal, Science of Trustworthy AI (2026)",
+  "organization": "schmidt-sciences",
+  "source": "80k-hours",
+  "source_url": "https://www.schmidtsciences.org/opportunity/2026-science-of-trustworthy-ai-rfp/",
+  "jd_file": "data/jds/schmidt-sciences--request-for-proposal-science-of-trustworthy-ai-2026--2026-02.md",
+  "location": {
+    "type": "remote"
+  },
+  "salary": {
+    "currency": "USD",
+    "period": "annual",
+    "min": 5000000.0,
+    "max": 5000000.0
+  },
+  "posted_date": "2026-02-20",
+  "deadline": "2026-05-17",
+  "date_added": "2026-02-28",
+  "tags": [
+    "ai-safety-policy",
+    "funding",
+    "research"
+  ],
+  "status": "unknown",
+  "confidence": 1.0,
+  "notes": null
+}

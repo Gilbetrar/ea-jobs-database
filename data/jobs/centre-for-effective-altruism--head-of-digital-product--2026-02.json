@@ -1,0 +1,29 @@
+{
+  "id": "centre-for-effective-altruism--head-of-digital-product--2026-02",
+  "title": "Head of Digital Product",
+  "organization": "centre-for-effective-altruism",
+  "source": "80k-hours",
+  "source_url": "https://www.centreforeffectivealtruism.org/careers?ashby_jid=9fdc59e5-109a-4bc1-9a11-39756b51c878",
+  "jd_file": "data/jds/centre-for-effective-altruism--head-of-digital-product--2026-02.md",
+  "location": {
+    "type": "remote"
+  },
+  "salary": {
+    "currency": "GBP",
+    "period": "annual",
+    "min": 157435.0,
+    "max": 94711.0
+  },
+  "posted_date": "2026-02-13",
+  "deadline": "2026-03-05",
+  "date_added": "2026-02-28",
+  "tags": [
+    "building-effective-altruism",
+    "full-time",
+    "management",
+    "strategy"
+  ],
+  "status": "unknown",
+  "confidence": 1.0,
+  "notes": null
+}

@@ -1,0 +1,33 @@
+{
+  "id": "university-of-washington-institute-for-health-metrics-and-evaluation--project-officer-hiv--2026-02",
+  "title": "Project Officer, HIV",
+  "organization": "university-of-washington-institute-for-health-metrics-and-evaluation",
+  "source": "80k-hours",
+  "source_url": "https://www.healthdata.org/about/careers/job-openings/project-officer-fixed-termtemporary-hiv",
+  "jd_file": "data/jds/university-of-washington-institute-for-health-metrics-and-evaluation--project-officer-hiv--2026-02.md",
+  "location": {
+    "type": "onsite",
+    "cities": [
+      "Seattle metro area"
+    ]
+  },
+  "salary": {
+    "currency": "USD",
+    "period": "annual",
+    "min": 85008.0,
+    "max": 107160.0
+  },
+  "posted_date": "2026-02-24",
+  "deadline": "2026-03-05",
+  "date_added": "2026-02-28",
+  "tags": [
+    "global-health-development",
+    "full-time",
+    "research",
+    "operations",
+    "management"
+  ],
+  "status": "unknown",
+  "confidence": 1.0,
+  "notes": null
+}

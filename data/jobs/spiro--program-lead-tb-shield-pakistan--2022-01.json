@@ -1,0 +1,35 @@
+{
+  "id": "spiro--program-lead-tb-shield-pakistan--2022-01",
+  "title": "Program Lead, TB Shield Pakistan",
+  "organization": "spiro",
+  "source": "80k-hours",
+  "source_url": "https://www.spiro.ngo/join-us",
+  "jd_file": "data/jds/spiro--program-lead-tb-shield-pakistan--2022-01.md",
+  "location": {
+    "type": "onsite",
+    "cities": [
+      "Islamabad, Pakistan",
+      "Lahore, Pakistan",
+      "Karachi, Pakistan"
+    ]
+  },
+  "salary": {
+    "currency": "USD",
+    "period": "annual",
+    "min": 2800000.0,
+    "max": 3500000.0
+  },
+  "posted_date": "2022-01-02",
+  "deadline": "2026-09-08",
+  "date_added": "2026-02-28",
+  "tags": [
+    "global-health-development",
+    "full-time",
+    "operations",
+    "management",
+    "strategy"
+  ],
+  "status": "unknown",
+  "confidence": 1.0,
+  "notes": null
+}

@@ -1,0 +1,24 @@
+{
+  "id": "foresight-institute--foresight-fellowship-2027--2022-01",
+  "title": "Foresight Fellowship (2027)",
+  "organization": "foresight-institute",
+  "source": "80k-hours",
+  "source_url": "https://foresight.org/foresight-fellowships/",
+  "jd_file": "data/jds/foresight-institute--foresight-fellowship-2027--2022-01.md",
+  "location": {
+    "type": "remote"
+  },
+  "salary": null,
+  "posted_date": "2022-01-05",
+  "deadline": "2026-07-31",
+  "date_added": "2026-02-28",
+  "tags": [
+    "ai-safety-policy",
+    "fellowship",
+    "engineering",
+    "research"
+  ],
+  "status": "unknown",
+  "confidence": 1.0,
+  "notes": null
+}

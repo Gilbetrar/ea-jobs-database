@@ -1,0 +1,24 @@
+{
+  "id": "hive--slack-volunteer-roles--2022-01",
+  "title": "Slack Volunteer Roles",
+  "organization": "hive",
+  "source": "80k-hours",
+  "source_url": "https://resources.joinhive.org/volunteer",
+  "jd_file": "data/jds/hive--slack-volunteer-roles--2022-01.md",
+  "location": {
+    "type": "remote"
+  },
+  "salary": null,
+  "posted_date": "2022-01-03",
+  "deadline": null,
+  "date_added": "2026-02-28",
+  "tags": [
+    "animal-welfare",
+    "volunteering",
+    "outreach",
+    "operations"
+  ],
+  "status": "unknown",
+  "confidence": 1.0,
+  "notes": null
+}

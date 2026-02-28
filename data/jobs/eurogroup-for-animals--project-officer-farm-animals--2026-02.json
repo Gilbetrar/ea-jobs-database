@@ -1,0 +1,32 @@
+{
+  "id": "eurogroup-for-animals--project-officer-farm-animals--2026-02",
+  "title": "Project Officer, Farm Animals",
+  "organization": "eurogroup-for-animals",
+  "source": "80k-hours",
+  "source_url": "https://www.eurogroupforanimals.org/who-we-are/jobs/farm-animals-project-officer",
+  "jd_file": "data/jds/eurogroup-for-animals--project-officer-farm-animals--2026-02.md",
+  "location": {
+    "type": "onsite",
+    "cities": [
+      "Brussels, Belgium"
+    ]
+  },
+  "salary": {
+    "currency": "EUR",
+    "period": "monthly",
+    "min": 3282.0,
+    "max": 5082.0
+  },
+  "posted_date": "2026-02-17",
+  "deadline": "2026-03-15",
+  "date_added": "2026-02-28",
+  "tags": [
+    "animal-welfare",
+    "full-time",
+    "policy",
+    "outreach"
+  ],
+  "status": "unknown",
+  "confidence": 1.0,
+  "notes": null
+}

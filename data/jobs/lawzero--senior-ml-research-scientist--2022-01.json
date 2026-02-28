@@ -1,0 +1,27 @@
+{
+  "id": "lawzero--senior-ml-research-scientist--2022-01",
+  "title": "Senior ML Research Scientist",
+  "organization": "lawzero",
+  "source": "80k-hours",
+  "source_url": "https://job-boards.greenhouse.io/lawzero/jobs/4002926009",
+  "jd_file": "data/jds/lawzero--senior-ml-research-scientist--2022-01.md",
+  "location": {
+    "type": "onsite",
+    "cities": [
+      "Montreal, Canada"
+    ]
+  },
+  "salary": null,
+  "posted_date": "2022-01-06",
+  "deadline": null,
+  "date_added": "2026-02-28",
+  "tags": [
+    "ai-safety-policy",
+    "full-time",
+    "research",
+    "software-engineering"
+  ],
+  "status": "unknown",
+  "confidence": 1.0,
+  "notes": null
+}

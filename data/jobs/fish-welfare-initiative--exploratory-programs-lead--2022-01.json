@@ -1,0 +1,33 @@
+{
+  "id": "fish-welfare-initiative--exploratory-programs-lead--2022-01",
+  "title": "Exploratory Programs Lead",
+  "organization": "fish-welfare-initiative",
+  "source": "80k-hours",
+  "source_url": "https://www.fishwelfareinitiative.org/expros-lead",
+  "jd_file": "data/jds/fish-welfare-initiative--exploratory-programs-lead--2022-01.md",
+  "location": {
+    "type": "onsite",
+    "cities": [
+      "Eluru, India"
+    ]
+  },
+  "salary": {
+    "currency": "USD",
+    "period": "annual",
+    "min": 40000.0,
+    "max": 80000.0
+  },
+  "posted_date": "2022-01-01",
+  "deadline": null,
+  "date_added": "2026-02-28",
+  "tags": [
+    "animal-welfare",
+    "full-time",
+    "operations",
+    "management",
+    "strategy"
+  ],
+  "status": "unknown",
+  "confidence": 1.0,
+  "notes": null
+}

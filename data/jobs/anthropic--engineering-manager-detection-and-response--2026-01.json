@@ -1,0 +1,33 @@
+{
+  "id": "anthropic--engineering-manager-detection-and-response--2026-01",
+  "title": "Engineering Manager, Detection and Response",
+  "organization": "anthropic",
+  "source": "80k-hours",
+  "source_url": "https://job-boards.greenhouse.io/anthropic/jobs/5071506008",
+  "jd_file": "data/jds/anthropic--engineering-manager-detection-and-response--2026-01.md",
+  "location": {
+    "type": "onsite",
+    "cities": [
+      "San Francisco Bay Area",
+      "New York, NY"
+    ]
+  },
+  "salary": {
+    "currency": "USD",
+    "period": "annual",
+    "min": 405000.0,
+    "max": 485000.0
+  },
+  "posted_date": "2026-01-16",
+  "deadline": null,
+  "date_added": "2026-02-28",
+  "tags": [
+    "ai-safety-policy",
+    "full-time",
+    "information-security",
+    "management"
+  ],
+  "status": "unknown",
+  "confidence": 1.0,
+  "notes": null
+}

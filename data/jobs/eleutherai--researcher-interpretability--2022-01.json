@@ -1,0 +1,28 @@
+{
+  "id": "eleutherai--researcher-interpretability--2022-01",
+  "title": "Researcher, Interpretability",
+  "organization": "eleutherai",
+  "source": "80k-hours",
+  "source_url": "https://docs.google.com/document/d/1VC3ErFnM5mSu5ZzPrwrurDpxsN5RfYp_mzh3WHI8g4w/mobilebasic",
+  "jd_file": "data/jds/eleutherai--researcher-interpretability--2022-01.md",
+  "location": {
+    "type": "remote"
+  },
+  "salary": {
+    "currency": "USD",
+    "period": "annual",
+    "min": 100000.0,
+    "max": 200000.0
+  },
+  "posted_date": "2022-01-05",
+  "deadline": null,
+  "date_added": "2026-02-28",
+  "tags": [
+    "ai-safety-policy",
+    "full-time",
+    "research"
+  ],
+  "status": "unknown",
+  "confidence": 1.0,
+  "notes": null
+}

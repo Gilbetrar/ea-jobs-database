@@ -1,0 +1,27 @@
+{
+  "id": "anser-us-government-role--biosurveillance-analyst--2026-01",
+  "title": "Biosurveillance Analyst",
+  "organization": "anser-us-government-role",
+  "source": "80k-hours",
+  "source_url": "https://www.anser.org/job/?id=5069169008",
+  "jd_file": "data/jds/anser-us-government-role--biosurveillance-analyst--2026-01.md",
+  "location": {
+    "type": "onsite",
+    "cities": [
+      "Washington, DC metro area"
+    ]
+  },
+  "salary": null,
+  "posted_date": "2026-01-15",
+  "deadline": null,
+  "date_added": "2026-02-28",
+  "tags": [
+    "biosecurity-pandemic-preparedness",
+    "full-time",
+    "research",
+    "policy"
+  ],
+  "status": "unknown",
+  "confidence": 1.0,
+  "notes": null
+}

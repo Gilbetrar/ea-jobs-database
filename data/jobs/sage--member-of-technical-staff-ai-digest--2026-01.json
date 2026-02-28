@@ -1,0 +1,28 @@
+{
+  "id": "sage--member-of-technical-staff-ai-digest--2026-01",
+  "title": "Member of Technical Staff, AI Digest",
+  "organization": "sage",
+  "source": "80k-hours",
+  "source_url": "https://theaidigest.org/hiring",
+  "jd_file": "data/jds/sage--member-of-technical-staff-ai-digest--2026-01.md",
+  "location": {
+    "type": "remote"
+  },
+  "salary": {
+    "currency": "USD",
+    "period": "annual",
+    "min": 150000.0,
+    "max": 200000.0
+  },
+  "posted_date": "2026-01-28",
+  "deadline": null,
+  "date_added": "2026-02-28",
+  "tags": [
+    "ai-safety-policy",
+    "full-time",
+    "software-engineering"
+  ],
+  "status": "unknown",
+  "confidence": 1.0,
+  "notes": null
+}

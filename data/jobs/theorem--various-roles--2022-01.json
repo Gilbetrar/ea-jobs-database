@@ -1,0 +1,33 @@
+{
+  "id": "theorem--various-roles--2022-01",
+  "title": "Various Roles",
+  "organization": "theorem",
+  "source": "80k-hours",
+  "source_url": "https://theorem.dev/careers/",
+  "jd_file": "data/jds/theorem--various-roles--2022-01.md",
+  "location": {
+    "type": "onsite",
+    "cities": [
+      "San Francisco Bay Area"
+    ]
+  },
+  "salary": {
+    "currency": "USD",
+    "period": "annual",
+    "min": 125000.0,
+    "max": 500000.0
+  },
+  "posted_date": "2022-01-01",
+  "deadline": null,
+  "date_added": "2026-02-28",
+  "tags": [
+    "technical",
+    "full-time",
+    "fellowship",
+    "research",
+    "software-engineering"
+  ],
+  "status": "unknown",
+  "confidence": 1.0,
+  "notes": null
+}

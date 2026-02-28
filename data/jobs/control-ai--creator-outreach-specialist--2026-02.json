@@ -1,0 +1,31 @@
+{
+  "id": "control-ai--creator-outreach-specialist--2026-02",
+  "title": "Creator Outreach Specialist",
+  "organization": "control-ai",
+  "source": "80k-hours",
+  "source_url": "https://jobs.eu.lever.co/controlai/9e58f381-34ed-4e65-90e7-8a31e6a2b16b",
+  "jd_file": "data/jds/control-ai--creator-outreach-specialist--2026-02.md",
+  "location": {
+    "type": "onsite",
+    "cities": [
+      "London, UK"
+    ]
+  },
+  "salary": {
+    "currency": "GBP",
+    "period": "annual",
+    "min": 60000.0,
+    "max": 80000.0
+  },
+  "posted_date": "2026-02-16",
+  "deadline": null,
+  "date_added": "2026-02-28",
+  "tags": [
+    "ai-safety-policy",
+    "full-time",
+    "outreach"
+  ],
+  "status": "unknown",
+  "confidence": 1.0,
+  "notes": null
+}

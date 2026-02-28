@@ -1,0 +1,32 @@
+{
+  "id": "goodfire--head-of-engineering-platform--2026-01",
+  "title": "Head of Engineering, Platform",
+  "organization": "goodfire",
+  "source": "80k-hours",
+  "source_url": "https://job-boards.greenhouse.io/goodfire/jobs/5071690008",
+  "jd_file": "data/jds/goodfire--head-of-engineering-platform--2026-01.md",
+  "location": {
+    "type": "onsite",
+    "cities": [
+      "San Francisco Bay Area"
+    ]
+  },
+  "salary": {
+    "currency": "USD",
+    "period": "annual",
+    "min": 300000.0,
+    "max": 450000.0
+  },
+  "posted_date": "2026-01-15",
+  "deadline": null,
+  "date_added": "2026-02-28",
+  "tags": [
+    "ai-safety-policy",
+    "full-time",
+    "software-engineering",
+    "management"
+  ],
+  "status": "unknown",
+  "confidence": 1.0,
+  "notes": null
+}

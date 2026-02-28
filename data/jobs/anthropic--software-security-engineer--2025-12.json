@@ -1,0 +1,32 @@
+{
+  "id": "anthropic--software-security-engineer--2025-12",
+  "title": "Software Security Engineer",
+  "organization": "anthropic",
+  "source": "80k-hours",
+  "source_url": "https://job-boards.greenhouse.io/anthropic/jobs/5022845008",
+  "jd_file": "data/jds/anthropic--software-security-engineer--2025-12.md",
+  "location": {
+    "type": "onsite",
+    "cities": [
+      "London, UK"
+    ]
+  },
+  "salary": {
+    "currency": "GBP",
+    "period": "annual",
+    "min": 240000.0,
+    "max": 325000.0
+  },
+  "posted_date": "2025-12-12",
+  "deadline": null,
+  "date_added": "2026-02-28",
+  "tags": [
+    "ai-safety-policy",
+    "full-time",
+    "software-engineering",
+    "information-security"
+  ],
+  "status": "unknown",
+  "confidence": 1.0,
+  "notes": null
+}

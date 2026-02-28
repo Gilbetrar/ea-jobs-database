@@ -1,0 +1,27 @@
+{
+  "id": "far-ai--research-engineer--2026-01",
+  "title": "Research Engineer",
+  "organization": "far-ai",
+  "source": "80k-hours",
+  "source_url": "https://jobs.ashbyhq.com/far.ai/52e76732-999b-402f-a908-c4e8b3e7714b?embed=js",
+  "jd_file": "data/jds/far-ai--research-engineer--2026-01.md",
+  "location": {
+    "type": "remote",
+    "cities": [
+      "San Francisco Bay Area"
+    ]
+  },
+  "salary": null,
+  "posted_date": "2026-01-21",
+  "deadline": null,
+  "date_added": "2026-02-28",
+  "tags": [
+    "ai-safety-policy",
+    "full-time",
+    "research",
+    "software-engineering"
+  ],
+  "status": "unknown",
+  "confidence": 1.0,
+  "notes": null
+}

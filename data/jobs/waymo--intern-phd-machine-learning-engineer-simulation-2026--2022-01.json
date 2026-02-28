@@ -1,0 +1,27 @@
+{
+  "id": "waymo--intern-phd-machine-learning-engineer-simulation-2026--2022-01",
+  "title": "Intern, PhD, Machine Learning Engineer, Simulation (2026)",
+  "organization": "waymo",
+  "source": "80k-hours",
+  "source_url": "https://careers.withwaymo.com/jobs/2026-intern-phd-machine-learning-engineer-simulation-mountain-view-california-united-states",
+  "jd_file": "data/jds/waymo--intern-phd-machine-learning-engineer-simulation-2026--2022-01.md",
+  "location": {
+    "type": "onsite",
+    "cities": [
+      "San Francisco Bay Area"
+    ]
+  },
+  "salary": null,
+  "posted_date": "2022-01-02",
+  "deadline": null,
+  "date_added": "2026-02-28",
+  "tags": [
+    "technical",
+    "internship",
+    "research",
+    "software-engineering"
+  ],
+  "status": "unknown",
+  "confidence": 1.0,
+  "notes": null
+}

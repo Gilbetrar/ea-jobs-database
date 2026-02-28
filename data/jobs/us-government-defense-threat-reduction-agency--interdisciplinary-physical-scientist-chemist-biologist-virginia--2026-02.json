@@ -1,0 +1,32 @@
+{
+  "id": "us-government-defense-threat-reduction-agency--interdisciplinary-physical-scientist-chemist-biologist-virginia--2026-02",
+  "title": "Interdisciplinary Physical Scientist / Chemist / Biologist, Virginia",
+  "organization": "us-government-defense-threat-reduction-agency",
+  "source": "80k-hours",
+  "source_url": "https://www.usajobs.gov/job/857240900",
+  "jd_file": "data/jds/us-government-defense-threat-reduction-agency--interdisciplinary-physical-scientist-chemist-biologist-virginia--2026-02.md",
+  "location": {
+    "type": "onsite",
+    "cities": [
+      "Fort Belvoir, VA"
+    ]
+  },
+  "salary": {
+    "currency": "USD",
+    "period": "annual",
+    "min": 102415.0,
+    "max": 158322.0
+  },
+  "posted_date": "2026-02-11",
+  "deadline": "2026-03-09",
+  "date_added": "2026-02-28",
+  "tags": [
+    "biosecurity-pandemic-preparedness",
+    "full-time",
+    "research",
+    "policy"
+  ],
+  "status": "unknown",
+  "confidence": 1.0,
+  "notes": null
+}

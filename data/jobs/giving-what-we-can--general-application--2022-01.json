@@ -1,0 +1,28 @@
+{
+  "id": "giving-what-we-can--general-application--2022-01",
+  "title": "General Application",
+  "organization": "giving-what-we-can",
+  "source": "80k-hours",
+  "source_url": "https://airtable.com/appYQIIq3t2Hrq16O/shrW3a9lNXGtFqGpv",
+  "jd_file": "data/jds/giving-what-we-can--general-application--2022-01.md",
+  "location": {
+    "type": "remote"
+  },
+  "salary": null,
+  "posted_date": "2022-01-07",
+  "deadline": null,
+  "date_added": "2026-02-28",
+  "tags": [
+    "building-effective-altruism",
+    "full-time",
+    "research",
+    "policy",
+    "operations",
+    "software-engineering",
+    "management",
+    "finance"
+  ],
+  "status": "unknown",
+  "confidence": 1.0,
+  "notes": null
+}

@@ -1,0 +1,23 @@
+{
+  "id": "talos-network--communications-lead--2026-02",
+  "title": "Communications Lead",
+  "organization": "talos-network",
+  "source": "80k-hours",
+  "source_url": "https://docs.google.com/document/d/1Um1rzkd5SIAQAcHUurRQ6KyfP0wqKNZjlWVD8F2BG7I/edit?usp=sharing",
+  "jd_file": "data/jds/talos-network--communications-lead--2026-02.md",
+  "location": {
+    "type": "remote"
+  },
+  "salary": null,
+  "posted_date": "2026-02-18",
+  "deadline": "2026-03-13",
+  "date_added": "2026-02-28",
+  "tags": [
+    "ai-safety-policy",
+    "full-time",
+    "outreach"
+  ],
+  "status": "unknown",
+  "confidence": 1.0,
+  "notes": null
+}

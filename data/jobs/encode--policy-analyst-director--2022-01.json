@@ -1,0 +1,32 @@
+{
+  "id": "encode--policy-analyst-director--2022-01",
+  "title": "Policy Analyst / Director",
+  "organization": "encode",
+  "source": "80k-hours",
+  "source_url": "https://docs.google.com/document/d/1UxruiF1jo5s956wbyRZp_SNrE1y4SNE0MF3-MkM5sqQ/edit?tab=t.0#heading=h.oqz3pmpx7801",
+  "jd_file": "data/jds/encode--policy-analyst-director--2022-01.md",
+  "location": {
+    "type": "onsite",
+    "cities": [
+      "Washington, DC metro area"
+    ]
+  },
+  "salary": {
+    "currency": "USD",
+    "period": "annual",
+    "min": 110000.0,
+    "max": 110000.0
+  },
+  "posted_date": "2022-01-06",
+  "deadline": null,
+  "date_added": "2026-02-28",
+  "tags": [
+    "ai-safety-policy",
+    "full-time",
+    "research",
+    "policy"
+  ],
+  "status": "unknown",
+  "confidence": 1.0,
+  "notes": null
+}

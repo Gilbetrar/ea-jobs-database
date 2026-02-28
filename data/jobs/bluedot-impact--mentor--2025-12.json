@@ -1,0 +1,28 @@
+{
+  "id": "bluedot-impact--mentor--2025-12",
+  "title": "Mentor",
+  "organization": "bluedot-impact",
+  "source": "80k-hours",
+  "source_url": "https://bluedot.org/join-us/coach?utm_source=80kJB",
+  "jd_file": "data/jds/bluedot-impact--mentor--2025-12.md",
+  "location": {
+    "type": "remote"
+  },
+  "salary": {
+    "currency": "USD",
+    "period": "annual",
+    "min": 250.0,
+    "max": 250.0
+  },
+  "posted_date": "2025-12-30",
+  "deadline": null,
+  "date_added": "2026-02-28",
+  "tags": [
+    "ai-safety-policy",
+    "part-time",
+    "management"
+  ],
+  "status": "unknown",
+  "confidence": 1.0,
+  "notes": null
+}

@@ -1,0 +1,31 @@
+{
+  "id": "richman-law-and-policy--associate-attorney--2022-01",
+  "title": "Associate Attorney",
+  "organization": "richman-law-and-policy",
+  "source": "80k-hours",
+  "source_url": "https://www.richmanlawpolicy.com/jobs/associate-attorney",
+  "jd_file": "data/jds/richman-law-and-policy--associate-attorney--2022-01.md",
+  "location": {
+    "type": "onsite",
+    "cities": [
+      "New York, NY"
+    ]
+  },
+  "salary": {
+    "currency": "USD",
+    "period": "annual",
+    "min": 75000.0,
+    "max": 125000.0
+  },
+  "posted_date": "2022-01-02",
+  "deadline": null,
+  "date_added": "2026-02-28",
+  "tags": [
+    "animal-welfare",
+    "full-time",
+    "legal"
+  ],
+  "status": "unknown",
+  "confidence": 1.0,
+  "notes": null
+}

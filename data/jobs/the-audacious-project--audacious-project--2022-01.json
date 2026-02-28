@@ -1,0 +1,24 @@
+{
+  "id": "the-audacious-project--audacious-project--2022-01",
+  "title": "Audacious Project",
+  "organization": "the-audacious-project",
+  "source": "80k-hours",
+  "source_url": "https://www.audaciousproject.org/apply",
+  "jd_file": "data/jds/the-audacious-project--audacious-project--2022-01.md",
+  "location": {
+    "type": "remote"
+  },
+  "salary": null,
+  "posted_date": "2022-01-01",
+  "deadline": null,
+  "date_added": "2026-02-28",
+  "tags": [
+    "global-health-development",
+    "climate-change",
+    "funding",
+    "other"
+  ],
+  "status": "unknown",
+  "confidence": 1.0,
+  "notes": null
+}

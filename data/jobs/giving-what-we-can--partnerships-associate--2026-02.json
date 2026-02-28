@@ -1,0 +1,28 @@
+{
+  "id": "giving-what-we-can--partnerships-associate--2026-02",
+  "title": "Partnerships Associate",
+  "organization": "giving-what-we-can",
+  "source": "80k-hours",
+  "source_url": "https://www.givingwhatwecan.org/partnerships-associate",
+  "jd_file": "data/jds/giving-what-we-can--partnerships-associate--2026-02.md",
+  "location": {
+    "type": "remote"
+  },
+  "salary": {
+    "currency": "USD",
+    "period": "annual",
+    "min": 75000.0,
+    "max": 75000.0
+  },
+  "posted_date": "2026-02-13",
+  "deadline": "2026-03-08",
+  "date_added": "2026-02-28",
+  "tags": [
+    "building-effective-altruism",
+    "full-time",
+    "outreach"
+  ],
+  "status": "unknown",
+  "confidence": 1.0,
+  "notes": null
+}

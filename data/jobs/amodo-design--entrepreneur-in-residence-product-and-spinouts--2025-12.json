@@ -1,0 +1,31 @@
+{
+  "id": "amodo-design--entrepreneur-in-residence-product-and-spinouts--2025-12",
+  "title": "Entrepreneur in Residence, Product and Spinouts",
+  "organization": "amodo-design",
+  "source": "80k-hours",
+  "source_url": "https://amododesign.com/career/products-spinouts/",
+  "jd_file": "data/jds/amodo-design--entrepreneur-in-residence-product-and-spinouts--2025-12.md",
+  "location": {
+    "type": "remote",
+    "cities": [
+      "Sheffield, UK"
+    ]
+  },
+  "salary": {
+    "currency": "GBP",
+    "period": "annual",
+    "min": 50000.0,
+    "max": 75000.0
+  },
+  "posted_date": "2025-12-29",
+  "deadline": null,
+  "date_added": "2026-02-28",
+  "tags": [
+    "technical",
+    "full-time",
+    "strategy"
+  ],
+  "status": "unknown",
+  "confidence": 1.0,
+  "notes": null
+}

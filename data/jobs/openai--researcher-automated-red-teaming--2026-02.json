@@ -1,0 +1,33 @@
+{
+  "id": "openai--researcher-automated-red-teaming--2026-02",
+  "title": "Researcher, Automated Red Teaming",
+  "organization": "openai",
+  "source": "80k-hours",
+  "source_url": "https://openai.com/careers/researcher-automated-red-teaming-san-francisco/",
+  "jd_file": "data/jds/openai--researcher-automated-red-teaming--2026-02.md",
+  "location": {
+    "type": "onsite",
+    "cities": [
+      "San Francisco Bay Area"
+    ]
+  },
+  "salary": {
+    "currency": "USD",
+    "period": "annual",
+    "min": 295000.0,
+    "max": 445000.0
+  },
+  "posted_date": "2026-02-24",
+  "deadline": null,
+  "date_added": "2026-02-28",
+  "tags": [
+    "ai-safety-policy",
+    "full-time",
+    "research",
+    "software-engineering",
+    "information-security"
+  ],
+  "status": "unknown",
+  "confidence": 1.0,
+  "notes": null
+}

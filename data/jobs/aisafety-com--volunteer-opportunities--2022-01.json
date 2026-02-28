@@ -1,0 +1,25 @@
+{
+  "id": "aisafety-com--volunteer-opportunities--2022-01",
+  "title": "Volunteer Opportunities",
+  "organization": "aisafety-com",
+  "source": "80k-hours",
+  "source_url": "https://www.aisafety.com/projects",
+  "jd_file": "data/jds/aisafety-com--volunteer-opportunities--2022-01.md",
+  "location": {
+    "type": "remote"
+  },
+  "salary": null,
+  "posted_date": "2022-01-06",
+  "deadline": null,
+  "date_added": "2026-02-28",
+  "tags": [
+    "ai-safety-policy",
+    "volunteering",
+    "research",
+    "outreach",
+    "operations"
+  ],
+  "status": "unknown",
+  "confidence": 1.0,
+  "notes": null
+}

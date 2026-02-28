@@ -1,0 +1,28 @@
+{
+  "id": "valthos--software-engineer--2022-01",
+  "title": "Software Engineer",
+  "organization": "valthos",
+  "source": "80k-hours",
+  "source_url": "https://jobs.ashbyhq.com/valthos/58637d53-f949-49fa-b318-88a93635337b",
+  "jd_file": "data/jds/valthos--software-engineer--2022-01.md",
+  "location": {
+    "type": "onsite",
+    "cities": [
+      "New York, NY",
+      "San Francisco Bay Area"
+    ]
+  },
+  "salary": null,
+  "posted_date": "2022-01-07",
+  "deadline": null,
+  "date_added": "2026-02-28",
+  "tags": [
+    "ai-safety-policy",
+    "biosecurity-pandemic-preparedness",
+    "full-time",
+    "software-engineering"
+  ],
+  "status": "unknown",
+  "confidence": 1.0,
+  "notes": null
+}

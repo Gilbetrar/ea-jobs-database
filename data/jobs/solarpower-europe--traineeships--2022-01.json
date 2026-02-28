@@ -1,0 +1,27 @@
+{
+  "id": "solarpower-europe--traineeships--2022-01",
+  "title": "Traineeships",
+  "organization": "solarpower-europe",
+  "source": "80k-hours",
+  "source_url": "https://www.solarpowereurope.org/about/careers/traineeship",
+  "jd_file": "data/jds/solarpower-europe--traineeships--2022-01.md",
+  "location": {
+    "type": "onsite",
+    "cities": [
+      "Brussels, Belgium"
+    ]
+  },
+  "salary": null,
+  "posted_date": "2022-01-02",
+  "deadline": null,
+  "date_added": "2026-02-28",
+  "tags": [
+    "other-policy-focused",
+    "internship",
+    "policy",
+    "outreach"
+  ],
+  "status": "unknown",
+  "confidence": 1.0,
+  "notes": null
+}

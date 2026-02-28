@@ -1,0 +1,25 @@
+{
+  "id": "ea-funds--grant-recipient-animal-welfare--2022-01",
+  "title": "Grant Recipient, Animal Welfare",
+  "organization": "ea-funds",
+  "source": "80k-hours",
+  "source_url": "https://funds.effectivealtruism.org/funds/animal-welfare",
+  "jd_file": "data/jds/ea-funds--grant-recipient-animal-welfare--2022-01.md",
+  "location": {
+    "type": "remote"
+  },
+  "salary": null,
+  "posted_date": "2022-01-01",
+  "deadline": null,
+  "date_added": "2026-02-28",
+  "tags": [
+    "animal-welfare",
+    "funding",
+    "research",
+    "policy",
+    "other"
+  ],
+  "status": "unknown",
+  "confidence": 1.0,
+  "notes": null
+}

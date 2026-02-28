@@ -1,0 +1,32 @@
+{
+  "id": "center-for-ai-safety--program-manager--2026-02",
+  "title": "Program Manager",
+  "organization": "center-for-ai-safety",
+  "source": "80k-hours",
+  "source_url": "https://jobs.lever.co/aisafety/0431d90d-82d9-4f82-b89b-ce51974906e7",
+  "jd_file": "data/jds/center-for-ai-safety--program-manager--2026-02.md",
+  "location": {
+    "type": "onsite",
+    "cities": [
+      "San Francisco Bay Area"
+    ]
+  },
+  "salary": {
+    "currency": "USD",
+    "period": "annual",
+    "min": 110000.0,
+    "max": 150000.0
+  },
+  "posted_date": "2026-02-09",
+  "deadline": null,
+  "date_added": "2026-02-28",
+  "tags": [
+    "ai-safety-policy",
+    "full-time",
+    "operations",
+    "strategy"
+  ],
+  "status": "unknown",
+  "confidence": 1.0,
+  "notes": null
+}

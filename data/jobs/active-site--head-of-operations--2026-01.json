@@ -1,0 +1,33 @@
+{
+  "id": "active-site--head-of-operations--2026-01",
+  "title": "Head of Operations",
+  "organization": "active-site",
+  "source": "80k-hours",
+  "source_url": "https://docs.google.com/document/d/1b55BZq1yvFRIiuqGNng3hKkuWoVa2B2jqughjRIDRmU/edit?tab=t.0#heading=h.6sk1c0wbpmdz",
+  "jd_file": "data/jds/active-site--head-of-operations--2026-01.md",
+  "location": {
+    "type": "onsite",
+    "cities": [
+      "Boston metro area"
+    ]
+  },
+  "salary": {
+    "currency": "USD",
+    "period": "annual",
+    "min": 110000.0,
+    "max": 160000.0
+  },
+  "posted_date": "2026-01-20",
+  "deadline": null,
+  "date_added": "2026-02-28",
+  "tags": [
+    "biosecurity-pandemic-preparedness",
+    "full-time",
+    "operations",
+    "management",
+    "finance"
+  ],
+  "status": "unknown",
+  "confidence": 1.0,
+  "notes": null
+}

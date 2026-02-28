@@ -1,0 +1,24 @@
+{
+  "id": "trajectory-labs--ai-red-teamer--2026-01",
+  "title": "AI Red Teamer",
+  "organization": "trajectory-labs",
+  "source": "80k-hours",
+  "source_url": "https://trajectorylabs.net/careers/ai-red-teamer",
+  "jd_file": "data/jds/trajectory-labs--ai-red-teamer--2026-01.md",
+  "location": {
+    "type": "remote"
+  },
+  "salary": null,
+  "posted_date": "2026-01-30",
+  "deadline": null,
+  "date_added": "2026-02-28",
+  "tags": [
+    "ai-safety-policy",
+    "fellowship",
+    "part-time",
+    "information-security"
+  ],
+  "status": "unknown",
+  "confidence": 1.0,
+  "notes": null
+}

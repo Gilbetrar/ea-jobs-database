@@ -1,0 +1,31 @@
+{
+  "id": "goodfire--forward-deployed-research-scientist-biology--2022-01",
+  "title": "Forward Deployed Research Scientist, Biology",
+  "organization": "goodfire",
+  "source": "80k-hours",
+  "source_url": "https://job-boards.greenhouse.io/goodfire/jobs/4924131008",
+  "jd_file": "data/jds/goodfire--forward-deployed-research-scientist-biology--2022-01.md",
+  "location": {
+    "type": "onsite",
+    "cities": [
+      "San Francisco Bay Area"
+    ]
+  },
+  "salary": {
+    "currency": "USD",
+    "period": "annual",
+    "min": 220000.0,
+    "max": 315000.0
+  },
+  "posted_date": "2022-01-02",
+  "deadline": null,
+  "date_added": "2026-02-28",
+  "tags": [
+    "technical",
+    "full-time",
+    "research"
+  ],
+  "status": "unknown",
+  "confidence": 1.0,
+  "notes": null
+}

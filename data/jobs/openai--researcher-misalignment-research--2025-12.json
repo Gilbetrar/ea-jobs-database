@@ -1,0 +1,31 @@
+{
+  "id": "openai--researcher-misalignment-research--2025-12",
+  "title": "Researcher, Misalignment Research",
+  "organization": "openai",
+  "source": "80k-hours",
+  "source_url": "https://openai.com/careers/researcher-misalignment-research-new-york-city/",
+  "jd_file": "data/jds/openai--researcher-misalignment-research--2025-12.md",
+  "location": {
+    "type": "onsite",
+    "cities": [
+      "New York, NY"
+    ]
+  },
+  "salary": {
+    "currency": "USD",
+    "period": "annual",
+    "min": 380000.0,
+    "max": 460000.0
+  },
+  "posted_date": "2025-12-23",
+  "deadline": null,
+  "date_added": "2026-02-28",
+  "tags": [
+    "ai-safety-policy",
+    "full-time",
+    "research"
+  ],
+  "status": "unknown",
+  "confidence": 1.0,
+  "notes": null
+}

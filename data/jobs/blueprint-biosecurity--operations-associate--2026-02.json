@@ -1,0 +1,28 @@
+{
+  "id": "blueprint-biosecurity--operations-associate--2026-02",
+  "title": "Operations Associate",
+  "organization": "blueprint-biosecurity",
+  "source": "80k-hours",
+  "source_url": "https://blueprintbiosecurity.pinpointhq.com/postings/1f8e3879-ab59-4546-993e-278e705da351?toke[%E2%80%A6]&utm_medium=web_traffic_referral&utm_source=Website",
+  "jd_file": "data/jds/blueprint-biosecurity--operations-associate--2026-02.md",
+  "location": {
+    "type": "remote"
+  },
+  "salary": {
+    "currency": "USD",
+    "period": "annual",
+    "min": 78000.0,
+    "max": 100000.0
+  },
+  "posted_date": "2026-02-10",
+  "deadline": "2026-03-01",
+  "date_added": "2026-02-28",
+  "tags": [
+    "biosecurity-pandemic-preparedness",
+    "full-time",
+    "operations"
+  ],
+  "status": "unknown",
+  "confidence": 1.0,
+  "notes": null
+}

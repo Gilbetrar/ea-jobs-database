@@ -1,0 +1,28 @@
+{
+  "id": "epoch-ai--special-projects-associate--2026-02",
+  "title": "Special Projects Associate",
+  "organization": "epoch-ai",
+  "source": "80k-hours",
+  "source_url": "https://jobs.lever.co/epoch-ai/99d526d1-6b60-4e93-bb31-91000d7ef732",
+  "jd_file": "data/jds/epoch-ai--special-projects-associate--2026-02.md",
+  "location": {
+    "type": "remote"
+  },
+  "salary": {
+    "currency": "USD",
+    "period": "annual",
+    "min": 75000.0,
+    "max": 100000.0
+  },
+  "posted_date": "2026-02-27",
+  "deadline": null,
+  "date_added": "2026-02-28",
+  "tags": [
+    "ai-safety-policy",
+    "full-time",
+    "operations"
+  ],
+  "status": "unknown",
+  "confidence": 1.0,
+  "notes": null
+}

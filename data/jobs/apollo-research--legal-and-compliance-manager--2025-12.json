@@ -1,0 +1,31 @@
+{
+  "id": "apollo-research--legal-and-compliance-manager--2025-12",
+  "title": "Legal and Compliance Manager",
+  "organization": "apollo-research",
+  "source": "80k-hours",
+  "source_url": "https://jobs.lever.co/apolloresearch/ca84c815-fb72-4694-8de8-535899b28c9f?utm_source=80k",
+  "jd_file": "data/jds/apollo-research--legal-and-compliance-manager--2025-12.md",
+  "location": {
+    "type": "onsite",
+    "cities": [
+      "London, UK"
+    ]
+  },
+  "salary": {
+    "currency": "GBP",
+    "period": "annual",
+    "min": 100000.0,
+    "max": 150000.0
+  },
+  "posted_date": "2025-12-11",
+  "deadline": null,
+  "date_added": "2026-02-28",
+  "tags": [
+    "ai-safety-policy",
+    "full-time",
+    "legal"
+  ],
+  "status": "unknown",
+  "confidence": 1.0,
+  "notes": null
+}

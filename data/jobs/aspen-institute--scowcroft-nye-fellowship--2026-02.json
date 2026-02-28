@@ -1,0 +1,27 @@
+{
+  "id": "aspen-institute--scowcroft-nye-fellowship--2026-02",
+  "title": "Scowcroft-Nye Fellowship",
+  "organization": "aspen-institute",
+  "source": "80k-hours",
+  "source_url": "https://aspeninstitute.hrmdirect.com/employment/job-opening.php?req=3627900&req_loc=1209439&&#job",
+  "jd_file": "data/jds/aspen-institute--scowcroft-nye-fellowship--2026-02.md",
+  "location": {
+    "type": "onsite",
+    "cities": [
+      "Washington, DC metro area"
+    ]
+  },
+  "salary": null,
+  "posted_date": "2026-02-05",
+  "deadline": null,
+  "date_added": "2026-02-28",
+  "tags": [
+    "other-policy-focused",
+    "fellowship",
+    "research",
+    "policy"
+  ],
+  "status": "unknown",
+  "confidence": 1.0,
+  "notes": null
+}

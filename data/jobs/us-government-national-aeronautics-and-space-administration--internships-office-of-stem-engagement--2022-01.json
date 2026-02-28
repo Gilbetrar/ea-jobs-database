@@ -1,0 +1,26 @@
+{
+  "id": "us-government-national-aeronautics-and-space-administration--internships-office-of-stem-engagement--2022-01",
+  "title": "Internships, Office of STEM Engagement",
+  "organization": "us-government-national-aeronautics-and-space-administration",
+  "source": "80k-hours",
+  "source_url": "https://www.nasa.gov/learning-resources/internship-programs/",
+  "jd_file": "data/jds/us-government-national-aeronautics-and-space-administration--internships-office-of-stem-engagement--2022-01.md",
+  "location": {
+    "type": "remote"
+  },
+  "salary": null,
+  "posted_date": "2022-01-02",
+  "deadline": "2026-05-22",
+  "date_added": "2026-02-28",
+  "tags": [
+    "technical",
+    "internship",
+    "engineering",
+    "research",
+    "other",
+    "software-engineering"
+  ],
+  "status": "unknown",
+  "confidence": 1.0,
+  "notes": null
+}

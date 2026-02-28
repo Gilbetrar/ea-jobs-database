@@ -1,0 +1,31 @@
+{
+  "id": "apollo-research--software-engineer-full-stack--2022-01",
+  "title": "Software Engineer, Full-Stack",
+  "organization": "apollo-research",
+  "source": "80k-hours",
+  "source_url": "https://jobs.lever.co/apolloresearch/421c9d78-2ca3-4b9e-9e4a-22044d837571?utm_source=80k",
+  "jd_file": "data/jds/apollo-research--software-engineer-full-stack--2022-01.md",
+  "location": {
+    "type": "onsite",
+    "cities": [
+      "London, UK"
+    ]
+  },
+  "salary": {
+    "currency": "GBP",
+    "period": "annual",
+    "min": 100000.0,
+    "max": 200000.0
+  },
+  "posted_date": "2022-01-05",
+  "deadline": null,
+  "date_added": "2026-02-28",
+  "tags": [
+    "ai-safety-policy",
+    "full-time",
+    "software-engineering"
+  ],
+  "status": "unknown",
+  "confidence": 1.0,
+  "notes": null
+}

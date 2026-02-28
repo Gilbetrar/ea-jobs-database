@@ -1,0 +1,31 @@
+{
+  "id": "institute-for-progress--request-for-proposals-the-launch-sequence--2026-01",
+  "title": "Request for Proposals, The Launch Sequence",
+  "organization": "institute-for-progress",
+  "source": "80k-hours",
+  "source_url": "https://ifp.org/rfp-launch/",
+  "jd_file": "data/jds/institute-for-progress--request-for-proposals-the-launch-sequence--2026-01.md",
+  "location": {
+    "type": "remote"
+  },
+  "salary": {
+    "currency": "USD",
+    "period": "annual",
+    "min": 10000.0,
+    "max": 10000.0
+  },
+  "posted_date": "2026-01-27",
+  "deadline": null,
+  "date_added": "2026-02-28",
+  "tags": [
+    "ai-safety-policy",
+    "biosecurity-pandemic-preparedness",
+    "funding",
+    "research",
+    "policy",
+    "strategy"
+  ],
+  "status": "unknown",
+  "confidence": 1.0,
+  "notes": null
+}

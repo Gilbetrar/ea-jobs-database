@@ -1,0 +1,32 @@
+{
+  "id": "active-site--scientist--2026-02",
+  "title": "Scientist",
+  "organization": "active-site",
+  "source": "80k-hours",
+  "source_url": "https://jobs.ashbyhq.com/panoplialabs/30c8b79d-856d-4f47-8255-f96c96cdf524",
+  "jd_file": "data/jds/active-site--scientist--2026-02.md",
+  "location": {
+    "type": "onsite",
+    "cities": [
+      "Boston metro area"
+    ]
+  },
+  "salary": {
+    "currency": "USD",
+    "period": "annual",
+    "min": 100000.0,
+    "max": 130800.0
+  },
+  "posted_date": "2026-02-09",
+  "deadline": null,
+  "date_added": "2026-02-28",
+  "tags": [
+    "biosecurity-pandemic-preparedness",
+    "full-time",
+    "research",
+    "management"
+  ],
+  "status": "unknown",
+  "confidence": 1.0,
+  "notes": null
+}

@@ -1,0 +1,34 @@
+{
+  "id": "uk-government-10-downing-street--no10-innovation-fellowship--2022-01",
+  "title": "No10 Innovation Fellowship",
+  "organization": "uk-government-10-downing-street",
+  "source": "80k-hours",
+  "source_url": "https://no10innovationfellows.campaign.gov.uk/",
+  "jd_file": "data/jds/uk-government-10-downing-street--no10-innovation-fellowship--2022-01.md",
+  "location": {
+    "type": "onsite",
+    "cities": [
+      "Various, UK",
+      "London, UK"
+    ]
+  },
+  "salary": {
+    "currency": "GBP",
+    "period": "annual",
+    "min": 85000.0,
+    "max": 85000.0
+  },
+  "posted_date": "2022-01-01",
+  "deadline": null,
+  "date_added": "2026-02-28",
+  "tags": [
+    "other-policy-focused",
+    "fellowship",
+    "policy",
+    "software-engineering",
+    "data"
+  ],
+  "status": "unknown",
+  "confidence": 1.0,
+  "notes": null
+}

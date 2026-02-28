@@ -1,0 +1,32 @@
+{
+  "id": "apple--research-engineer-ml-safety--2026-01",
+  "title": "Research Engineer, ML Safety",
+  "organization": "apple",
+  "source": "80k-hours",
+  "source_url": "https://jobs.apple.com/en-gb/details/200640076-3577/ml-safety-research-engineer?team=SFTWR",
+  "jd_file": "data/jds/apple--research-engineer-ml-safety--2026-01.md",
+  "location": {
+    "type": "onsite",
+    "cities": [
+      "San Francisco Bay Area"
+    ]
+  },
+  "salary": {
+    "currency": "USD",
+    "period": "annual",
+    "min": 181100.0,
+    "max": 272100.0
+  },
+  "posted_date": "2026-01-13",
+  "deadline": null,
+  "date_added": "2026-02-28",
+  "tags": [
+    "technical",
+    "full-time",
+    "research",
+    "software-engineering"
+  ],
+  "status": "unknown",
+  "confidence": 1.0,
+  "notes": null
+}

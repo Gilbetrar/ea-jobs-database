@@ -1,0 +1,27 @@
+{
+  "id": "various-potential-phd-supervisors--list-of-potential-phd-supervisors-ai-alignment-safety--2022-01",
+  "title": "List of Potential PhD Supervisors, AI Alignment / Safety",
+  "organization": "various-potential-phd-supervisors",
+  "source": "80k-hours",
+  "source_url": "https://airtable.com/app53PsYpHxJW61l3/shr7NG7EmN5On6lQG",
+  "jd_file": "data/jds/various-potential-phd-supervisors--list-of-potential-phd-supervisors-ai-alignment-safety--2022-01.md",
+  "location": {
+    "type": "onsite",
+    "cities": [
+      "Various, USA",
+      "Various, Global"
+    ]
+  },
+  "salary": null,
+  "posted_date": "2022-01-06",
+  "deadline": null,
+  "date_added": "2026-02-28",
+  "tags": [
+    "ai-safety-policy",
+    "full-time",
+    "research"
+  ],
+  "status": "unknown",
+  "confidence": 1.0,
+  "notes": null
+}

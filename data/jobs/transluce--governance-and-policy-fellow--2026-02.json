@@ -1,0 +1,31 @@
+{
+  "id": "transluce--governance-and-policy-fellow--2026-02",
+  "title": "Governance and Policy Fellow",
+  "organization": "transluce",
+  "source": "80k-hours",
+  "source_url": "https://jobs.gem.com/transluce/am9icG9zdDpVz8DJmgMdoy_WaOqlBt2o",
+  "jd_file": "data/jds/transluce--governance-and-policy-fellow--2026-02.md",
+  "location": {
+    "type": "onsite",
+    "cities": [
+      "San Francisco Bay Area"
+    ]
+  },
+  "salary": {
+    "currency": "USD",
+    "period": "annual",
+    "min": 200000.0,
+    "max": 300000.0
+  },
+  "posted_date": "2026-02-02",
+  "deadline": null,
+  "date_added": "2026-02-28",
+  "tags": [
+    "ai-safety-policy",
+    "fellowship",
+    "policy"
+  ],
+  "status": "unknown",
+  "confidence": 1.0,
+  "notes": null
+}

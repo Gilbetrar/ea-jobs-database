@@ -1,0 +1,29 @@
+{
+  "id": "evidence-action--executive-vice-president-global-programs--2026-01",
+  "title": "Executive Vice President, Global Programs",
+  "organization": "evidence-action",
+  "source": "80k-hours",
+  "source_url": "https://apply.workable.com/evidence-action/j/9DA2E93B85/",
+  "jd_file": "data/jds/evidence-action--executive-vice-president-global-programs--2026-01.md",
+  "location": {
+    "type": "remote"
+  },
+  "salary": {
+    "currency": "USD",
+    "period": "annual",
+    "min": 200000.0,
+    "max": 230000.0
+  },
+  "posted_date": "2026-01-13",
+  "deadline": null,
+  "date_added": "2026-02-28",
+  "tags": [
+    "global-health-development",
+    "full-time",
+    "management",
+    "strategy"
+  ],
+  "status": "unknown",
+  "confidence": 1.0,
+  "notes": null
+}

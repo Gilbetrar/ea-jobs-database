@@ -1,0 +1,33 @@
+{
+  "id": "lila-sciences--research-scientist-i-ii-ai-safety-biological-physical-sciences--2026-01",
+  "title": "Research Scientist I / II, AI Safety, Biological / Physical Sciences",
+  "organization": "lila-sciences",
+  "source": "80k-hours",
+  "source_url": "https://job-boards.greenhouse.io/lilasciences/jobs/4111818009",
+  "jd_file": "data/jds/lila-sciences--research-scientist-i-ii-ai-safety-biological-physical-sciences--2026-01.md",
+  "location": {
+    "type": "onsite",
+    "cities": [
+      "London, UK",
+      "San Francisco Bay Area",
+      "Boston metro area"
+    ]
+  },
+  "salary": {
+    "currency": "USD",
+    "period": "annual",
+    "min": 176000.0,
+    "max": 304000.0
+  },
+  "posted_date": "2026-01-29",
+  "deadline": null,
+  "date_added": "2026-02-28",
+  "tags": [
+    "ai-safety-policy",
+    "full-time",
+    "research"
+  ],
+  "status": "unknown",
+  "confidence": 1.0,
+  "notes": null
+}

@@ -1,0 +1,28 @@
+{
+  "id": "foresight-institute--request-for-proposals-ai-safety-grant--2026-01",
+  "title": "Request for Proposals, AI Safety Grant",
+  "organization": "foresight-institute",
+  "source": "80k-hours",
+  "source_url": "https://foresight.org/request-for-proposals/",
+  "jd_file": "data/jds/foresight-institute--request-for-proposals-ai-safety-grant--2026-01.md",
+  "location": {
+    "type": "remote"
+  },
+  "salary": {
+    "currency": "USD",
+    "period": "annual",
+    "min": 10000.0,
+    "max": 10000.0
+  },
+  "posted_date": "2026-01-22",
+  "deadline": null,
+  "date_added": "2026-02-28",
+  "tags": [
+    "ai-safety-policy",
+    "funding",
+    "research"
+  ],
+  "status": "unknown",
+  "confidence": 1.0,
+  "notes": null
+}

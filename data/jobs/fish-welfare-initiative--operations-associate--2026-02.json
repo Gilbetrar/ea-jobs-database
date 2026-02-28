@@ -1,0 +1,29 @@
+{
+  "id": "fish-welfare-initiative--operations-associate--2026-02",
+  "title": "Operations Associate",
+  "organization": "fish-welfare-initiative",
+  "source": "80k-hours",
+  "source_url": "https://www.fishwelfareinitiative.org/ops-associate",
+  "jd_file": "data/jds/fish-welfare-initiative--operations-associate--2026-02.md",
+  "location": {
+    "type": "remote"
+  },
+  "salary": {
+    "currency": "USD",
+    "period": "monthly",
+    "min": 70000.0,
+    "max": 100000.0
+  },
+  "posted_date": "2026-02-02",
+  "deadline": null,
+  "date_added": "2026-02-28",
+  "tags": [
+    "animal-welfare",
+    "full-time",
+    "operations",
+    "finance"
+  ],
+  "status": "unknown",
+  "confidence": 1.0,
+  "notes": null
+}

@@ -1,0 +1,28 @@
+{
+  "id": "against-malaria-foundation--software-engineer--2022-01",
+  "title": "Software Engineer",
+  "organization": "against-malaria-foundation",
+  "source": "80k-hours",
+  "source_url": "https://www.againstmalaria.com/NewsItem.aspx?newsitem=AMF-is-hiring-Software-Engineer-2025",
+  "jd_file": "data/jds/against-malaria-foundation--software-engineer--2022-01.md",
+  "location": {
+    "type": "remote"
+  },
+  "salary": {
+    "currency": "GBP",
+    "period": "annual",
+    "min": 35000.0,
+    "max": 50000.0
+  },
+  "posted_date": "2022-01-08",
+  "deadline": null,
+  "date_added": "2026-02-28",
+  "tags": [
+    "global-health-development",
+    "full-time",
+    "software-engineering"
+  ],
+  "status": "unknown",
+  "confidence": 1.0,
+  "notes": null
+}

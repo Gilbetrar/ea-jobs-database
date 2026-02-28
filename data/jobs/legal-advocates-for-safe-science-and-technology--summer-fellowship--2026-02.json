@@ -1,0 +1,30 @@
+{
+  "id": "legal-advocates-for-safe-science-and-technology--summer-fellowship--2026-02",
+  "title": "Summer Fellowship",
+  "organization": "legal-advocates-for-safe-science-and-technology",
+  "source": "80k-hours",
+  "source_url": "https://lasst.org/2026/01/19/lasst-summer-fellowship/",
+  "jd_file": "data/jds/legal-advocates-for-safe-science-and-technology--summer-fellowship--2026-02.md",
+  "location": {
+    "type": "remote"
+  },
+  "salary": {
+    "currency": "USD",
+    "period": "annual",
+    "min": 60000.0,
+    "max": 60000.0
+  },
+  "posted_date": "2026-02-26",
+  "deadline": "2026-03-01",
+  "date_added": "2026-02-28",
+  "tags": [
+    "ai-safety-policy",
+    "biosecurity-pandemic-preparedness",
+    "fellowship",
+    "policy",
+    "legal"
+  ],
+  "status": "unknown",
+  "confidence": 1.0,
+  "notes": null
+}

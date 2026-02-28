@@ -1,0 +1,29 @@
+{
+  "id": "apollo-research--expression-of-interest--2022-01",
+  "title": "Expression of Interest",
+  "organization": "apollo-research",
+  "source": "80k-hours",
+  "source_url": "https://jobs.lever.co/apolloresearch/a57c6572-8ec5-4887-b1a1-4d8fdb791c69?utm_source=80k",
+  "jd_file": "data/jds/apollo-research--expression-of-interest--2022-01.md",
+  "location": {
+    "type": "onsite",
+    "cities": [
+      "London, UK"
+    ]
+  },
+  "salary": null,
+  "posted_date": "2022-01-05",
+  "deadline": null,
+  "date_added": "2026-02-28",
+  "tags": [
+    "ai-safety-policy",
+    "full-time",
+    "research",
+    "operations",
+    "software-engineering",
+    "management"
+  ],
+  "status": "unknown",
+  "confidence": 1.0,
+  "notes": null
+}

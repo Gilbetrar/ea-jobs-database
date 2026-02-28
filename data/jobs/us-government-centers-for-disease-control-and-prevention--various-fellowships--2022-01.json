@@ -1,0 +1,27 @@
+{
+  "id": "us-government-centers-for-disease-control-and-prevention--various-fellowships--2022-01",
+  "title": "Various Fellowships",
+  "organization": "us-government-centers-for-disease-control-and-prevention",
+  "source": "80k-hours",
+  "source_url": "https://www.cdc.gov/fellowships/index.html",
+  "jd_file": "data/jds/us-government-centers-for-disease-control-and-prevention--various-fellowships--2022-01.md",
+  "location": {
+    "type": "onsite",
+    "cities": [
+      "Various, USA"
+    ]
+  },
+  "salary": null,
+  "posted_date": "2022-01-01",
+  "deadline": null,
+  "date_added": "2026-02-28",
+  "tags": [
+    "other-policy-focused",
+    "fellowship",
+    "research",
+    "policy"
+  ],
+  "status": "unknown",
+  "confidence": 1.0,
+  "notes": null
+}

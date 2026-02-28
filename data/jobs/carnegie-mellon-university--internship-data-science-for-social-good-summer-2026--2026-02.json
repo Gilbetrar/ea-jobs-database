@@ -1,0 +1,27 @@
+{
+  "id": "carnegie-mellon-university--internship-data-science-for-social-good-summer-2026--2026-02",
+  "title": "Internship, Data Science for Social Good (Summer 2026)",
+  "organization": "carnegie-mellon-university",
+  "source": "80k-hours",
+  "source_url": "https://dssgfellowship.org/",
+  "jd_file": "data/jds/carnegie-mellon-university--internship-data-science-for-social-good-summer-2026--2026-02.md",
+  "location": {
+    "type": "onsite",
+    "cities": [
+      "Baltimore metro area"
+    ]
+  },
+  "salary": null,
+  "posted_date": "2026-02-27",
+  "deadline": "2026-03-01",
+  "date_added": "2026-02-28",
+  "tags": [
+    "technical",
+    "internship",
+    "research",
+    "software-engineering"
+  ],
+  "status": "unknown",
+  "confidence": 1.0,
+  "notes": null
+}

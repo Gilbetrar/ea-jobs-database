@@ -1,0 +1,29 @@
+{
+  "id": "animal-outlook--senior-director-legal-advocacy--2026-02",
+  "title": "Senior Director, Legal Advocacy",
+  "organization": "animal-outlook",
+  "source": "80k-hours",
+  "source_url": "https://animaloutlook.org/senior-director-legal-advocacy/",
+  "jd_file": "data/jds/animal-outlook--senior-director-legal-advocacy--2026-02.md",
+  "location": {
+    "type": "remote"
+  },
+  "salary": {
+    "currency": "USD",
+    "period": "annual",
+    "min": 95000.0,
+    "max": 105000.0
+  },
+  "posted_date": "2026-02-13",
+  "deadline": null,
+  "date_added": "2026-02-28",
+  "tags": [
+    "animal-welfare",
+    "full-time",
+    "legal",
+    "management"
+  ],
+  "status": "unknown",
+  "confidence": 1.0,
+  "notes": null
+}

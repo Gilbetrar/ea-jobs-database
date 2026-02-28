@@ -1,0 +1,31 @@
+{
+  "id": "control-ai--media-relations-officer--2026-02",
+  "title": "Media Relations Officer",
+  "organization": "control-ai",
+  "source": "80k-hours",
+  "source_url": "https://jobs.eu.lever.co/controlai/f4843c5a-4bce-4c95-8c52-3f3bb7d27a0d",
+  "jd_file": "data/jds/control-ai--media-relations-officer--2026-02.md",
+  "location": {
+    "type": "onsite",
+    "cities": [
+      "London, UK"
+    ]
+  },
+  "salary": {
+    "currency": "GBP",
+    "period": "annual",
+    "min": 60000.0,
+    "max": 80000.0
+  },
+  "posted_date": "2026-02-16",
+  "deadline": null,
+  "date_added": "2026-02-28",
+  "tags": [
+    "ai-safety-policy",
+    "full-time",
+    "outreach"
+  ],
+  "status": "unknown",
+  "confidence": 1.0,
+  "notes": null
+}

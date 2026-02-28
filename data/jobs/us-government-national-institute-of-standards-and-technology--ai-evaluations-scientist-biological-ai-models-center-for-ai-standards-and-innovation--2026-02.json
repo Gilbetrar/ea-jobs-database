@@ -1,0 +1,33 @@
+{
+  "id": "us-government-national-institute-of-standards-and-technology--ai-evaluations-scientist-biological-ai-models-center-for-ai-standards-and-innovation--2026-02",
+  "title": "AI Evaluations Scientist, Biological AI Models, Center for AI Standards and Innovation",
+  "organization": "us-government-national-institute-of-standards-and-technology",
+  "source": "80k-hours",
+  "source_url": "https://www.usajobs.gov/job/856101000",
+  "jd_file": "data/jds/us-government-national-institute-of-standards-and-technology--ai-evaluations-scientist-biological-ai-models-center-for-ai-standards-and-innovation--2026-02.md",
+  "location": {
+    "type": "onsite",
+    "cities": [
+      "Washington, DC metro area",
+      "San Francisco Bay Area"
+    ]
+  },
+  "salary": {
+    "currency": "USD",
+    "period": "annual",
+    "min": 121785.0,
+    "max": 197200.0
+  },
+  "posted_date": "2026-02-03",
+  "deadline": "2026-03-02",
+  "date_added": "2026-02-28",
+  "tags": [
+    "ai-safety-policy",
+    "biosecurity-pandemic-preparedness",
+    "full-time",
+    "research"
+  ],
+  "status": "unknown",
+  "confidence": 1.0,
+  "notes": null
+}

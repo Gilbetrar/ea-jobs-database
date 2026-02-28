@@ -1,0 +1,32 @@
+{
+  "id": "claryx--computational-biologist--2026-01",
+  "title": "Computational Biologist",
+  "organization": "claryx",
+  "source": "80k-hours",
+  "source_url": "https://static1.squarespace.com/static/68924fd1cb448a62bf39f107/t/69436142fb12c57bdafe518c/1766023490793/Claryx+-+Computational+Biologist+Job+Description+%28Dec-25%29_vF.pdf",
+  "jd_file": "data/jds/claryx--computational-biologist--2026-01.md",
+  "location": {
+    "type": "onsite",
+    "cities": [
+      "New York, NY"
+    ]
+  },
+  "salary": {
+    "currency": "USD",
+    "period": "annual",
+    "min": 90000.0,
+    "max": 110000.0
+  },
+  "posted_date": "2026-01-06",
+  "deadline": null,
+  "date_added": "2026-02-28",
+  "tags": [
+    "biosecurity-pandemic-preparedness",
+    "full-time",
+    "software-engineering",
+    "data"
+  ],
+  "status": "unknown",
+  "confidence": 1.0,
+  "notes": null
+}

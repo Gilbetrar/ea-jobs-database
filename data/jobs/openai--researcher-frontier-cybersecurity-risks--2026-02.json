@@ -1,0 +1,32 @@
+{
+  "id": "openai--researcher-frontier-cybersecurity-risks--2026-02",
+  "title": "Researcher, Frontier Cybersecurity Risks",
+  "organization": "openai",
+  "source": "80k-hours",
+  "source_url": "https://openai.com/careers/researcher-frontier-cybersecurity-risks-san-francisco/",
+  "jd_file": "data/jds/openai--researcher-frontier-cybersecurity-risks--2026-02.md",
+  "location": {
+    "type": "onsite",
+    "cities": [
+      "San Francisco Bay Area"
+    ]
+  },
+  "salary": {
+    "currency": "USD",
+    "period": "annual",
+    "min": 295000.0,
+    "max": 445000.0
+  },
+  "posted_date": "2026-02-20",
+  "deadline": null,
+  "date_added": "2026-02-28",
+  "tags": [
+    "ai-safety-policy",
+    "full-time",
+    "research",
+    "information-security"
+  ],
+  "status": "unknown",
+  "confidence": 1.0,
+  "notes": null
+}

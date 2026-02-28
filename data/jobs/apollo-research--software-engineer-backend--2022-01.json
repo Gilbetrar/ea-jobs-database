@@ -1,0 +1,31 @@
+{
+  "id": "apollo-research--software-engineer-backend--2022-01",
+  "title": "Software Engineer, Backend",
+  "organization": "apollo-research",
+  "source": "80k-hours",
+  "source_url": "https://jobs.lever.co/apolloresearch/604b1964-c746-4b6a-bb7b-0ef9b421950a?utm_source=80k",
+  "jd_file": "data/jds/apollo-research--software-engineer-backend--2022-01.md",
+  "location": {
+    "type": "onsite",
+    "cities": [
+      "London, UK"
+    ]
+  },
+  "salary": {
+    "currency": "GBP",
+    "period": "annual",
+    "min": 100000.0,
+    "max": 200000.0
+  },
+  "posted_date": "2022-01-05",
+  "deadline": null,
+  "date_added": "2026-02-28",
+  "tags": [
+    "ai-safety-policy",
+    "full-time",
+    "software-engineering"
+  ],
+  "status": "unknown",
+  "confidence": 1.0,
+  "notes": null
+}

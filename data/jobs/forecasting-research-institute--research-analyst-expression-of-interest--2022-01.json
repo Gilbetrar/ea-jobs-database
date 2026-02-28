@@ -1,0 +1,28 @@
+{
+  "id": "forecasting-research-institute--research-analyst-expression-of-interest--2022-01",
+  "title": "Research Analyst (Expression of Interest)",
+  "organization": "forecasting-research-institute",
+  "source": "80k-hours",
+  "source_url": "https://forecastingresearch.org/roles/research-analyst",
+  "jd_file": "data/jds/forecasting-research-institute--research-analyst-expression-of-interest--2022-01.md",
+  "location": {
+    "type": "remote"
+  },
+  "salary": {
+    "currency": "USD",
+    "period": "annual",
+    "min": 70000.0,
+    "max": 100000.0
+  },
+  "posted_date": "2022-01-01",
+  "deadline": null,
+  "date_added": "2026-02-28",
+  "tags": [
+    "global-priorities-research",
+    "full-time",
+    "research"
+  ],
+  "status": "unknown",
+  "confidence": 1.0,
+  "notes": null
+}

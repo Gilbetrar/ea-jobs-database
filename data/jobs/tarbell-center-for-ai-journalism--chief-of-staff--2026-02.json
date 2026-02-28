@@ -1,0 +1,32 @@
+{
+  "id": "tarbell-center-for-ai-journalism--chief-of-staff--2026-02",
+  "title": "Chief of Staff",
+  "organization": "tarbell-center-for-ai-journalism",
+  "source": "80k-hours",
+  "source_url": "https://www.tarbellcenter.org/chief-of-staff",
+  "jd_file": "data/jds/tarbell-center-for-ai-journalism--chief-of-staff--2026-02.md",
+  "location": {
+    "type": "onsite",
+    "cities": [
+      "London, UK"
+    ]
+  },
+  "salary": {
+    "currency": "GBP",
+    "period": "annual",
+    "min": 115000.0,
+    "max": 160000.0
+  },
+  "posted_date": "2026-02-09",
+  "deadline": "2026-03-08",
+  "date_added": "2026-02-28",
+  "tags": [
+    "ai-safety-policy",
+    "full-time",
+    "outreach",
+    "operations"
+  ],
+  "status": "unknown",
+  "confidence": 1.0,
+  "notes": null
+}

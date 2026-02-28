@@ -1,0 +1,27 @@
+{
+  "id": "armilla--applied-scientist-ai-risk--2026-01",
+  "title": "Applied Scientist, AI Risk",
+  "organization": "armilla",
+  "source": "80k-hours",
+  "source_url": "https://ats.rippling.com/armilla-ai/jobs/31983626-c38c-4c93-a52c-82c1491f60f7",
+  "jd_file": "data/jds/armilla--applied-scientist-ai-risk--2026-01.md",
+  "location": {
+    "type": "onsite",
+    "cities": [
+      "Toronto, Canada"
+    ]
+  },
+  "salary": null,
+  "posted_date": "2026-01-14",
+  "deadline": null,
+  "date_added": "2026-02-28",
+  "tags": [
+    "ai-safety-policy",
+    "full-time",
+    "research",
+    "software-engineering"
+  ],
+  "status": "unknown",
+  "confidence": 1.0,
+  "notes": null
+}

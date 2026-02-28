@@ -1,0 +1,33 @@
+{
+  "id": "google-deepmind--research-scientist-tech-lead-contextual-security--2026-01",
+  "title": "Research Scientist Tech Lead, Contextual Security",
+  "organization": "google-deepmind",
+  "source": "80k-hours",
+  "source_url": "https://job-boards.greenhouse.io/deepmind/jobs/7477110",
+  "jd_file": "data/jds/google-deepmind--research-scientist-tech-lead-contextual-security--2026-01.md",
+  "location": {
+    "type": "onsite",
+    "cities": [
+      "San Francisco Bay Area",
+      "New York, NY"
+    ]
+  },
+  "salary": {
+    "currency": "USD",
+    "period": "annual",
+    "min": 248000.0,
+    "max": 349000.0
+  },
+  "posted_date": "2026-01-06",
+  "deadline": null,
+  "date_added": "2026-02-28",
+  "tags": [
+    "ai-safety-policy",
+    "full-time",
+    "research",
+    "management"
+  ],
+  "status": "unknown",
+  "confidence": 1.0,
+  "notes": null
+}

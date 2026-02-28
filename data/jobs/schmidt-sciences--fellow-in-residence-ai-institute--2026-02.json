@@ -1,0 +1,32 @@
+{
+  "id": "schmidt-sciences--fellow-in-residence-ai-institute--2026-02",
+  "title": "Fellow in Residence, AI Institute",
+  "organization": "schmidt-sciences",
+  "source": "80k-hours",
+  "source_url": "https://jobs.lever.co/schmidt-entities/c42b4c52-d92a-4bd6-bac6-6b2d94159b35",
+  "jd_file": "data/jds/schmidt-sciences--fellow-in-residence-ai-institute--2026-02.md",
+  "location": {
+    "type": "onsite",
+    "cities": [
+      "New York, NY"
+    ]
+  },
+  "salary": {
+    "currency": "USD",
+    "period": "annual",
+    "min": 150000.0,
+    "max": 150000.0
+  },
+  "posted_date": "2026-02-09",
+  "deadline": null,
+  "date_added": "2026-02-28",
+  "tags": [
+    "ai-safety-policy",
+    "fellowship",
+    "research",
+    "strategy"
+  ],
+  "status": "unknown",
+  "confidence": 1.0,
+  "notes": null
+}

@@ -1,0 +1,23 @@
+{
+  "id": "fp21--fellows--2022-01",
+  "title": "Fellows",
+  "organization": "fp21",
+  "source": "80k-hours",
+  "source_url": "https://drive.google.com/file/d/18G_FSF46BunvO9qYQ1C1qU2RTJr8jOa7/view",
+  "jd_file": "data/jds/fp21--fellows--2022-01.md",
+  "location": {
+    "type": "remote"
+  },
+  "salary": null,
+  "posted_date": "2022-01-01",
+  "deadline": null,
+  "date_added": "2026-02-28",
+  "tags": [
+    "other-policy-focused",
+    "fellowship",
+    "policy"
+  ],
+  "status": "unknown",
+  "confidence": 1.0,
+  "notes": null
+}

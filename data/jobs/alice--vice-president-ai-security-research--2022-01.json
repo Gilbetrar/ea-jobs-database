@@ -1,0 +1,27 @@
+{
+  "id": "alice--vice-president-ai-security-research--2022-01",
+  "title": "Vice President, AI Security Research",
+  "organization": "alice",
+  "source": "80k-hours",
+  "source_url": "https://alice.io/positions/position-CC_B57",
+  "jd_file": "data/jds/alice--vice-president-ai-security-research--2022-01.md",
+  "location": {
+    "type": "onsite",
+    "cities": [
+      "Tel Aviv, Israel"
+    ]
+  },
+  "salary": null,
+  "posted_date": "2022-01-05",
+  "deadline": null,
+  "date_added": "2026-02-28",
+  "tags": [
+    "ai-safety-policy",
+    "full-time",
+    "management",
+    "strategy"
+  ],
+  "status": "unknown",
+  "confidence": 1.0,
+  "notes": null
+}

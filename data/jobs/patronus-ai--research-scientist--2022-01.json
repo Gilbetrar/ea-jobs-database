@@ -1,0 +1,27 @@
+{
+  "id": "patronus-ai--research-scientist--2022-01",
+  "title": "Research Scientist",
+  "organization": "patronus-ai",
+  "source": "80k-hours",
+  "source_url": "https://ats.rippling.com/patronus-ai-jobs/jobs/fcf09b61-62df-4742-972d-f78fb22e26a0",
+  "jd_file": "data/jds/patronus-ai--research-scientist--2022-01.md",
+  "location": {
+    "type": "remote",
+    "cities": [
+      "San Francisco Bay Area",
+      "New York, NY"
+    ]
+  },
+  "salary": null,
+  "posted_date": "2022-01-06",
+  "deadline": null,
+  "date_added": "2026-02-28",
+  "tags": [
+    "ai-safety-policy",
+    "full-time",
+    "research"
+  ],
+  "status": "unknown",
+  "confidence": 1.0,
+  "notes": null
+}

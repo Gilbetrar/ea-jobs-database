@@ -1,0 +1,29 @@
+{
+  "id": "asymmetric-security--founding-engineer--2026-02",
+  "title": "Founding Engineer",
+  "organization": "asymmetric-security",
+  "source": "80k-hours",
+  "source_url": "https://www.asymmetricsecurity.com/careers-listing/founding-engineer",
+  "jd_file": "data/jds/asymmetric-security--founding-engineer--2026-02.md",
+  "location": {
+    "type": "onsite",
+    "cities": [
+      "London, UK",
+      "New York, NY",
+      "San Francisco Bay Area"
+    ]
+  },
+  "salary": null,
+  "posted_date": "2026-02-18",
+  "deadline": null,
+  "date_added": "2026-02-28",
+  "tags": [
+    "ai-safety-policy",
+    "full-time",
+    "software-engineering",
+    "information-security"
+  ],
+  "status": "unknown",
+  "confidence": 1.0,
+  "notes": null
+}

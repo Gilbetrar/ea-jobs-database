@@ -1,0 +1,26 @@
+{
+  "id": "gordian-biotechnology--gordian-apprenticeship--2026-02",
+  "title": "Gordian Apprenticeship",
+  "organization": "gordian-biotechnology",
+  "source": "80k-hours",
+  "source_url": "https://ats.rippling.com/gordian-biotechnology/jobs/6a2b1da0-3345-492c-8a09-8a749490b164",
+  "jd_file": "data/jds/gordian-biotechnology--gordian-apprenticeship--2026-02.md",
+  "location": {
+    "type": "onsite",
+    "cities": [
+      "San Francisco Bay Area"
+    ]
+  },
+  "salary": null,
+  "posted_date": "2026-02-10",
+  "deadline": null,
+  "date_added": "2026-02-28",
+  "tags": [
+    "technical",
+    "internship",
+    "research"
+  ],
+  "status": "unknown",
+  "confidence": 1.0,
+  "notes": null
+}

@@ -1,0 +1,13 @@
+{
+  "id": "rand-corporation",
+  "name": "RAND Corporation",
+  "aliases": [],
+  "website": "https://www.rand.org",
+  "cause_areas": [
+    "AI safety & policy",
+    "Biosecurity & pandemic preparedness"
+  ],
+  "hq_location": "Los Angeles, CA, USA",
+  "size_estimate": "101+",
+  "notes": null
+}

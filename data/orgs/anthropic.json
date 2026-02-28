@@ -1,0 +1,12 @@
+{
+  "id": "anthropic",
+  "name": "Anthropic",
+  "aliases": [],
+  "website": "https://www.anthropic.com/",
+  "cause_areas": [
+    "AI safety & policy"
+  ],
+  "hq_location": "San Francisco Bay Area, USA",
+  "size_estimate": "101+",
+  "notes": null
+}

@@ -1,0 +1,30 @@
+{
+  "id": "blueprint-biosecurity--chief-of-staff-to-the-executive-director--2026-02",
+  "title": "Chief of Staff to the Executive Director",
+  "organization": "blueprint-biosecurity",
+  "source": "80k-hours",
+  "source_url": "https://blueprintbiosecurity.pinpointhq.com/postings/example",
+  "jd_file": "data/jds/blueprint-biosecurity--chief-of-staff-to-the-executive-director--2026-02.md",
+  "location": {
+    "type": "onsite",
+    "cities": [
+      "Washington, DC metro area"
+    ]
+  },
+  "salary": {
+    "currency": "USD",
+    "period": "annual",
+    "min": 140000.0,
+    "max": 170000.0
+  },
+  "posted_date": "2026-02-27",
+  "deadline": "2026-03-20",
+  "tags": [
+    "biosecurity-pandemic-preparedness",
+    "full-time",
+    "operations"
+  ],
+  "status": "unknown",
+  "confidence": 1.0,
+  "notes": null
+}

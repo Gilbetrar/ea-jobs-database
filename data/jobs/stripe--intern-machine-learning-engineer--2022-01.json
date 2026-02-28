@@ -1,0 +1,33 @@
+{
+  "id": "stripe--intern-machine-learning-engineer--2022-01",
+  "title": "Intern, Machine Learning Engineer",
+  "organization": "stripe",
+  "source": "80k-hours",
+  "source_url": "https://stripe.com/jobs/listing/phd-machine-learning-engineer-intern/7216664",
+  "jd_file": "data/jds/stripe--intern-machine-learning-engineer--2022-01.md",
+  "location": {
+    "type": "onsite",
+    "cities": [
+      "San Francisco Bay Area",
+      "New York, NY",
+      "Seattle metro area"
+    ]
+  },
+  "salary": {
+    "currency": "USD",
+    "period": "annual",
+    "min": 123500.0,
+    "max": 161525.0
+  },
+  "posted_date": "2022-01-02",
+  "deadline": null,
+  "date_added": "2026-02-28",
+  "tags": [
+    "technical",
+    "internship",
+    "software-engineering"
+  ],
+  "status": "unknown",
+  "confidence": 1.0,
+  "notes": null
+}

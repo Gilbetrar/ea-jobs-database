@@ -1,0 +1,29 @@
+{
+  "id": "valthos--computational-biologist--2022-01",
+  "title": "Computational Biologist",
+  "organization": "valthos",
+  "source": "80k-hours",
+  "source_url": "https://jobs.ashbyhq.com/valthos/dd6c0d36-e5ae-4ff5-9d5a-34b562a5e694",
+  "jd_file": "data/jds/valthos--computational-biologist--2022-01.md",
+  "location": {
+    "type": "onsite",
+    "cities": [
+      "New York, NY",
+      "San Francisco Bay Area"
+    ]
+  },
+  "salary": null,
+  "posted_date": "2022-01-08",
+  "deadline": null,
+  "date_added": "2026-02-28",
+  "tags": [
+    "ai-safety-policy",
+    "biosecurity-pandemic-preparedness",
+    "full-time",
+    "research",
+    "data"
+  ],
+  "status": "unknown",
+  "confidence": 1.0,
+  "notes": null
+}

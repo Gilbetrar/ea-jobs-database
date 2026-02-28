@@ -1,0 +1,26 @@
+{
+  "id": "securebio--field-sampler--2022-01",
+  "title": "Field Sampler",
+  "organization": "securebio",
+  "source": "80k-hours",
+  "source_url": "https://securebio.org/careers/2025-field-sampler",
+  "jd_file": "data/jds/securebio--field-sampler--2022-01.md",
+  "location": {
+    "type": "onsite",
+    "cities": [
+      "Boston metro area"
+    ]
+  },
+  "salary": null,
+  "posted_date": "2022-01-04",
+  "deadline": null,
+  "date_added": "2026-02-28",
+  "tags": [
+    "biosecurity-pandemic-preparedness",
+    "part-time",
+    "outreach"
+  ],
+  "status": "unknown",
+  "confidence": 1.0,
+  "notes": null
+}

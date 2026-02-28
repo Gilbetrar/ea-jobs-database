@@ -1,0 +1,26 @@
+{
+  "id": "arena--participant-arena-8-0--2026-02",
+  "title": "Participant, ARENA 8.0",
+  "organization": "arena",
+  "source": "80k-hours",
+  "source_url": "https://airtable.com/appZIMMH3ywSxS0A9/pagXbHWPVQfwkGBsp/form",
+  "jd_file": "data/jds/arena--participant-arena-8-0--2026-02.md",
+  "location": {
+    "type": "onsite",
+    "cities": [
+      "London, UK"
+    ]
+  },
+  "salary": null,
+  "posted_date": "2026-02-24",
+  "deadline": "2026-03-08",
+  "date_added": "2026-02-28",
+  "tags": [
+    "ai-safety-policy",
+    "other",
+    "software-engineering"
+  ],
+  "status": "unknown",
+  "confidence": 1.0,
+  "notes": null
+}

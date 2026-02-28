@@ -1,0 +1,32 @@
+{
+  "id": "apollo-research--research-scientist-engineer-evaluations--2026-02",
+  "title": "Research Scientist / Engineer, Evaluations",
+  "organization": "apollo-research",
+  "source": "80k-hours",
+  "source_url": "https://jobs.lever.co/apolloresearch/4a65c6e1-785a-4f88-8998-a97574afb7ee?utm_source=80k",
+  "jd_file": "data/jds/apollo-research--research-scientist-engineer-evaluations--2026-02.md",
+  "location": {
+    "type": "onsite",
+    "cities": [
+      "London, UK"
+    ]
+  },
+  "salary": {
+    "currency": "GBP",
+    "period": "annual",
+    "min": 100000.0,
+    "max": 200000.0
+  },
+  "posted_date": "2026-02-17",
+  "deadline": null,
+  "date_added": "2026-02-28",
+  "tags": [
+    "ai-safety-policy",
+    "full-time",
+    "research",
+    "software-engineering"
+  ],
+  "status": "unknown",
+  "confidence": 1.0,
+  "notes": null
+}

@@ -1,0 +1,26 @@
+{
+  "id": "lakera-ai--staff-ml-engineer--2022-01",
+  "title": "Staff ML Engineer",
+  "organization": "lakera-ai",
+  "source": "80k-hours",
+  "source_url": "https://www.lakera.ai/careers?ashby_jid=6f04a898-893e-439f-8601-c25a30418c13",
+  "jd_file": "data/jds/lakera-ai--staff-ml-engineer--2022-01.md",
+  "location": {
+    "type": "onsite",
+    "cities": [
+      "Zurich, Switzerland"
+    ]
+  },
+  "salary": null,
+  "posted_date": "2022-01-05",
+  "deadline": null,
+  "date_added": "2026-02-28",
+  "tags": [
+    "ai-safety-policy",
+    "full-time",
+    "software-engineering"
+  ],
+  "status": "unknown",
+  "confidence": 1.0,
+  "notes": null
+}

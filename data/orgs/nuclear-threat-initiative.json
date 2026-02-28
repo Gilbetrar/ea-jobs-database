@@ -1,0 +1,13 @@
+{
+  "id": "nuclear-threat-initiative",
+  "name": "Nuclear Threat Initiative",
+  "aliases": [],
+  "website": "https://www.nti.org",
+  "cause_areas": [
+    "Biosecurity & pandemic preparedness",
+    "Nuclear security"
+  ],
+  "hq_location": "Washington, DC metro area, USA",
+  "size_estimate": "51-100",
+  "notes": null
+}

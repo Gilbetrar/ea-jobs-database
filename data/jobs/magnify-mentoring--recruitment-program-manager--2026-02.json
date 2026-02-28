@@ -1,0 +1,28 @@
+{
+  "id": "magnify-mentoring--recruitment-program-manager--2026-02",
+  "title": "Recruitment Program Manager",
+  "organization": "magnify-mentoring",
+  "source": "80k-hours",
+  "source_url": "https://www.magnifymentoring.org/post/we-are-hiring-a-recruitment-program-manager",
+  "jd_file": "data/jds/magnify-mentoring--recruitment-program-manager--2026-02.md",
+  "location": {
+    "type": "remote"
+  },
+  "salary": {
+    "currency": "USD",
+    "period": "annual",
+    "min": 60000.0,
+    "max": 60000.0
+  },
+  "posted_date": "2026-02-03",
+  "deadline": "2026-03-01",
+  "date_added": "2026-02-28",
+  "tags": [
+    "building-effective-altruism",
+    "part-time",
+    "operations"
+  ],
+  "status": "unknown",
+  "confidence": 1.0,
+  "notes": null
+}

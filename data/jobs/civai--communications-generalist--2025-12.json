@@ -1,0 +1,32 @@
+{
+  "id": "civai--communications-generalist--2025-12",
+  "title": "Communications Generalist",
+  "organization": "civai",
+  "source": "80k-hours",
+  "source_url": "https://civai.org/jobs/communications-generalist",
+  "jd_file": "data/jds/civai--communications-generalist--2025-12.md",
+  "location": {
+    "type": "onsite",
+    "cities": [
+      "San Francisco Bay Area"
+    ]
+  },
+  "salary": {
+    "currency": "USD",
+    "period": "annual",
+    "min": 110000.0,
+    "max": 140000.0
+  },
+  "posted_date": "2025-12-15",
+  "deadline": null,
+  "date_added": "2026-02-28",
+  "tags": [
+    "ai-safety-policy",
+    "full-time",
+    "outreach",
+    "operations"
+  ],
+  "status": "unknown",
+  "confidence": 1.0,
+  "notes": null
+}

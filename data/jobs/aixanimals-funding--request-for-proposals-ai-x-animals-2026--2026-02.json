@@ -1,0 +1,30 @@
+{
+  "id": "aixanimals-funding--request-for-proposals-ai-x-animals-2026--2026-02",
+  "title": "Request for Proposals, AI x Animals (2026)",
+  "organization": "aixanimals-funding",
+  "source": "80k-hours",
+  "source_url": "https://forum.effectivealtruism.org/posts/6zKrXJDcNgSeCNZxB/request-for-proposals-for-ai-x-animals",
+  "jd_file": "data/jds/aixanimals-funding--request-for-proposals-ai-x-animals-2026--2026-02.md",
+  "location": {
+    "type": "remote"
+  },
+  "salary": {
+    "currency": "USD",
+    "period": "annual",
+    "min": 10000.0,
+    "max": 50000.0
+  },
+  "posted_date": "2026-02-02",
+  "deadline": "2026-04-30",
+  "date_added": "2026-02-28",
+  "tags": [
+    "animal-welfare",
+    "funding",
+    "research",
+    "policy",
+    "strategy"
+  ],
+  "status": "unknown",
+  "confidence": 1.0,
+  "notes": null
+}

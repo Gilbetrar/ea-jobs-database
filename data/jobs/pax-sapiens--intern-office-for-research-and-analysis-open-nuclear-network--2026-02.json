@@ -1,0 +1,32 @@
+{
+  "id": "pax-sapiens--intern-office-for-research-and-analysis-open-nuclear-network--2026-02",
+  "title": "Intern, Office for Research and Analysis, Open Nuclear Network",
+  "organization": "pax-sapiens",
+  "source": "80k-hours",
+  "source_url": "https://paxsapiens.bamboohr.com/careers/50",
+  "jd_file": "data/jds/pax-sapiens--intern-office-for-research-and-analysis-open-nuclear-network--2026-02.md",
+  "location": {
+    "type": "onsite",
+    "cities": [
+      "Vienna, Austria"
+    ]
+  },
+  "salary": {
+    "currency": "EUR",
+    "period": "annual",
+    "min": 29120.0,
+    "max": 29120.0
+  },
+  "posted_date": "2026-02-20",
+  "deadline": "2026-03-04",
+  "date_added": "2026-02-28",
+  "tags": [
+    "nuclear-security",
+    "internship",
+    "research",
+    "policy"
+  ],
+  "status": "unknown",
+  "confidence": 1.0,
+  "notes": null
+}

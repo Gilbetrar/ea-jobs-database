@@ -1,0 +1,32 @@
+{
+  "id": "openai--security-engineer-agent-security--2022-01",
+  "title": "Security Engineer, Agent Security",
+  "organization": "openai",
+  "source": "80k-hours",
+  "source_url": "https://openai.com/careers/security-engineer-agent-security-san-francisco/",
+  "jd_file": "data/jds/openai--security-engineer-agent-security--2022-01.md",
+  "location": {
+    "type": "onsite",
+    "cities": [
+      "San Francisco Bay Area"
+    ]
+  },
+  "salary": {
+    "currency": "USD",
+    "period": "annual",
+    "min": 325000.0,
+    "max": 495000.0
+  },
+  "posted_date": "2022-01-11",
+  "deadline": null,
+  "date_added": "2026-02-28",
+  "tags": [
+    "ai-safety-policy",
+    "full-time",
+    "software-engineering",
+    "information-security"
+  ],
+  "status": "unknown",
+  "confidence": 1.0,
+  "notes": null
+}

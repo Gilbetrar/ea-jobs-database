@@ -1,0 +1,32 @@
+{
+  "id": "stanford-university-school-of-law--executive-director-ai-initiative--2022-01",
+  "title": "Executive Director, AI Initiative",
+  "organization": "stanford-university-school-of-law",
+  "source": "80k-hours",
+  "source_url": "https://careersearch.stanford.edu/jobs/executive-director-ai-initiative-stanford-law-school-29036",
+  "jd_file": "data/jds/stanford-university-school-of-law--executive-director-ai-initiative--2022-01.md",
+  "location": {
+    "type": "onsite",
+    "cities": [
+      "San Francisco Bay Area"
+    ]
+  },
+  "salary": {
+    "currency": "USD",
+    "period": "annual",
+    "min": 164922.0,
+    "max": 206189.0
+  },
+  "posted_date": "2022-01-05",
+  "deadline": null,
+  "date_added": "2026-02-28",
+  "tags": [
+    "ai-safety-policy",
+    "full-time",
+    "management",
+    "strategy"
+  ],
+  "status": "unknown",
+  "confidence": 1.0,
+  "notes": null
+}

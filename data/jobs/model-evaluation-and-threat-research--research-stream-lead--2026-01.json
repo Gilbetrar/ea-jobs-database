@@ -1,0 +1,32 @@
+{
+  "id": "model-evaluation-and-threat-research--research-stream-lead--2026-01",
+  "title": "Research Stream Lead",
+  "organization": "model-evaluation-and-threat-research",
+  "source": "80k-hours",
+  "source_url": "https://jobs.lever.co/metr/c72dbc8b-6073-407f-8642-78eaae708f8b",
+  "jd_file": "data/jds/model-evaluation-and-threat-research--research-stream-lead--2026-01.md",
+  "location": {
+    "type": "onsite",
+    "cities": [
+      "San Francisco Bay Area"
+    ]
+  },
+  "salary": {
+    "currency": "USD",
+    "period": "annual",
+    "min": 250000.0,
+    "max": 450000.0
+  },
+  "posted_date": "2026-01-19",
+  "deadline": null,
+  "date_added": "2026-02-28",
+  "tags": [
+    "ai-safety-policy",
+    "full-time",
+    "research",
+    "management"
+  ],
+  "status": "unknown",
+  "confidence": 1.0,
+  "notes": null
+}

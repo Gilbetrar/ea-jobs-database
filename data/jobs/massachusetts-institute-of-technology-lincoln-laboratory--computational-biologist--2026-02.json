@@ -1,0 +1,32 @@
+{
+  "id": "massachusetts-institute-of-technology-lincoln-laboratory--computational-biologist--2026-02",
+  "title": "Computational Biologist",
+  "organization": "massachusetts-institute-of-technology-lincoln-laboratory",
+  "source": "80k-hours",
+  "source_url": "https://careers.ll.mit.edu/job/Lexington-Computational-Biologist-MA-02420/1366997300/",
+  "jd_file": "data/jds/massachusetts-institute-of-technology-lincoln-laboratory--computational-biologist--2026-02.md",
+  "location": {
+    "type": "onsite",
+    "cities": [
+      "Boston metro area"
+    ]
+  },
+  "salary": {
+    "currency": "USD",
+    "period": "annual",
+    "min": 145200.0,
+    "max": 220000.0
+  },
+  "posted_date": "2026-02-24",
+  "deadline": null,
+  "date_added": "2026-02-28",
+  "tags": [
+    "biosecurity-pandemic-preparedness",
+    "full-time",
+    "research",
+    "software-engineering"
+  ],
+  "status": "unknown",
+  "confidence": 1.0,
+  "notes": null
+}

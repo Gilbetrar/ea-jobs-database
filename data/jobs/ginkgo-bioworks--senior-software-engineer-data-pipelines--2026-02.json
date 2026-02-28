@@ -1,0 +1,32 @@
+{
+  "id": "ginkgo-bioworks--senior-software-engineer-data-pipelines--2026-02",
+  "title": "Senior Software Engineer, Data Pipelines",
+  "organization": "ginkgo-bioworks",
+  "source": "80k-hours",
+  "source_url": "https://job-boards.greenhouse.io/ginkgobioworks/jobs/5044241007",
+  "jd_file": "data/jds/ginkgo-bioworks--senior-software-engineer-data-pipelines--2026-02.md",
+  "location": {
+    "type": "onsite",
+    "cities": [
+      "Boston metro area"
+    ]
+  },
+  "salary": {
+    "currency": "USD",
+    "period": "annual",
+    "min": 134300.0,
+    "max": 189900.0
+  },
+  "posted_date": "2026-02-20",
+  "deadline": null,
+  "date_added": "2026-02-28",
+  "tags": [
+    "biosecurity-pandemic-preparedness",
+    "full-time",
+    "software-engineering",
+    "data"
+  ],
+  "status": "unknown",
+  "confidence": 1.0,
+  "notes": null
+}

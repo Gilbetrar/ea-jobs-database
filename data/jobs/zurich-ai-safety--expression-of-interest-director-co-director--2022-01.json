@@ -1,0 +1,32 @@
+{
+  "id": "zurich-ai-safety--expression-of-interest-director-co-director--2022-01",
+  "title": "Expression of Interest, Director / Co-Director",
+  "organization": "zurich-ai-safety",
+  "source": "80k-hours",
+  "source_url": "https://forum.effectivealtruism.org/posts/NvvHgGxojoTEq2HkA/zurich-ai-safety-is-looking-for-co-directors-eoi",
+  "jd_file": "data/jds/zurich-ai-safety--expression-of-interest-director-co-director--2022-01.md",
+  "location": {
+    "type": "onsite",
+    "cities": [
+      "Zurich, Switzerland"
+    ]
+  },
+  "salary": {
+    "currency": "CHF",
+    "period": "annual",
+    "min": 65000.0,
+    "max": 85000.0
+  },
+  "posted_date": "2022-01-06",
+  "deadline": null,
+  "date_added": "2026-02-28",
+  "tags": [
+    "ai-safety-policy",
+    "full-time",
+    "outreach",
+    "strategy"
+  ],
+  "status": "unknown",
+  "confidence": 1.0,
+  "notes": null
+}

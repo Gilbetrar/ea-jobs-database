@@ -1,0 +1,23 @@
+{
+  "id": "giving-what-we-can--volunteer--2022-01",
+  "title": "Volunteer",
+  "organization": "giving-what-we-can",
+  "source": "80k-hours",
+  "source_url": "https://www.givingwhatwecan.org/get-involved#volunteer",
+  "jd_file": "data/jds/giving-what-we-can--volunteer--2022-01.md",
+  "location": {
+    "type": "remote"
+  },
+  "salary": null,
+  "posted_date": "2022-01-08",
+  "deadline": null,
+  "date_added": "2026-02-28",
+  "tags": [
+    "building-effective-altruism",
+    "volunteering",
+    "operations"
+  ],
+  "status": "unknown",
+  "confidence": 1.0,
+  "notes": null
+}

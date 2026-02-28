@@ -1,0 +1,32 @@
+{
+  "id": "ansh--monitoring-and-evaluation-coordinator--2022-01",
+  "title": "Monitoring and Evaluation Coordinator",
+  "organization": "ansh",
+  "source": "80k-hours",
+  "source_url": "https://www.ansh.health/monitoring-and-evaluation-coordinator",
+  "jd_file": "data/jds/ansh--monitoring-and-evaluation-coordinator--2022-01.md",
+  "location": {
+    "type": "onsite",
+    "cities": [
+      "Banswara, India",
+      "Pratapgarh, India"
+    ]
+  },
+  "salary": {
+    "currency": "USD",
+    "period": "annual",
+    "min": 600000.0,
+    "max": 600000.0
+  },
+  "posted_date": "2022-01-02",
+  "deadline": null,
+  "date_added": "2026-02-28",
+  "tags": [
+    "global-health-development",
+    "full-time",
+    "operations"
+  ],
+  "status": "unknown",
+  "confidence": 1.0,
+  "notes": null
+}

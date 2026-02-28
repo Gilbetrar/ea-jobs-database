@@ -1,0 +1,28 @@
+{
+  "id": "atlas-computing--field-strategist--2026-01",
+  "title": "Field Strategist",
+  "organization": "atlas-computing",
+  "source": "80k-hours",
+  "source_url": "https://atlascomputing.org/jobs/field-strategist.pdf",
+  "jd_file": "data/jds/atlas-computing--field-strategist--2026-01.md",
+  "location": {
+    "type": "remote"
+  },
+  "salary": {
+    "currency": "USD",
+    "period": "annual",
+    "min": 140000.0,
+    "max": 200000.0
+  },
+  "posted_date": "2026-01-29",
+  "deadline": null,
+  "date_added": "2026-02-28",
+  "tags": [
+    "ai-safety-policy",
+    "full-time",
+    "strategy"
+  ],
+  "status": "unknown",
+  "confidence": 1.0,
+  "notes": null
+}

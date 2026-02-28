@@ -1,0 +1,32 @@
+{
+  "id": "uk-government-ai-security-institute--research-scientist-open-source-technical-safeguards--2022-01",
+  "title": "Research Scientist, Open Source Technical Safeguards",
+  "organization": "uk-government-ai-security-institute",
+  "source": "80k-hours",
+  "source_url": "https://job-boards.eu.greenhouse.io/aisi/jobs/4721474101",
+  "jd_file": "data/jds/uk-government-ai-security-institute--research-scientist-open-source-technical-safeguards--2022-01.md",
+  "location": {
+    "type": "onsite",
+    "cities": [
+      "London, UK"
+    ]
+  },
+  "salary": {
+    "currency": "GBP",
+    "period": "annual",
+    "min": 65000.0,
+    "max": 145000.0
+  },
+  "posted_date": "2022-01-02",
+  "deadline": null,
+  "date_added": "2026-02-28",
+  "tags": [
+    "technical",
+    "full-time",
+    "research",
+    "software-engineering"
+  ],
+  "status": "unknown",
+  "confidence": 1.0,
+  "notes": null
+}

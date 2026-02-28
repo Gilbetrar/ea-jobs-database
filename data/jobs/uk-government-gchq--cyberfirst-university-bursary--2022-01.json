@@ -1,0 +1,28 @@
+{
+  "id": "uk-government-gchq--cyberfirst-university-bursary--2022-01",
+  "title": "CyberFirst University Bursary",
+  "organization": "uk-government-gchq",
+  "source": "80k-hours",
+  "source_url": "https://www.gchq-careers.co.uk/our-careers/early-careers/student-bursary.html",
+  "jd_file": "data/jds/uk-government-gchq--cyberfirst-university-bursary--2022-01.md",
+  "location": {
+    "type": "remote"
+  },
+  "salary": {
+    "currency": "GBP",
+    "period": "annual",
+    "min": 4000.0,
+    "max": 4000.0
+  },
+  "posted_date": "2022-01-02",
+  "deadline": null,
+  "date_added": "2026-02-28",
+  "tags": [
+    "technical",
+    "full-time",
+    "information-security"
+  ],
+  "status": "unknown",
+  "confidence": 1.0,
+  "notes": null
+}

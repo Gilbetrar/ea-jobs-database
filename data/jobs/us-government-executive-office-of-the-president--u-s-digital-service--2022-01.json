@@ -1,0 +1,32 @@
+{
+  "id": "us-government-executive-office-of-the-president--u-s-digital-service--2022-01",
+  "title": "U.S. Digital Service",
+  "organization": "us-government-executive-office-of-the-president",
+  "source": "80k-hours",
+  "source_url": "https://www.usds.gov/apply",
+  "jd_file": "data/jds/us-government-executive-office-of-the-president--u-s-digital-service--2022-01.md",
+  "location": {
+    "type": "remote",
+    "cities": [
+      "Washington, DC metro area"
+    ]
+  },
+  "salary": {
+    "currency": "USD",
+    "period": "annual",
+    "min": 183500.0,
+    "max": 183500.0
+  },
+  "posted_date": "2022-01-01",
+  "deadline": null,
+  "date_added": "2026-02-28",
+  "tags": [
+    "other-policy-focused",
+    "full-time",
+    "policy",
+    "software-engineering"
+  ],
+  "status": "unknown",
+  "confidence": 1.0,
+  "notes": null
+}

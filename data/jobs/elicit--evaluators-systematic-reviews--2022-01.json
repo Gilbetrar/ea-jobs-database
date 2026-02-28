@@ -1,0 +1,23 @@
+{
+  "id": "elicit--evaluators-systematic-reviews--2022-01",
+  "title": "Evaluators, Systematic Reviews",
+  "organization": "elicit",
+  "source": "80k-hours",
+  "source_url": "https://docs.google.com/forms/d/1cYNcejGHniGJ4Cvi_SCWuuGWK5C5f_zOnQENa1rLldQ/viewform?edit_requested=true",
+  "jd_file": "data/jds/elicit--evaluators-systematic-reviews--2022-01.md",
+  "location": {
+    "type": "remote"
+  },
+  "salary": null,
+  "posted_date": "2022-01-12",
+  "deadline": null,
+  "date_added": "2026-02-28",
+  "tags": [
+    "ai-safety-policy",
+    "full-time",
+    "research"
+  ],
+  "status": "unknown",
+  "confidence": 1.0,
+  "notes": null
+}

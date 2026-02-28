@@ -1,0 +1,27 @@
+{
+  "id": "deepseek--agi-legal--2022-01",
+  "title": "AGI Legal",
+  "organization": "deepseek",
+  "source": "80k-hours",
+  "source_url": "https://app.mokahr.com/social-recruitment/high-flyer/140576#/job/32d4eeeb-c49e-4178-a6a9-4dfdf5432b32",
+  "jd_file": "data/jds/deepseek--agi-legal--2022-01.md",
+  "location": {
+    "type": "onsite",
+    "cities": [
+      "Beijing, China"
+    ]
+  },
+  "salary": null,
+  "posted_date": "2022-01-06",
+  "deadline": null,
+  "date_added": "2026-02-28",
+  "tags": [
+    "ai-safety-policy",
+    "full-time",
+    "policy",
+    "legal"
+  ],
+  "status": "unknown",
+  "confidence": 1.0,
+  "notes": null
+}

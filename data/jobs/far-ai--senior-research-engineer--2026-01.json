@@ -1,0 +1,32 @@
+{
+  "id": "far-ai--senior-research-engineer--2026-01",
+  "title": "Senior Research Engineer",
+  "organization": "far-ai",
+  "source": "80k-hours",
+  "source_url": "https://jobs.ashbyhq.com/far.ai/4f6fece8-5ed9-41f4-aed8-902d52dc42ef?embed=js",
+  "jd_file": "data/jds/far-ai--senior-research-engineer--2026-01.md",
+  "location": {
+    "type": "remote",
+    "cities": [
+      "San Francisco Bay Area"
+    ]
+  },
+  "salary": {
+    "currency": "USD",
+    "period": "annual",
+    "min": 150000.0,
+    "max": 250000.0
+  },
+  "posted_date": "2026-01-21",
+  "deadline": null,
+  "date_added": "2026-02-28",
+  "tags": [
+    "ai-safety-policy",
+    "full-time",
+    "research",
+    "software-engineering"
+  ],
+  "status": "unknown",
+  "confidence": 1.0,
+  "notes": null
+}

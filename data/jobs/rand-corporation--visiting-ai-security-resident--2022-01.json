@@ -1,0 +1,35 @@
+{
+  "id": "rand-corporation--visiting-ai-security-resident--2022-01",
+  "title": "Visiting AI Security Resident",
+  "organization": "rand-corporation",
+  "source": "80k-hours",
+  "source_url": "https://rand.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/Washington-DC-DC-Metro-Area/Visiting-AI-Security-Resident_R3005",
+  "jd_file": "data/jds/rand-corporation--visiting-ai-security-resident--2022-01.md",
+  "location": {
+    "type": "onsite",
+    "cities": [
+      "Washington, DC metro area",
+      "Pittsburgh, PA",
+      "Los Angeles, CA",
+      "Boston metro area"
+    ]
+  },
+  "salary": {
+    "currency": "USD",
+    "period": "annual",
+    "min": 115400.0,
+    "max": 246600.0
+  },
+  "posted_date": "2022-01-06",
+  "deadline": null,
+  "date_added": "2026-02-28",
+  "tags": [
+    "ai-safety-policy",
+    "full-time",
+    "policy",
+    "information-security"
+  ],
+  "status": "unknown",
+  "confidence": 1.0,
+  "notes": null
+}

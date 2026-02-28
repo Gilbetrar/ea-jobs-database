@@ -1,0 +1,27 @@
+{
+  "id": "faculty--head-of-ai-assurance--2026-02",
+  "title": "Head of AI Assurance",
+  "organization": "faculty",
+  "source": "80k-hours",
+  "source_url": "https://jobs.ashbyhq.com/faculty/d2d0ef45-de48-4c48-9781-5c85c9d49f42",
+  "jd_file": "data/jds/faculty--head-of-ai-assurance--2026-02.md",
+  "location": {
+    "type": "onsite",
+    "cities": [
+      "London, UK"
+    ]
+  },
+  "salary": null,
+  "posted_date": "2026-02-03",
+  "deadline": null,
+  "date_added": "2026-02-28",
+  "tags": [
+    "ai-safety-policy",
+    "full-time",
+    "finance",
+    "strategy"
+  ],
+  "status": "unknown",
+  "confidence": 1.0,
+  "notes": null
+}

@@ -1,0 +1,26 @@
+{
+  "id": "crustacean-compassion--volunteer--2022-01",
+  "title": "Volunteer",
+  "organization": "crustacean-compassion",
+  "source": "80k-hours",
+  "source_url": "https://www.crustaceancompassion.org/volunteer",
+  "jd_file": "data/jds/crustacean-compassion--volunteer--2022-01.md",
+  "location": {
+    "type": "remote"
+  },
+  "salary": null,
+  "posted_date": "2022-01-02",
+  "deadline": null,
+  "date_added": "2026-02-28",
+  "tags": [
+    "animal-welfare",
+    "volunteering",
+    "research",
+    "outreach",
+    "operations",
+    "other"
+  ],
+  "status": "unknown",
+  "confidence": 1.0,
+  "notes": null
+}

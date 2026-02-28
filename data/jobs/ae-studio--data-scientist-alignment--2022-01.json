@@ -1,0 +1,28 @@
+{
+  "id": "ae-studio--data-scientist-alignment--2022-01",
+  "title": "Data Scientist, Alignment",
+  "organization": "ae-studio",
+  "source": "80k-hours",
+  "source_url": "https://grnh.se/f78074f54us",
+  "jd_file": "data/jds/ae-studio--data-scientist-alignment--2022-01.md",
+  "location": {
+    "type": "remote",
+    "cities": [
+      "Los Angeles, CA"
+    ]
+  },
+  "salary": null,
+  "posted_date": "2022-01-06",
+  "deadline": null,
+  "date_added": "2026-02-28",
+  "tags": [
+    "ai-safety-policy",
+    "full-time",
+    "research",
+    "software-engineering",
+    "data"
+  ],
+  "status": "unknown",
+  "confidence": 1.0,
+  "notes": null
+}

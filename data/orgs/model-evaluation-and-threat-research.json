@@ -1,0 +1,12 @@
+{
+  "id": "model-evaluation-and-threat-research",
+  "name": "Model Evaluation and Threat Research",
+  "aliases": [],
+  "website": "https://metr.org/",
+  "cause_areas": [
+    "AI safety & policy"
+  ],
+  "hq_location": "San Francisco Bay Area, USA",
+  "size_estimate": "21-50",
+  "notes": null
+}

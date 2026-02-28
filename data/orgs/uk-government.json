@@ -1,0 +1,13 @@
+{
+  "id": "uk-government",
+  "name": "UK Government",
+  "aliases": [],
+  "website": "https://www.gov.uk/",
+  "cause_areas": [
+    "AI safety & policy",
+    "Biosecurity & pandemic preparedness"
+  ],
+  "hq_location": "London, UK",
+  "size_estimate": "101+",
+  "notes": null
+}

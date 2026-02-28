@@ -1,0 +1,30 @@
+{
+  "id": "us-government-national-institute-of-standards-and-technology--scholars-in-residence--2022-01",
+  "title": "Scholars in Residence",
+  "organization": "us-government-national-institute-of-standards-and-technology",
+  "source": "80k-hours",
+  "source_url": "https://www.nsf.gov/funding/opportunities/dcl-nsf-nist-scholars-residence",
+  "jd_file": "data/jds/us-government-national-institute-of-standards-and-technology--scholars-in-residence--2022-01.md",
+  "location": {
+    "type": "onsite",
+    "cities": [
+      "Washington, DC metro area"
+    ]
+  },
+  "salary": null,
+  "posted_date": "2022-01-01",
+  "deadline": "2026-04-01",
+  "date_added": "2026-02-28",
+  "tags": [
+    "other-policy-focused",
+    "technical",
+    "career-development",
+    "internship",
+    "fellowship",
+    "engineering",
+    "research"
+  ],
+  "status": "unknown",
+  "confidence": 1.0,
+  "notes": null
+}

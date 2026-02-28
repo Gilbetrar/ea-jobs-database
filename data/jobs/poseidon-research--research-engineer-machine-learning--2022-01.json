@@ -1,0 +1,32 @@
+{
+  "id": "poseidon-research--research-engineer-machine-learning--2022-01",
+  "title": "Research Engineer, Machine Learning",
+  "organization": "poseidon-research",
+  "source": "80k-hours",
+  "source_url": "https://poseidonresearch.org/open-roles/research-engineer-machine-learning",
+  "jd_file": "data/jds/poseidon-research--research-engineer-machine-learning--2022-01.md",
+  "location": {
+    "type": "onsite",
+    "cities": [
+      "New York, NY"
+    ]
+  },
+  "salary": {
+    "currency": "USD",
+    "period": "annual",
+    "min": 100000.0,
+    "max": 150000.0
+  },
+  "posted_date": "2022-01-06",
+  "deadline": null,
+  "date_added": "2026-02-28",
+  "tags": [
+    "ai-safety-policy",
+    "full-time",
+    "research",
+    "software-engineering"
+  ],
+  "status": "unknown",
+  "confidence": 1.0,
+  "notes": null
+}

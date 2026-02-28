@@ -1,0 +1,32 @@
+{
+  "id": "goodfire--go-to-market-lead--2022-01",
+  "title": "Go-To-Market Lead",
+  "organization": "goodfire",
+  "source": "80k-hours",
+  "source_url": "https://job-boards.greenhouse.io/goodfire/jobs/4940628008",
+  "jd_file": "data/jds/goodfire--go-to-market-lead--2022-01.md",
+  "location": {
+    "type": "onsite",
+    "cities": [
+      "San Francisco Bay Area"
+    ]
+  },
+  "salary": {
+    "currency": "USD",
+    "period": "annual",
+    "min": 175000.0,
+    "max": 350000.0
+  },
+  "posted_date": "2022-01-06",
+  "deadline": null,
+  "date_added": "2026-02-28",
+  "tags": [
+    "ai-safety-policy",
+    "full-time",
+    "outreach",
+    "strategy"
+  ],
+  "status": "unknown",
+  "confidence": 1.0,
+  "notes": null
+}

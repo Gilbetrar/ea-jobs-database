@@ -1,0 +1,31 @@
+{
+  "id": "mitre--internship-cybersecurity-and-information-security--2022-01",
+  "title": "Internship, Cybersecurity and Information Security",
+  "organization": "mitre",
+  "source": "80k-hours",
+  "source_url": "https://careers.mitre.org/us/en/job/R115475/Internships-in-Cybersecurity-and-Information-Security",
+  "jd_file": "data/jds/mitre--internship-cybersecurity-and-information-security--2022-01.md",
+  "location": {
+    "type": "onsite",
+    "cities": [
+      "Various, USA"
+    ]
+  },
+  "salary": {
+    "currency": "USD",
+    "period": "annual",
+    "min": 45500.0,
+    "max": 68500.0
+  },
+  "posted_date": "2022-01-02",
+  "deadline": null,
+  "date_added": "2026-02-28",
+  "tags": [
+    "technical",
+    "internship",
+    "information-security"
+  ],
+  "status": "unknown",
+  "confidence": 1.0,
+  "notes": null
+}

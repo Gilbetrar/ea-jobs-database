@@ -1,0 +1,28 @@
+{
+  "id": "who-let-the-docs-out--automation-and-humanity-documentary-fund-2026--2026-02",
+  "title": "Automation and Humanity Documentary Fund (2026)",
+  "organization": "who-let-the-docs-out",
+  "source": "80k-hours",
+  "source_url": "https://www.docsout.org/2026-automation-humanity-documentary-fund",
+  "jd_file": "data/jds/who-let-the-docs-out--automation-and-humanity-documentary-fund-2026--2026-02.md",
+  "location": {
+    "type": "remote"
+  },
+  "salary": {
+    "currency": "USD",
+    "period": "annual",
+    "min": 4000.0,
+    "max": 8000.0
+  },
+  "posted_date": "2026-02-18",
+  "deadline": "2026-03-16",
+  "date_added": "2026-02-28",
+  "tags": [
+    "ai-safety-policy",
+    "funding",
+    "other"
+  ],
+  "status": "unknown",
+  "confidence": 1.0,
+  "notes": null
+}

@@ -1,0 +1,24 @@
+{
+  "id": "apple--intern-machine-learning-ai--2022-01",
+  "title": "Intern, Machine Learning / AI",
+  "organization": "apple",
+  "source": "80k-hours",
+  "source_url": "https://jobs.apple.com/en-us/details/200606469/machine-learning-ai-internships?team=STDNT",
+  "jd_file": "data/jds/apple--intern-machine-learning-ai--2022-01.md",
+  "location": {
+    "type": "remote"
+  },
+  "salary": null,
+  "posted_date": "2022-01-02",
+  "deadline": null,
+  "date_added": "2026-02-28",
+  "tags": [
+    "technical",
+    "full-time",
+    "research",
+    "software-engineering"
+  ],
+  "status": "unknown",
+  "confidence": 1.0,
+  "notes": null
+}

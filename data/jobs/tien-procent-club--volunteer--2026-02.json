@@ -1,0 +1,24 @@
+{
+  "id": "tien-procent-club--volunteer--2026-02",
+  "title": "Volunteer",
+  "organization": "tien-procent-club",
+  "source": "80k-hours",
+  "source_url": "https://www.tienprocent.club/doe-mee",
+  "jd_file": "data/jds/tien-procent-club--volunteer--2026-02.md",
+  "location": {
+    "type": "remote"
+  },
+  "salary": null,
+  "posted_date": "2026-02-04",
+  "deadline": null,
+  "date_added": "2026-02-28",
+  "tags": [
+    "building-effective-altruism",
+    "volunteering",
+    "outreach",
+    "operations"
+  ],
+  "status": "unknown",
+  "confidence": 1.0,
+  "notes": null
+}

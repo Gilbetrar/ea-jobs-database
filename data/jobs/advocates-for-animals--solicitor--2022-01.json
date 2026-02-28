@@ -1,0 +1,26 @@
+{
+  "id": "advocates-for-animals--solicitor--2022-01",
+  "title": "Solicitor",
+  "organization": "advocates-for-animals",
+  "source": "80k-hours",
+  "source_url": "https://www.advocates-for-animals.com/_files/ugd/093987_3894d0f7df2c4cbf898126472bfb1e3a.pdf",
+  "jd_file": "data/jds/advocates-for-animals--solicitor--2022-01.md",
+  "location": {
+    "type": "onsite",
+    "cities": [
+      "London, UK"
+    ]
+  },
+  "salary": null,
+  "posted_date": "2022-01-01",
+  "deadline": null,
+  "date_added": "2026-02-28",
+  "tags": [
+    "animal-welfare",
+    "full-time",
+    "legal"
+  ],
+  "status": "unknown",
+  "confidence": 1.0,
+  "notes": null
+}

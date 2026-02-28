@@ -1,0 +1,31 @@
+{
+  "id": "active-site--research-associate--2026-02",
+  "title": "Research Associate",
+  "organization": "active-site",
+  "source": "80k-hours",
+  "source_url": "https://jobs.ashbyhq.com/panoplialabs/a1c3a020-9bf1-48ed-8ad2-42fc27523a52",
+  "jd_file": "data/jds/active-site--research-associate--2026-02.md",
+  "location": {
+    "type": "onsite",
+    "cities": [
+      "Boston metro area"
+    ]
+  },
+  "salary": {
+    "currency": "USD",
+    "period": "annual",
+    "min": 65000.0,
+    "max": 80000.0
+  },
+  "posted_date": "2026-02-09",
+  "deadline": null,
+  "date_added": "2026-02-28",
+  "tags": [
+    "biosecurity-pandemic-preparedness",
+    "full-time",
+    "research"
+  ],
+  "status": "unknown",
+  "confidence": 1.0,
+  "notes": null
+}

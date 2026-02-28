@@ -1,0 +1,27 @@
+{
+  "id": "azolla-ventures--partner--2022-01",
+  "title": "Partner",
+  "organization": "azolla-ventures",
+  "source": "80k-hours",
+  "source_url": "https://drive.google.com/file/d/1NXpzT_f7eTcGFZEBHXRigyk2JHh8t_wT/view",
+  "jd_file": "data/jds/azolla-ventures--partner--2022-01.md",
+  "location": {
+    "type": "onsite",
+    "cities": [
+      "San Francisco Bay Area",
+      "Boston metro area"
+    ]
+  },
+  "salary": null,
+  "posted_date": "2022-01-01",
+  "deadline": null,
+  "date_added": "2026-02-28",
+  "tags": [
+    "climate-change",
+    "full-time",
+    "other"
+  ],
+  "status": "unknown",
+  "confidence": 1.0,
+  "notes": null
+}

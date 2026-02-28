@@ -1,0 +1,32 @@
+{
+  "id": "far-ai--head-of-engineering-research--2022-01",
+  "title": "Head of Engineering, Research",
+  "organization": "far-ai",
+  "source": "80k-hours",
+  "source_url": "https://jobs.ashbyhq.com/far.ai/fe15ab20-53d0-4699-9241-d9b6a697dccf?embed=js",
+  "jd_file": "data/jds/far-ai--head-of-engineering-research--2022-01.md",
+  "location": {
+    "type": "remote",
+    "cities": [
+      "San Francisco Bay Area"
+    ]
+  },
+  "salary": {
+    "currency": "USD",
+    "period": "annual",
+    "min": 200000.0,
+    "max": 350000.0
+  },
+  "posted_date": "2022-01-05",
+  "deadline": null,
+  "date_added": "2026-02-28",
+  "tags": [
+    "ai-safety-policy",
+    "full-time",
+    "software-engineering",
+    "management"
+  ],
+  "status": "unknown",
+  "confidence": 1.0,
+  "notes": null
+}

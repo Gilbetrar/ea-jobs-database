@@ -1,0 +1,24 @@
+{
+  "id": "palisade-research--senior-software-engineer--2022-01",
+  "title": "Senior Software Engineer",
+  "organization": "palisade-research",
+  "source": "80k-hours",
+  "source_url": "https://global.palisaderesearch.org/senior-swe?pvs=25",
+  "jd_file": "data/jds/palisade-research--senior-software-engineer--2022-01.md",
+  "location": {
+    "type": "remote"
+  },
+  "salary": null,
+  "posted_date": "2022-01-05",
+  "deadline": null,
+  "date_added": "2026-02-28",
+  "tags": [
+    "ai-safety-policy",
+    "full-time",
+    "software-engineering",
+    "management"
+  ],
+  "status": "unknown",
+  "confidence": 1.0,
+  "notes": null
+}

@@ -1,0 +1,28 @@
+{
+  "id": "various-us-federal-government-departments-ai-related--ai-related-roles-in-the-us-federal-government--2022-01",
+  "title": "AI-Related Roles in the US Federal Government",
+  "organization": "various-us-federal-government-departments-ai-related",
+  "source": "80k-hours",
+  "source_url": "https://ai.usajobs.gov/Search/Results?cmco=AI&s=relevance&sd=asc&p=1",
+  "jd_file": "data/jds/various-us-federal-government-departments-ai-related--ai-related-roles-in-the-us-federal-government--2022-01.md",
+  "location": {
+    "type": "onsite",
+    "cities": [
+      "Washington, DC metro area",
+      "Various, USA"
+    ]
+  },
+  "salary": null,
+  "posted_date": "2022-01-01",
+  "deadline": null,
+  "date_added": "2026-02-28",
+  "tags": [
+    "other-policy-focused",
+    "technical",
+    "full-time",
+    "policy"
+  ],
+  "status": "unknown",
+  "confidence": 1.0,
+  "notes": null
+}

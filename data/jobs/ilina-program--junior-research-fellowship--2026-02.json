@@ -1,0 +1,29 @@
+{
+  "id": "ilina-program--junior-research-fellowship--2026-02",
+  "title": "Junior Research Fellowship",
+  "organization": "ilina-program",
+  "source": "80k-hours",
+  "source_url": "https://www.ilinaprogram.org/jrf",
+  "jd_file": "data/jds/ilina-program--junior-research-fellowship--2026-02.md",
+  "location": {
+    "type": "remote"
+  },
+  "salary": {
+    "currency": "USD",
+    "period": "annual",
+    "min": 5000.0,
+    "max": 5000.0
+  },
+  "posted_date": "2026-02-26",
+  "deadline": null,
+  "date_added": "2026-02-28",
+  "tags": [
+    "ai-safety-policy",
+    "fellowship",
+    "research",
+    "policy"
+  ],
+  "status": "unknown",
+  "confidence": 1.0,
+  "notes": null
+}

@@ -1,0 +1,32 @@
+{
+  "id": "google-deepmind--ai-ethics-and-safety-policy-researcher--2022-01",
+  "title": "AI Ethics and Safety Policy Researcher",
+  "organization": "google-deepmind",
+  "source": "80k-hours",
+  "source_url": "https://job-boards.greenhouse.io/deepmind/jobs/7349530",
+  "jd_file": "data/jds/google-deepmind--ai-ethics-and-safety-policy-researcher--2022-01.md",
+  "location": {
+    "type": "onsite",
+    "cities": [
+      "San Francisco Bay Area"
+    ]
+  },
+  "salary": {
+    "currency": "USD",
+    "period": "annual",
+    "min": 147000.0,
+    "max": 216000.0
+  },
+  "posted_date": "2022-01-12",
+  "deadline": null,
+  "date_added": "2026-02-28",
+  "tags": [
+    "ai-safety-policy",
+    "full-time",
+    "research",
+    "policy"
+  ],
+  "status": "unknown",
+  "confidence": 1.0,
+  "notes": null
+}

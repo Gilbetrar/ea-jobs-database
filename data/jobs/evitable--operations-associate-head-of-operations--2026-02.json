@@ -1,0 +1,33 @@
+{
+  "id": "evitable--operations-associate-head-of-operations--2026-02",
+  "title": "Operations Associate / Head of Operations",
+  "organization": "evitable",
+  "source": "80k-hours",
+  "source_url": "https://evitable.com/operations-associate-head",
+  "jd_file": "data/jds/evitable--operations-associate-head-of-operations--2026-02.md",
+  "location": {
+    "type": "onsite",
+    "cities": [
+      "San Francisco Bay Area"
+    ]
+  },
+  "salary": {
+    "currency": "USD",
+    "period": "annual",
+    "min": 80000.0,
+    "max": 160000.0
+  },
+  "posted_date": "2026-02-17",
+  "deadline": null,
+  "date_added": "2026-02-28",
+  "tags": [
+    "ai-safety-policy",
+    "full-time",
+    "operations",
+    "management",
+    "finance"
+  ],
+  "status": "unknown",
+  "confidence": 1.0,
+  "notes": null
+}

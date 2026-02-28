@@ -1,0 +1,24 @@
+{
+  "id": "safe-ai-germany--incubator-spring-2026--2026-02",
+  "title": "Incubator (Spring 2026)",
+  "organization": "safe-ai-germany",
+  "source": "80k-hours",
+  "source_url": "https://safeaigermany.org/incubator",
+  "jd_file": "data/jds/safe-ai-germany--incubator-spring-2026--2026-02.md",
+  "location": {
+    "type": "remote"
+  },
+  "salary": null,
+  "posted_date": "2026-02-05",
+  "deadline": "2026-03-22",
+  "date_added": "2026-02-28",
+  "tags": [
+    "ai-safety-policy",
+    "other",
+    "research",
+    "policy"
+  ],
+  "status": "unknown",
+  "confidence": 1.0,
+  "notes": null
+}

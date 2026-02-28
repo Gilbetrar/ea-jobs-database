@@ -1,0 +1,32 @@
+{
+  "id": "openai--security-engineer-insider-threat-detection-and-response--2022-01",
+  "title": "Security Engineer, Insider Threat Detection and Response",
+  "organization": "openai",
+  "source": "80k-hours",
+  "source_url": "https://openai.com/careers/security-engineer-insider-threat-detection-and-response-san-francisco/",
+  "jd_file": "data/jds/openai--security-engineer-insider-threat-detection-and-response--2022-01.md",
+  "location": {
+    "type": "remote",
+    "cities": [
+      "San Francisco Bay Area",
+      "New York, NY"
+    ]
+  },
+  "salary": {
+    "currency": "USD",
+    "period": "annual",
+    "min": 260000.0,
+    "max": 405000.0
+  },
+  "posted_date": "2022-01-11",
+  "deadline": null,
+  "date_added": "2026-02-28",
+  "tags": [
+    "ai-safety-policy",
+    "full-time",
+    "information-security"
+  ],
+  "status": "unknown",
+  "confidence": 1.0,
+  "notes": null
+}

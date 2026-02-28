@@ -1,0 +1,27 @@
+{
+  "id": "deep-science-ventures--portfolio-companies--2022-01",
+  "title": "Portfolio Companies",
+  "organization": "deep-science-ventures",
+  "source": "80k-hours",
+  "source_url": "https://deepscienceventures.com/portfolio",
+  "jd_file": "data/jds/deep-science-ventures--portfolio-companies--2022-01.md",
+  "location": {
+    "type": "remote"
+  },
+  "salary": null,
+  "posted_date": "2022-01-01",
+  "deadline": null,
+  "date_added": "2026-02-28",
+  "tags": [
+    "global-health-development",
+    "climate-change",
+    "full-time",
+    "engineering",
+    "research",
+    "operations",
+    "strategy"
+  ],
+  "status": "unknown",
+  "confidence": 1.0,
+  "notes": null
+}

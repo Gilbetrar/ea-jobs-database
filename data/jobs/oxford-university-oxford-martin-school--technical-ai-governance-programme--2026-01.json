@@ -1,0 +1,27 @@
+{
+  "id": "oxford-university-oxford-martin-school--technical-ai-governance-programme--2026-01",
+  "title": "Technical AI Governance Programme",
+  "organization": "oxford-university-oxford-martin-school",
+  "source": "80k-hours",
+  "source_url": "https://aigi.ox.ac.uk/technical-ai-governance-programme/",
+  "jd_file": "data/jds/oxford-university-oxford-martin-school--technical-ai-governance-programme--2026-01.md",
+  "location": {
+    "type": "onsite",
+    "cities": [
+      "Oxford, UK"
+    ]
+  },
+  "salary": null,
+  "posted_date": "2026-01-29",
+  "deadline": null,
+  "date_added": "2026-02-28",
+  "tags": [
+    "ai-safety-policy",
+    "other",
+    "research",
+    "policy"
+  ],
+  "status": "unknown",
+  "confidence": 1.0,
+  "notes": null
+}

@@ -1,0 +1,28 @@
+{
+  "id": "givewell--research-analyst-commons--2022-01",
+  "title": "Research Analyst, Commons",
+  "organization": "givewell",
+  "source": "80k-hours",
+  "source_url": "https://grnh.se/0b4ueh0k8us",
+  "jd_file": "data/jds/givewell--research-analyst-commons--2022-01.md",
+  "location": {
+    "type": "remote"
+  },
+  "salary": {
+    "currency": "USD",
+    "period": "annual",
+    "min": 98600.0,
+    "max": 108800.0
+  },
+  "posted_date": "2022-01-08",
+  "deadline": null,
+  "date_added": "2026-02-28",
+  "tags": [
+    "global-health-development",
+    "full-time",
+    "research"
+  ],
+  "status": "unknown",
+  "confidence": 1.0,
+  "notes": null
+}

@@ -1,0 +1,32 @@
+{
+  "id": "deep-science-ventures--venture-science-doctorate--2022-01",
+  "title": "Venture Science Doctorate",
+  "organization": "deep-science-ventures",
+  "source": "80k-hours",
+  "source_url": "https://apply.workable.com/deep-science-ventures/j/31F88646EF/",
+  "jd_file": "data/jds/deep-science-ventures--venture-science-doctorate--2022-01.md",
+  "location": {
+    "type": "onsite",
+    "cities": [
+      "London, UK"
+    ]
+  },
+  "salary": {
+    "currency": "GBP",
+    "period": "monthly",
+    "min": 2500.0,
+    "max": 2500.0
+  },
+  "posted_date": "2022-01-02",
+  "deadline": null,
+  "date_added": "2026-02-28",
+  "tags": [
+    "technical",
+    "full-time",
+    "research",
+    "strategy"
+  ],
+  "status": "unknown",
+  "confidence": 1.0,
+  "notes": null
+}

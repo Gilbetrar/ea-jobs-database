@@ -1,0 +1,32 @@
+{
+  "id": "us-government-national-institute-of-standards-and-technology--senior-cyber-offense-specialist-center-for-ai-standards-and-innovation--2026-02",
+  "title": "Senior Cyber Offense Specialist, Center for AI Standards and Innovation",
+  "organization": "us-government-national-institute-of-standards-and-technology",
+  "source": "80k-hours",
+  "source_url": "https://www.usajobs.gov/job/856268500",
+  "jd_file": "data/jds/us-government-national-institute-of-standards-and-technology--senior-cyber-offense-specialist-center-for-ai-standards-and-innovation--2026-02.md",
+  "location": {
+    "type": "onsite",
+    "cities": [
+      "Washington, DC metro area"
+    ]
+  },
+  "salary": {
+    "currency": "USD",
+    "period": "annual",
+    "min": 121785.0,
+    "max": 197200.0
+  },
+  "posted_date": "2026-02-03",
+  "deadline": "2026-03-03",
+  "date_added": "2026-02-28",
+  "tags": [
+    "ai-safety-policy",
+    "full-time",
+    "policy",
+    "information-security"
+  ],
+  "status": "unknown",
+  "confidence": 1.0,
+  "notes": null
+}

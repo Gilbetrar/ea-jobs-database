@@ -1,0 +1,32 @@
+{
+  "id": "hewlett-foundation--program-director--2022-01",
+  "title": "Program Director",
+  "organization": "hewlett-foundation",
+  "source": "80k-hours",
+  "source_url": "https://hewlett.hrmdirect.com/employment/job-opening.php?req=3566721&req_loc=1112590&&&nohd#job",
+  "jd_file": "data/jds/hewlett-foundation--program-director--2022-01.md",
+  "location": {
+    "type": "onsite",
+    "cities": [
+      "San Francisco Bay Area"
+    ]
+  },
+  "salary": {
+    "currency": "USD",
+    "period": "annual",
+    "min": 400000.0,
+    "max": 500000.0
+  },
+  "posted_date": "2022-01-01",
+  "deadline": null,
+  "date_added": "2026-02-28",
+  "tags": [
+    "full-time",
+    "policy",
+    "management",
+    "strategy"
+  ],
+  "status": "unknown",
+  "confidence": 1.0,
+  "notes": null
+}

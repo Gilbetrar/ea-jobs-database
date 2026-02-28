@@ -1,0 +1,26 @@
+{
+  "id": "popvax--applied-statistician--2022-01",
+  "title": "Applied Statistician",
+  "organization": "popvax",
+  "source": "80k-hours",
+  "source_url": "https://jobs.popvax.com/29999",
+  "jd_file": "data/jds/popvax--applied-statistician--2022-01.md",
+  "location": {
+    "type": "onsite",
+    "cities": [
+      "Hyderabad, India"
+    ]
+  },
+  "salary": null,
+  "posted_date": "2022-01-04",
+  "deadline": null,
+  "date_added": "2026-02-28",
+  "tags": [
+    "biosecurity-pandemic-preparedness",
+    "full-time",
+    "data"
+  ],
+  "status": "unknown",
+  "confidence": 1.0,
+  "notes": null
+}

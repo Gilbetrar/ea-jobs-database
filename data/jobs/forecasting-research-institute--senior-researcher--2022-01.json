@@ -1,0 +1,28 @@
+{
+  "id": "forecasting-research-institute--senior-researcher--2022-01",
+  "title": "Senior Researcher",
+  "organization": "forecasting-research-institute",
+  "source": "80k-hours",
+  "source_url": "https://forecastingresearch.org/roles/research-manager",
+  "jd_file": "data/jds/forecasting-research-institute--senior-researcher--2022-01.md",
+  "location": {
+    "type": "remote"
+  },
+  "salary": {
+    "currency": "USD",
+    "period": "annual",
+    "min": 85000.0,
+    "max": 130000.0
+  },
+  "posted_date": "2022-01-01",
+  "deadline": null,
+  "date_added": "2026-02-28",
+  "tags": [
+    "full-time",
+    "research",
+    "management"
+  ],
+  "status": "unknown",
+  "confidence": 1.0,
+  "notes": null
+}

@@ -1,0 +1,33 @@
+{
+  "id": "haize-labs--research-engineer--2022-01",
+  "title": "Research Engineer",
+  "organization": "haize-labs",
+  "source": "80k-hours",
+  "source_url": "https://job-boards.greenhouse.io/haizelabs/jobs/4070038008",
+  "jd_file": "data/jds/haize-labs--research-engineer--2022-01.md",
+  "location": {
+    "type": "onsite",
+    "cities": [
+      "New York, NY"
+    ]
+  },
+  "salary": {
+    "currency": "USD",
+    "period": "annual",
+    "min": 150000.0,
+    "max": 600000.0
+  },
+  "posted_date": "2022-01-05",
+  "deadline": null,
+  "date_added": "2026-02-28",
+  "tags": [
+    "ai-safety-policy",
+    "full-time",
+    "research",
+    "software-engineering",
+    "information-security"
+  ],
+  "status": "unknown",
+  "confidence": 1.0,
+  "notes": null
+}

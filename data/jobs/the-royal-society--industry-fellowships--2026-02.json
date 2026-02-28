@@ -1,0 +1,28 @@
+{
+  "id": "the-royal-society--industry-fellowships--2026-02",
+  "title": "Industry Fellowships",
+  "organization": "the-royal-society",
+  "source": "80k-hours",
+  "source_url": "https://royalsociety.org/grants-schemes-awards/grants/industry-fellowship/",
+  "jd_file": "data/jds/the-royal-society--industry-fellowships--2026-02.md",
+  "location": {
+    "type": "remote"
+  },
+  "salary": {
+    "currency": "GBP",
+    "period": "annual",
+    "min": 168000.0,
+    "max": 168000.0
+  },
+  "posted_date": "2026-02-06",
+  "deadline": "2026-04-01",
+  "date_added": "2026-02-28",
+  "tags": [
+    "technical",
+    "fellowship",
+    "other"
+  ],
+  "status": "unknown",
+  "confidence": 1.0,
+  "notes": null
+}

@@ -1,0 +1,31 @@
+{
+  "id": "beneficial-ai-foundation--research-scientist-ai-safety--2026-02",
+  "title": "Research Scientist, AI Safety",
+  "organization": "beneficial-ai-foundation",
+  "source": "80k-hours",
+  "source_url": "https://docs.google.com/forms/d/1K1sSJQXK0nNmCSu_j54G0jl-XVPMTJSHtBVzSzaXEjQ/viewform?edit_requested=true",
+  "jd_file": "data/jds/beneficial-ai-foundation--research-scientist-ai-safety--2026-02.md",
+  "location": {
+    "type": "onsite",
+    "cities": [
+      "Boston metro area"
+    ]
+  },
+  "salary": {
+    "currency": "USD",
+    "period": "annual",
+    "min": 70000.0,
+    "max": 180000.0
+  },
+  "posted_date": "2026-02-25",
+  "deadline": null,
+  "date_added": "2026-02-28",
+  "tags": [
+    "ai-safety-policy",
+    "full-time",
+    "research"
+  ],
+  "status": "unknown",
+  "confidence": 1.0,
+  "notes": null
+}

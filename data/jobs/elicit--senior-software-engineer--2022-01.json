@@ -1,0 +1,24 @@
+{
+  "id": "elicit--senior-software-engineer--2022-01",
+  "title": "Senior Software Engineer",
+  "organization": "elicit",
+  "source": "80k-hours",
+  "source_url": "https://elicit.com/careers?ashby_jid=aa99e2e9-5b15-4cd3-ac9d-9c9177ff61c8",
+  "jd_file": "data/jds/elicit--senior-software-engineer--2022-01.md",
+  "location": {
+    "type": "remote"
+  },
+  "salary": null,
+  "posted_date": "2022-01-11",
+  "deadline": null,
+  "date_added": "2026-02-28",
+  "tags": [
+    "ai-safety-policy",
+    "full-time",
+    "research",
+    "software-engineering"
+  ],
+  "status": "unknown",
+  "confidence": 1.0,
+  "notes": null
+}

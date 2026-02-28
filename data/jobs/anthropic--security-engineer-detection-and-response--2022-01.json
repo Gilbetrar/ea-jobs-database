@@ -1,0 +1,35 @@
+{
+  "id": "anthropic--security-engineer-detection-and-response--2022-01",
+  "title": "Security Engineer, Detection and Response",
+  "organization": "anthropic",
+  "source": "80k-hours",
+  "source_url": "https://job-boards.greenhouse.io/anthropic/jobs/4982193008",
+  "jd_file": "data/jds/anthropic--security-engineer-detection-and-response--2022-01.md",
+  "location": {
+    "type": "onsite",
+    "cities": [
+      "San Francisco Bay Area",
+      "Washington, DC metro area",
+      "New York, NY",
+      "Seattle metro area"
+    ]
+  },
+  "salary": {
+    "currency": "USD",
+    "period": "annual",
+    "min": 300000.0,
+    "max": 405000.0
+  },
+  "posted_date": "2022-01-11",
+  "deadline": null,
+  "date_added": "2026-02-28",
+  "tags": [
+    "ai-safety-policy",
+    "full-time",
+    "software-engineering",
+    "information-security"
+  ],
+  "status": "unknown",
+  "confidence": 1.0,
+  "notes": null
+}

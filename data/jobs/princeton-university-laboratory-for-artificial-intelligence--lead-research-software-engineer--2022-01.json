@@ -1,0 +1,33 @@
+{
+  "id": "princeton-university-laboratory-for-artificial-intelligence--lead-research-software-engineer--2022-01",
+  "title": "Lead Research Software Engineer",
+  "organization": "princeton-university-laboratory-for-artificial-intelligence",
+  "source": "80k-hours",
+  "source_url": "https://main-princeton.icims.com/jobs/19506/lead-research-software-engineer/job?hub=15&_g[%E2%80%A6]true&needsRedirect=false&jan1offset=-300&jun1offset=-240",
+  "jd_file": "data/jds/princeton-university-laboratory-for-artificial-intelligence--lead-research-software-engineer--2022-01.md",
+  "location": {
+    "type": "onsite",
+    "cities": [
+      "Princeton, NJ"
+    ]
+  },
+  "salary": {
+    "currency": "USD",
+    "period": "annual",
+    "min": 160000.0,
+    "max": 177000.0
+  },
+  "posted_date": "2022-01-05",
+  "deadline": null,
+  "date_added": "2026-02-28",
+  "tags": [
+    "ai-safety-policy",
+    "full-time",
+    "research",
+    "software-engineering",
+    "management"
+  ],
+  "status": "unknown",
+  "confidence": 1.0,
+  "notes": null
+}

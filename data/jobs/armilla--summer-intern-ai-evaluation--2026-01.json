@@ -1,0 +1,27 @@
+{
+  "id": "armilla--summer-intern-ai-evaluation--2026-01",
+  "title": "Summer Intern, AI Evaluation",
+  "organization": "armilla",
+  "source": "80k-hours",
+  "source_url": "https://www.armilla.ai/careers#:~:text=Summer%20Intern%2C%20AI%20Evaluation",
+  "jd_file": "data/jds/armilla--summer-intern-ai-evaluation--2026-01.md",
+  "location": {
+    "type": "onsite",
+    "cities": [
+      "Toronto, Canada"
+    ]
+  },
+  "salary": null,
+  "posted_date": "2026-01-14",
+  "deadline": null,
+  "date_added": "2026-02-28",
+  "tags": [
+    "ai-safety-policy",
+    "internship",
+    "research",
+    "software-engineering"
+  ],
+  "status": "unknown",
+  "confidence": 1.0,
+  "notes": null
+}

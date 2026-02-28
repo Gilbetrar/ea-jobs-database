@@ -1,0 +1,12 @@
+{
+  "id": "openai",
+  "name": "OpenAI",
+  "aliases": [],
+  "website": "https://openai.com/",
+  "cause_areas": [
+    "AI safety & policy"
+  ],
+  "hq_location": "San Francisco Bay Area, USA",
+  "size_estimate": "101+",
+  "notes": null
+}

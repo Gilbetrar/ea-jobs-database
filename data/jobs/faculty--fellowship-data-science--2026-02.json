@@ -1,0 +1,26 @@
+{
+  "id": "faculty--fellowship-data-science--2026-02",
+  "title": "Fellowship, Data Science",
+  "organization": "faculty",
+  "source": "80k-hours",
+  "source_url": "https://jobs.ashbyhq.com/faculty/766f9d2a-d40e-4ba3-a407-5157eda242c1",
+  "jd_file": "data/jds/faculty--fellowship-data-science--2026-02.md",
+  "location": {
+    "type": "onsite",
+    "cities": [
+      "London, UK"
+    ]
+  },
+  "salary": null,
+  "posted_date": "2026-02-10",
+  "deadline": "2026-03-04",
+  "date_added": "2026-02-28",
+  "tags": [
+    "technical",
+    "fellowship",
+    "software-engineering"
+  ],
+  "status": "unknown",
+  "confidence": 1.0,
+  "notes": null
+}

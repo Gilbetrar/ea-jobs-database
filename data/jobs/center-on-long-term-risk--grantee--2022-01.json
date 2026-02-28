@@ -1,0 +1,23 @@
+{
+  "id": "center-on-long-term-risk--grantee--2022-01",
+  "title": "Grantee",
+  "organization": "center-on-long-term-risk",
+  "source": "80k-hours",
+  "source_url": "https://longtermrisk.org/grantmaking/",
+  "jd_file": "data/jds/center-on-long-term-risk--grantee--2022-01.md",
+  "location": {
+    "type": "remote"
+  },
+  "salary": null,
+  "posted_date": "2022-01-11",
+  "deadline": null,
+  "date_added": "2026-02-28",
+  "tags": [
+    "ai-safety-policy",
+    "funding",
+    "research"
+  ],
+  "status": "unknown",
+  "confidence": 1.0,
+  "notes": null
+}

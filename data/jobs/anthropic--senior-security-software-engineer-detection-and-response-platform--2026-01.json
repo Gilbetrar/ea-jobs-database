@@ -1,0 +1,27 @@
+{
+  "id": "anthropic--senior-security-software-engineer-detection-and-response-platform--2026-01",
+  "title": "Senior Security Software Engineer, Detection and Response Platform",
+  "organization": "anthropic",
+  "source": "80k-hours",
+  "source_url": "https://job-boards.greenhouse.io/anthropic/jobs/5068313008",
+  "jd_file": "data/jds/anthropic--senior-security-software-engineer-detection-and-response-platform--2026-01.md",
+  "location": {
+    "type": "onsite",
+    "cities": [
+      "Zurich, Switzerland"
+    ]
+  },
+  "salary": null,
+  "posted_date": "2026-01-15",
+  "deadline": null,
+  "date_added": "2026-02-28",
+  "tags": [
+    "ai-safety-policy",
+    "full-time",
+    "software-engineering",
+    "information-security"
+  ],
+  "status": "unknown",
+  "confidence": 1.0,
+  "notes": null
+}

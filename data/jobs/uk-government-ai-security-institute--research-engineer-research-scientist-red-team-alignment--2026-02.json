@@ -1,0 +1,32 @@
+{
+  "id": "uk-government-ai-security-institute--research-engineer-research-scientist-red-team-alignment--2026-02",
+  "title": "Research Engineer / Research Scientist, Red Team, Alignment",
+  "organization": "uk-government-ai-security-institute",
+  "source": "80k-hours",
+  "source_url": "https://job-boards.eu.greenhouse.io/aisi/jobs/4784438101",
+  "jd_file": "data/jds/uk-government-ai-security-institute--research-engineer-research-scientist-red-team-alignment--2026-02.md",
+  "location": {
+    "type": "onsite",
+    "cities": [
+      "London, UK"
+    ]
+  },
+  "salary": {
+    "currency": "GBP",
+    "period": "annual",
+    "min": 65000.0,
+    "max": 145000.0
+  },
+  "posted_date": "2026-02-18",
+  "deadline": null,
+  "date_added": "2026-02-28",
+  "tags": [
+    "ai-safety-policy",
+    "full-time",
+    "research",
+    "software-engineering"
+  ],
+  "status": "unknown",
+  "confidence": 1.0,
+  "notes": null
+}

@@ -1,0 +1,25 @@
+{
+  "id": "inhr--program-officer-aixbio--2026-02",
+  "title": "Program Officer, AIxBio",
+  "organization": "inhr",
+  "source": "80k-hours",
+  "source_url": "https://docs.google.com/document/d/1O7uxswK9EKroljk8yaTMkWcdAXWtICAWXp6eHj6ZeWs/edit?usp=sharing",
+  "jd_file": "data/jds/inhr--program-officer-aixbio--2026-02.md",
+  "location": {
+    "type": "remote"
+  },
+  "salary": null,
+  "posted_date": "2026-02-26",
+  "deadline": "2026-03-30",
+  "date_added": "2026-02-28",
+  "tags": [
+    "ai-safety-policy",
+    "biosecurity-pandemic-preparedness",
+    "full-time",
+    "operations",
+    "other"
+  ],
+  "status": "unknown",
+  "confidence": 1.0,
+  "notes": null
+}

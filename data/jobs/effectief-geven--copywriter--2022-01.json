@@ -1,0 +1,23 @@
+{
+  "id": "effectief-geven--copywriter--2022-01",
+  "title": "Copywriter",
+  "organization": "effectief-geven",
+  "source": "80k-hours",
+  "source_url": "https://www.effectiefgeven.be/vacatures/copywriter",
+  "jd_file": "data/jds/effectief-geven--copywriter--2022-01.md",
+  "location": {
+    "type": "remote"
+  },
+  "salary": null,
+  "posted_date": "2022-01-02",
+  "deadline": "2026-03-13",
+  "date_added": "2026-02-28",
+  "tags": [
+    "building-effective-altruism",
+    "part-time",
+    "other"
+  ],
+  "status": "unknown",
+  "confidence": 1.0,
+  "notes": null
+}

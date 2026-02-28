@@ -1,0 +1,32 @@
+{
+  "id": "eurogroup-for-animals--political-adviser-farm-animals--2026-02",
+  "title": "Political Adviser, Farm Animals",
+  "organization": "eurogroup-for-animals",
+  "source": "80k-hours",
+  "source_url": "https://www.eurogroupforanimals.org/who-we-are/jobs/political-adviser-farm-animals",
+  "jd_file": "data/jds/eurogroup-for-animals--political-adviser-farm-animals--2026-02.md",
+  "location": {
+    "type": "onsite",
+    "cities": [
+      "Brussels, Belgium"
+    ]
+  },
+  "salary": {
+    "currency": "EUR",
+    "period": "monthly",
+    "min": 3811.0,
+    "max": 5611.0
+  },
+  "posted_date": "2026-02-17",
+  "deadline": "2026-03-15",
+  "date_added": "2026-02-28",
+  "tags": [
+    "animal-welfare",
+    "full-time",
+    "policy",
+    "outreach"
+  ],
+  "status": "unknown",
+  "confidence": 1.0,
+  "notes": null
+}

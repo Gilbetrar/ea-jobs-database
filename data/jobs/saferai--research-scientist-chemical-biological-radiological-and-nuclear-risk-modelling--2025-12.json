@@ -1,0 +1,33 @@
+{
+  "id": "saferai--research-scientist-chemical-biological-radiological-and-nuclear-risk-modelling--2025-12",
+  "title": "Research Scientist, Chemical, Biological, Radiological, and Nuclear Risk Modelling",
+  "organization": "saferai",
+  "source": "80k-hours",
+  "source_url": "https://www.safer-ai.org/jobs/research-scientist-cbrn-risk-modeling",
+  "jd_file": "data/jds/saferai--research-scientist-chemical-biological-radiological-and-nuclear-risk-modelling--2025-12.md",
+  "location": {
+    "type": "remote",
+    "cities": [
+      "Paris, France",
+      "London, UK"
+    ]
+  },
+  "salary": {
+    "currency": "USD",
+    "period": "annual",
+    "min": 65000.0,
+    "max": 90000.0
+  },
+  "posted_date": "2025-12-19",
+  "deadline": null,
+  "date_added": "2026-02-28",
+  "tags": [
+    "ai-safety-policy",
+    "biosecurity-pandemic-preparedness",
+    "full-time",
+    "research"
+  ],
+  "status": "unknown",
+  "confidence": 1.0,
+  "notes": null
+}

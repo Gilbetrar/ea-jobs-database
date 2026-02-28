@@ -1,0 +1,31 @@
+{
+  "id": "university-of-amsterdam-faculty-of-science--postdoctoral-researcher-singular-learning-theory-for-machine-learning-models--2026-01",
+  "title": "Postdoctoral Researcher, Singular Learning Theory for Machine Learning Models",
+  "organization": "university-of-amsterdam-faculty-of-science",
+  "source": "80k-hours",
+  "source_url": "https://werkenbij.uva.nl/en/vacancies/postdoc-position-in-singular-learning-theory-for-machine-learning-models-netherlands-14741",
+  "jd_file": "data/jds/university-of-amsterdam-faculty-of-science--postdoctoral-researcher-singular-learning-theory-for-machine-learning-models--2026-01.md",
+  "location": {
+    "type": "onsite",
+    "cities": [
+      "Amsterdam, Netherlands"
+    ]
+  },
+  "salary": {
+    "currency": "EUR",
+    "period": "monthly",
+    "min": 3546.0,
+    "max": 5538.0
+  },
+  "posted_date": "2026-01-29",
+  "deadline": "2026-02-28",
+  "date_added": "2026-02-28",
+  "tags": [
+    "technical",
+    "full-time",
+    "research"
+  ],
+  "status": "unknown",
+  "confidence": 1.0,
+  "notes": null
+}

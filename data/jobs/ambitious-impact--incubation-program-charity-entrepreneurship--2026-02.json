@@ -1,0 +1,33 @@
+{
+  "id": "ambitious-impact--incubation-program-charity-entrepreneurship--2026-02",
+  "title": "Incubation Program, Charity Entrepreneurship",
+  "organization": "ambitious-impact",
+  "source": "80k-hours",
+  "source_url": "https://www.charityentrepreneurship.com/incubation-program?&utm_medium=job-board&utm_source=80k",
+  "jd_file": "data/jds/ambitious-impact--incubation-program-charity-entrepreneurship--2026-02.md",
+  "location": {
+    "type": "remote",
+    "cities": [
+      "London, UK"
+    ]
+  },
+  "salary": {
+    "currency": "USD",
+    "period": "annual",
+    "min": 200000.0,
+    "max": 200000.0
+  },
+  "posted_date": "2026-02-10",
+  "deadline": "2026-03-22",
+  "date_added": "2026-02-28",
+  "tags": [
+    "building-effective-altruism",
+    "other",
+    "operations",
+    "management",
+    "strategy"
+  ],
+  "status": "unknown",
+  "confidence": 1.0,
+  "notes": null
+}

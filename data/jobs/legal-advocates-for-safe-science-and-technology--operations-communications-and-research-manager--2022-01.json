@@ -1,0 +1,31 @@
+{
+  "id": "legal-advocates-for-safe-science-and-technology--operations-communications-and-research-manager--2022-01",
+  "title": "Operations, Communications and Research Manager",
+  "organization": "legal-advocates-for-safe-science-and-technology",
+  "source": "80k-hours",
+  "source_url": "https://docs.google.com/document/d/1xKv6O1kF_-PX0jLedXEXGKMgqgFa5BtLfSy9QO1I8_Q/edit?usp=sharing",
+  "jd_file": "data/jds/legal-advocates-for-safe-science-and-technology--operations-communications-and-research-manager--2022-01.md",
+  "location": {
+    "type": "remote"
+  },
+  "salary": {
+    "currency": "USD",
+    "period": "annual",
+    "min": 85000.0,
+    "max": 110000.0
+  },
+  "posted_date": "2022-01-08",
+  "deadline": null,
+  "date_added": "2026-02-28",
+  "tags": [
+    "ai-safety-policy",
+    "biosecurity-pandemic-preparedness",
+    "full-time",
+    "research",
+    "outreach",
+    "operations"
+  ],
+  "status": "unknown",
+  "confidence": 1.0,
+  "notes": null
+}

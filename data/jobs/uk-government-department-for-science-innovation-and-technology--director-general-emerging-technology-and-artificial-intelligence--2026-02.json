@@ -1,0 +1,34 @@
+{
+  "id": "uk-government-department-for-science-innovation-and-technology--director-general-emerging-technology-and-artificial-intelligence--2026-02",
+  "title": "Director General, Emerging Technology and Artificial Intelligence",
+  "organization": "uk-government-department-for-science-innovation-and-technology",
+  "source": "80k-hours",
+  "source_url": "https://www.civilservicejobs.service.gov.uk/csr/jobs.cgi?jcode=1988037",
+  "jd_file": "data/jds/uk-government-department-for-science-innovation-and-technology--director-general-emerging-technology-and-artificial-intelligence--2026-02.md",
+  "location": {
+    "type": "onsite",
+    "cities": [
+      "London, UK",
+      "Darlington, UK",
+      "Manchester, UK"
+    ]
+  },
+  "salary": {
+    "currency": "GBP",
+    "period": "annual",
+    "min": 174000.0,
+    "max": 174000.0
+  },
+  "posted_date": "2026-02-24",
+  "deadline": "2026-03-22",
+  "date_added": "2026-02-28",
+  "tags": [
+    "ai-safety-policy",
+    "full-time",
+    "policy",
+    "management"
+  ],
+  "status": "unknown",
+  "confidence": 1.0,
+  "notes": null
+}

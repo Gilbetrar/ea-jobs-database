@@ -1,0 +1,28 @@
+{
+  "id": "insect-welfare-research-society--research-scientist--2026-01",
+  "title": "Research Scientist",
+  "organization": "insect-welfare-research-society",
+  "source": "80k-hours",
+  "source_url": "https://www.insectwelfare.com/work-with-us",
+  "jd_file": "data/jds/insect-welfare-research-society--research-scientist--2026-01.md",
+  "location": {
+    "type": "remote"
+  },
+  "salary": {
+    "currency": "USD",
+    "period": "annual",
+    "min": 55000.0,
+    "max": 60000.0
+  },
+  "posted_date": "2026-01-29",
+  "deadline": "2026-03-15",
+  "date_added": "2026-02-28",
+  "tags": [
+    "animal-welfare",
+    "full-time",
+    "research"
+  ],
+  "status": "unknown",
+  "confidence": 1.0,
+  "notes": null
+}

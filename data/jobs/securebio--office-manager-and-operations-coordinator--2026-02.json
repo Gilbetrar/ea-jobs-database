@@ -1,0 +1,31 @@
+{
+  "id": "securebio--office-manager-and-operations-coordinator--2026-02",
+  "title": "Office Manager and Operations Coordinator",
+  "organization": "securebio",
+  "source": "80k-hours",
+  "source_url": "https://securebio.org/careers/2026-office-manager-operations-coordinator",
+  "jd_file": "data/jds/securebio--office-manager-and-operations-coordinator--2026-02.md",
+  "location": {
+    "type": "onsite",
+    "cities": [
+      "Boston metro area"
+    ]
+  },
+  "salary": {
+    "currency": "USD",
+    "period": "annual",
+    "min": 65000.0,
+    "max": 95000.0
+  },
+  "posted_date": "2026-02-27",
+  "deadline": null,
+  "date_added": "2026-02-28",
+  "tags": [
+    "biosecurity-pandemic-preparedness",
+    "full-time",
+    "operations"
+  ],
+  "status": "unknown",
+  "confidence": 1.0,
+  "notes": null
+}

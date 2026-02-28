@@ -1,0 +1,32 @@
+{
+  "id": "slow-boring--editorial-assistant--2022-01",
+  "title": "Editorial Assistant",
+  "organization": "slow-boring",
+  "source": "80k-hours",
+  "source_url": "https://open.substack.com/pub/matthewyglesias/p/come-work-with-us?r=2dxy0&utm_campaign=post&utm_medium=email",
+  "jd_file": "data/jds/slow-boring--editorial-assistant--2022-01.md",
+  "location": {
+    "type": "onsite",
+    "cities": [
+      "Washington, DC metro area"
+    ]
+  },
+  "salary": {
+    "currency": "USD",
+    "period": "annual",
+    "min": 55000.0,
+    "max": 55000.0
+  },
+  "posted_date": "2022-01-02",
+  "deadline": null,
+  "date_added": "2026-02-28",
+  "tags": [
+    "other-policy-focused",
+    "full-time",
+    "policy",
+    "other"
+  ],
+  "status": "unknown",
+  "confidence": 1.0,
+  "notes": null
+}

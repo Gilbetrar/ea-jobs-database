@@ -1,0 +1,24 @@
+{
+  "id": "epoch-ai--data-scientist--2025-12",
+  "title": "Data Scientist",
+  "organization": "epoch-ai",
+  "source": "80k-hours",
+  "source_url": "https://jobs.lever.co/epoch-ai/ab88ba6e-6a92-44cc-8830-a2dafca31f1a",
+  "jd_file": "data/jds/epoch-ai--data-scientist--2025-12.md",
+  "location": {
+    "type": "remote"
+  },
+  "salary": null,
+  "posted_date": "2025-12-23",
+  "deadline": null,
+  "date_added": "2026-02-28",
+  "tags": [
+    "ai-safety-policy",
+    "full-time",
+    "research",
+    "data"
+  ],
+  "status": "unknown",
+  "confidence": 1.0,
+  "notes": null
+}

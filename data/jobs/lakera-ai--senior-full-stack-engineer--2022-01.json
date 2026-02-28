@@ -1,0 +1,26 @@
+{
+  "id": "lakera-ai--senior-full-stack-engineer--2022-01",
+  "title": "Senior Full-Stack Engineer",
+  "organization": "lakera-ai",
+  "source": "80k-hours",
+  "source_url": "https://www.lakera.ai/careers?ashby_jid=32a92101-5b75-4714-95a4-8a8297fada6b",
+  "jd_file": "data/jds/lakera-ai--senior-full-stack-engineer--2022-01.md",
+  "location": {
+    "type": "onsite",
+    "cities": [
+      "Zurich, Switzerland"
+    ]
+  },
+  "salary": null,
+  "posted_date": "2022-01-05",
+  "deadline": null,
+  "date_added": "2026-02-28",
+  "tags": [
+    "ai-safety-policy",
+    "full-time",
+    "software-engineering"
+  ],
+  "status": "unknown",
+  "confidence": 1.0,
+  "notes": null
+}

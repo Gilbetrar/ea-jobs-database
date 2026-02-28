@@ -1,0 +1,26 @@
+{
+  "id": "fred-hutchinson-cancer-research-center-bedford-lab--postdoctoral-fellow--2022-01",
+  "title": "Postdoctoral Fellow",
+  "organization": "fred-hutchinson-cancer-research-center-bedford-lab",
+  "source": "80k-hours",
+  "source_url": "https://bedford.io/misc/join/",
+  "jd_file": "data/jds/fred-hutchinson-cancer-research-center-bedford-lab--postdoctoral-fellow--2022-01.md",
+  "location": {
+    "type": "onsite",
+    "cities": [
+      "Seattle metro area"
+    ]
+  },
+  "salary": null,
+  "posted_date": "2022-01-02",
+  "deadline": null,
+  "date_added": "2026-02-28",
+  "tags": [
+    "technical",
+    "fellowship",
+    "research"
+  ],
+  "status": "unknown",
+  "confidence": 1.0,
+  "notes": null
+}

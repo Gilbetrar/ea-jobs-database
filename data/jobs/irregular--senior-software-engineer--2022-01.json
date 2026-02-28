@@ -1,0 +1,26 @@
+{
+  "id": "irregular--senior-software-engineer--2022-01",
+  "title": "Senior Software Engineer",
+  "organization": "irregular",
+  "source": "80k-hours",
+  "source_url": "https://jobs.ashbyhq.com/Irregular/3258b769-ba83-49fa-ba11-8cb98494dee9?embed=js",
+  "jd_file": "data/jds/irregular--senior-software-engineer--2022-01.md",
+  "location": {
+    "type": "onsite",
+    "cities": [
+      "San Francisco Bay Area"
+    ]
+  },
+  "salary": null,
+  "posted_date": "2022-01-05",
+  "deadline": null,
+  "date_added": "2026-02-28",
+  "tags": [
+    "ai-safety-policy",
+    "full-time",
+    "software-engineering"
+  ],
+  "status": "unknown",
+  "confidence": 1.0,
+  "notes": null
+}

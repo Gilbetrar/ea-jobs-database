@@ -1,0 +1,28 @@
+{
+  "id": "giving-what-we-can--head-of-marketing--2026-02",
+  "title": "Head of Marketing",
+  "organization": "giving-what-we-can",
+  "source": "80k-hours",
+  "source_url": "https://www.givingwhatwecan.org/head-of-marketing",
+  "jd_file": "data/jds/giving-what-we-can--head-of-marketing--2026-02.md",
+  "location": {
+    "type": "remote"
+  },
+  "salary": {
+    "currency": "USD",
+    "period": "annual",
+    "min": 50000.0,
+    "max": 140000.0
+  },
+  "posted_date": "2026-02-27",
+  "deadline": null,
+  "date_added": "2026-02-28",
+  "tags": [
+    "building-effective-altruism",
+    "full-time",
+    "outreach"
+  ],
+  "status": "unknown",
+  "confidence": 1.0,
+  "notes": null
+}

@@ -1,0 +1,32 @@
+{
+  "id": "simplex--research-scientist--2026-02",
+  "title": "Research Scientist",
+  "organization": "simplex",
+  "source": "80k-hours",
+  "source_url": "https://www.simplexaisafety.com/london-research-scientist",
+  "jd_file": "data/jds/simplex--research-scientist--2026-02.md",
+  "location": {
+    "type": "onsite",
+    "cities": [
+      "London, UK",
+      "San Francisco Bay Area"
+    ]
+  },
+  "salary": {
+    "currency": "USD",
+    "period": "annual",
+    "min": 120000.0,
+    "max": 200000.0
+  },
+  "posted_date": "2026-02-18",
+  "deadline": null,
+  "date_added": "2026-02-28",
+  "tags": [
+    "ai-safety-policy",
+    "full-time",
+    "research"
+  ],
+  "status": "unknown",
+  "confidence": 1.0,
+  "notes": null
+}

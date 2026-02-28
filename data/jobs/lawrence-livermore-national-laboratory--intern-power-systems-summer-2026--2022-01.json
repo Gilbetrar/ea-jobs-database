@@ -1,0 +1,32 @@
+{
+  "id": "lawrence-livermore-national-laboratory--intern-power-systems-summer-2026--2022-01",
+  "title": "Intern, Power Systems (Summer 2026)",
+  "organization": "lawrence-livermore-national-laboratory",
+  "source": "80k-hours",
+  "source_url": "https://www.llnl.gov/join-our-team/careers/find-your-job/not-applicable_associate_entry-level_internship_globalsecurity_officeofthedirector/all/3743990011302966",
+  "jd_file": "data/jds/lawrence-livermore-national-laboratory--intern-power-systems-summer-2026--2022-01.md",
+  "location": {
+    "type": "onsite",
+    "cities": [
+      "Livermore, CA"
+    ]
+  },
+  "salary": {
+    "currency": "USD",
+    "period": "monthly",
+    "min": 9950.0,
+    "max": 9950.0
+  },
+  "posted_date": "2022-01-02",
+  "deadline": null,
+  "date_added": "2026-02-28",
+  "tags": [
+    "technical",
+    "internship",
+    "research",
+    "information-security"
+  ],
+  "status": "unknown",
+  "confidence": 1.0,
+  "notes": null
+}

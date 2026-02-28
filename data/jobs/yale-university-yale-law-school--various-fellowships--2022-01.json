@@ -1,0 +1,28 @@
+{
+  "id": "yale-university-yale-law-school--various-fellowships--2022-01",
+  "title": "Various Fellowships",
+  "organization": "yale-university-yale-law-school",
+  "source": "80k-hours",
+  "source_url": "https://law.yale.edu/isp/join-us",
+  "jd_file": "data/jds/yale-university-yale-law-school--various-fellowships--2022-01.md",
+  "location": {
+    "type": "onsite",
+    "cities": [
+      "New Haven, CT"
+    ]
+  },
+  "salary": null,
+  "posted_date": "2022-01-01",
+  "deadline": null,
+  "date_added": "2026-02-28",
+  "tags": [
+    "other-policy-focused",
+    "fellowship",
+    "research",
+    "policy",
+    "legal"
+  ],
+  "status": "unknown",
+  "confidence": 1.0,
+  "notes": null
+}

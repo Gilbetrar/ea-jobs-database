@@ -1,0 +1,31 @@
+{
+  "id": "new-york-university-center-for-social-media-and-politics--postdoctoral-research-associate-ai--2026-02",
+  "title": "Postdoctoral Research Associate, AI",
+  "organization": "new-york-university-center-for-social-media-and-politics",
+  "source": "80k-hours",
+  "source_url": "https://apply.interfolio.com/181817",
+  "jd_file": "data/jds/new-york-university-center-for-social-media-and-politics--postdoctoral-research-associate-ai--2026-02.md",
+  "location": {
+    "type": "onsite",
+    "cities": [
+      "New York, NY"
+    ]
+  },
+  "salary": {
+    "currency": "USD",
+    "period": "annual",
+    "min": 80000.0,
+    "max": 85000.0
+  },
+  "posted_date": "2026-02-23",
+  "deadline": "2026-03-04",
+  "date_added": "2026-02-28",
+  "tags": [
+    "technical",
+    "full-time",
+    "research"
+  ],
+  "status": "unknown",
+  "confidence": 1.0,
+  "notes": null
+}

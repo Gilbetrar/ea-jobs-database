@@ -1,0 +1,31 @@
+{
+  "id": "goodfire--senior-founding-recruiter--2026-01",
+  "title": "Senior Founding Recruiter",
+  "organization": "goodfire",
+  "source": "80k-hours",
+  "source_url": "https://job-boards.greenhouse.io/goodfire/jobs/5055191008",
+  "jd_file": "data/jds/goodfire--senior-founding-recruiter--2026-01.md",
+  "location": {
+    "type": "onsite",
+    "cities": [
+      "San Francisco Bay Area"
+    ]
+  },
+  "salary": {
+    "currency": "USD",
+    "period": "annual",
+    "min": 120000.0,
+    "max": 280000.0
+  },
+  "posted_date": "2026-01-07",
+  "deadline": null,
+  "date_added": "2026-02-28",
+  "tags": [
+    "ai-safety-policy",
+    "full-time",
+    "operations"
+  ],
+  "status": "unknown",
+  "confidence": 1.0,
+  "notes": null
+}

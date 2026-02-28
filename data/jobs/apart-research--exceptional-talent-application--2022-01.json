@@ -1,0 +1,24 @@
+{
+  "id": "apart-research--exceptional-talent-application--2022-01",
+  "title": "Exceptional Talent Application",
+  "organization": "apart-research",
+  "source": "80k-hours",
+  "source_url": "https://apartresearch.notion.site/1acfcfd1de9d8084a7abe3d00c5d2296",
+  "jd_file": "data/jds/apart-research--exceptional-talent-application--2022-01.md",
+  "location": {
+    "type": "remote"
+  },
+  "salary": null,
+  "posted_date": "2022-01-05",
+  "deadline": null,
+  "date_added": "2026-02-28",
+  "tags": [
+    "ai-safety-policy",
+    "full-time",
+    "outreach",
+    "management"
+  ],
+  "status": "unknown",
+  "confidence": 1.0,
+  "notes": null
+}

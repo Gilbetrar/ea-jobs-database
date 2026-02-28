@@ -1,0 +1,31 @@
+{
+  "id": "alignment-research-center--researcher--2025-12",
+  "title": "Researcher",
+  "organization": "alignment-research-center",
+  "source": "80k-hours",
+  "source_url": "https://jobs.lever.co/alignment.org/617488b1-d742-4990-a037-b7f0e2ba68c9",
+  "jd_file": "data/jds/alignment-research-center--researcher--2025-12.md",
+  "location": {
+    "type": "onsite",
+    "cities": [
+      "San Francisco Bay Area"
+    ]
+  },
+  "salary": {
+    "currency": "USD",
+    "period": "annual",
+    "min": 150000.0,
+    "max": 400000.0
+  },
+  "posted_date": "2025-12-17",
+  "deadline": null,
+  "date_added": "2026-02-28",
+  "tags": [
+    "ai-safety-policy",
+    "full-time",
+    "research"
+  ],
+  "status": "unknown",
+  "confidence": 1.0,
+  "notes": null
+}

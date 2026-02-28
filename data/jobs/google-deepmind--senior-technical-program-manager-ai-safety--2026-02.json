@@ -1,0 +1,32 @@
+{
+  "id": "google-deepmind--senior-technical-program-manager-ai-safety--2026-02",
+  "title": "Senior Technical Program Manager, AI Safety",
+  "organization": "google-deepmind",
+  "source": "80k-hours",
+  "source_url": "https://job-boards.greenhouse.io/deepmind/jobs/7409443",
+  "jd_file": "data/jds/google-deepmind--senior-technical-program-manager-ai-safety--2026-02.md",
+  "location": {
+    "type": "onsite",
+    "cities": [
+      "San Francisco Bay Area"
+    ]
+  },
+  "salary": {
+    "currency": "USD",
+    "period": "annual",
+    "min": 183000.0,
+    "max": 271000.0
+  },
+  "posted_date": "2026-02-18",
+  "deadline": "2026-03-06",
+  "date_added": "2026-02-28",
+  "tags": [
+    "ai-safety-policy",
+    "full-time",
+    "management",
+    "strategy"
+  ],
+  "status": "unknown",
+  "confidence": 1.0,
+  "notes": null
+}

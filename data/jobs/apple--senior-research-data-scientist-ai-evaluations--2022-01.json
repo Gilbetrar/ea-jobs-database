@@ -1,0 +1,31 @@
+{
+  "id": "apple--senior-research-data-scientist-ai-evaluations--2022-01",
+  "title": "Senior Research Data Scientist, AI Evaluations",
+  "organization": "apple",
+  "source": "80k-hours",
+  "source_url": "https://www.linkedin.com/posts/joeehoover_datascience-responsibleai-machinelearning-activity-7286420830052339712-Ff_8/?utm_source=share&utm_medium=member_ios",
+  "jd_file": "data/jds/apple--senior-research-data-scientist-ai-evaluations--2022-01.md",
+  "location": {
+    "type": "onsite",
+    "cities": [
+      "Seattle metro area",
+      "San Francisco Bay Area",
+      "New York, NY",
+      "San Diego, CA"
+    ]
+  },
+  "salary": null,
+  "posted_date": "2022-01-05",
+  "deadline": null,
+  "date_added": "2026-02-28",
+  "tags": [
+    "ai-safety-policy",
+    "full-time",
+    "research",
+    "software-engineering",
+    "data"
+  ],
+  "status": "unknown",
+  "confidence": 1.0,
+  "notes": null
+}

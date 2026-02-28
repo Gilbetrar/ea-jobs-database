@@ -1,0 +1,32 @@
+{
+  "id": "far-ai--research-scientist--2026-01",
+  "title": "Research Scientist",
+  "organization": "far-ai",
+  "source": "80k-hours",
+  "source_url": "https://jobs.ashbyhq.com/far.ai/1bda4204-bfef-4a47-b72b-3562ec0bb3f9?embed=js",
+  "jd_file": "data/jds/far-ai--research-scientist--2026-01.md",
+  "location": {
+    "type": "onsite",
+    "cities": [
+      "San Francisco Bay Area"
+    ]
+  },
+  "salary": {
+    "currency": "USD",
+    "period": "annual",
+    "min": 100000.0,
+    "max": 175000.0
+  },
+  "posted_date": "2026-01-21",
+  "deadline": null,
+  "date_added": "2026-02-28",
+  "tags": [
+    "ai-safety-policy",
+    "full-time",
+    "research",
+    "software-engineering"
+  ],
+  "status": "unknown",
+  "confidence": 1.0,
+  "notes": null
+}

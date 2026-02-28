@@ -1,0 +1,31 @@
+{
+  "id": "amodo-design--graduate-software-engineer--2025-12",
+  "title": "Graduate Software Engineer",
+  "organization": "amodo-design",
+  "source": "80k-hours",
+  "source_url": "https://amododesign.com/career/graduate-software-engineer/",
+  "jd_file": "data/jds/amodo-design--graduate-software-engineer--2025-12.md",
+  "location": {
+    "type": "remote",
+    "cities": [
+      "Sheffield, UK"
+    ]
+  },
+  "salary": {
+    "currency": "GBP",
+    "period": "annual",
+    "min": 35000.0,
+    "max": 45000.0
+  },
+  "posted_date": "2025-12-29",
+  "deadline": null,
+  "date_added": "2026-02-28",
+  "tags": [
+    "technical",
+    "full-time",
+    "software-engineering"
+  ],
+  "status": "unknown",
+  "confidence": 1.0,
+  "notes": null
+}

@@ -1,0 +1,32 @@
+{
+  "id": "control-ai--policy-advisor--2026-02",
+  "title": "Policy Advisor",
+  "organization": "control-ai",
+  "source": "80k-hours",
+  "source_url": "https://jobs.eu.lever.co/controlai/5b5b759f-3d5e-4998-a3f1-ad8fd416cad3",
+  "jd_file": "data/jds/control-ai--policy-advisor--2026-02.md",
+  "location": {
+    "type": "onsite",
+    "cities": [
+      "London, UK"
+    ]
+  },
+  "salary": {
+    "currency": "GBP",
+    "period": "annual",
+    "min": 60000.0,
+    "max": 80000.0
+  },
+  "posted_date": "2026-02-16",
+  "deadline": null,
+  "date_added": "2026-02-28",
+  "tags": [
+    "ai-safety-policy",
+    "full-time",
+    "policy",
+    "outreach"
+  ],
+  "status": "unknown",
+  "confidence": 1.0,
+  "notes": null
+}

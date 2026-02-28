@@ -1,0 +1,31 @@
+{
+  "id": "centre-for-the-governance-of-ai--people-operations-associate--2026-02",
+  "title": "People Operations Associate",
+  "organization": "centre-for-the-governance-of-ai",
+  "source": "80k-hours",
+  "source_url": "https://www.governance.ai/post/people-operations-associate",
+  "jd_file": "data/jds/centre-for-the-governance-of-ai--people-operations-associate--2026-02.md",
+  "location": {
+    "type": "onsite",
+    "cities": [
+      "London, UK"
+    ]
+  },
+  "salary": {
+    "currency": "GBP",
+    "period": "annual",
+    "min": 66000.0,
+    "max": 80000.0
+  },
+  "posted_date": "2026-02-24",
+  "deadline": null,
+  "date_added": "2026-02-28",
+  "tags": [
+    "ai-safety-policy",
+    "full-time",
+    "operations"
+  ],
+  "status": "unknown",
+  "confidence": 1.0,
+  "notes": null
+}

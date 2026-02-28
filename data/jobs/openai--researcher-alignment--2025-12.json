@@ -1,0 +1,32 @@
+{
+  "id": "openai--researcher-alignment--2025-12",
+  "title": "Researcher, Alignment",
+  "organization": "openai",
+  "source": "80k-hours",
+  "source_url": "https://openai.com/careers/researcher-alignment-san-francisco/",
+  "jd_file": "data/jds/openai--researcher-alignment--2025-12.md",
+  "location": {
+    "type": "onsite",
+    "cities": [
+      "San Francisco Bay Area"
+    ]
+  },
+  "salary": {
+    "currency": "USD",
+    "period": "annual",
+    "min": 295000.0,
+    "max": 440000.0
+  },
+  "posted_date": "2025-12-24",
+  "deadline": null,
+  "date_added": "2026-02-28",
+  "tags": [
+    "ai-safety-policy",
+    "full-time",
+    "research",
+    "software-engineering"
+  ],
+  "status": "unknown",
+  "confidence": 1.0,
+  "notes": null
+}

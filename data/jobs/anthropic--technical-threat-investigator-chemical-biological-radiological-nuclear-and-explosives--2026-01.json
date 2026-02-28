@@ -1,0 +1,34 @@
+{
+  "id": "anthropic--technical-threat-investigator-chemical-biological-radiological-nuclear-and-explosives--2026-01",
+  "title": "Technical Threat Investigator, Chemical, Biological, Radiological, Nuclear, and Explosives",
+  "organization": "anthropic",
+  "source": "80k-hours",
+  "source_url": "https://job-boards.greenhouse.io/anthropic/jobs/5066997008",
+  "jd_file": "data/jds/anthropic--technical-threat-investigator-chemical-biological-radiological-nuclear-and-explosives--2026-01.md",
+  "location": {
+    "type": "onsite",
+    "cities": [
+      "San Francisco Bay Area",
+      "New York, NY"
+    ]
+  },
+  "salary": {
+    "currency": "USD",
+    "period": "annual",
+    "min": 230000.0,
+    "max": 290000.0
+  },
+  "posted_date": "2026-01-14",
+  "deadline": null,
+  "date_added": "2026-02-28",
+  "tags": [
+    "ai-safety-policy",
+    "biosecurity-pandemic-preparedness",
+    "full-time",
+    "research",
+    "information-security"
+  ],
+  "status": "unknown",
+  "confidence": 1.0,
+  "notes": null
+}

@@ -1,0 +1,29 @@
+{
+  "id": "centre-for-effective-altruism--head-of-the-long-term-future-fund--2026-02",
+  "title": "Head of the Long-Term Future Fund",
+  "organization": "centre-for-effective-altruism",
+  "source": "80k-hours",
+  "source_url": "https://www.centreforeffectivealtruism.org/careers?ashby_jid=9554c2ba-0bc8-4e0e-b43a-ea24a86c0daa",
+  "jd_file": "data/jds/centre-for-effective-altruism--head-of-the-long-term-future-fund--2026-02.md",
+  "location": {
+    "type": "remote"
+  },
+  "salary": {
+    "currency": "GBP",
+    "period": "annual",
+    "min": 157435.0,
+    "max": 186665.0
+  },
+  "posted_date": "2026-02-12",
+  "deadline": "2026-03-12",
+  "date_added": "2026-02-28",
+  "tags": [
+    "building-effective-altruism",
+    "full-time",
+    "management",
+    "strategy"
+  ],
+  "status": "unknown",
+  "confidence": 1.0,
+  "notes": null
+}

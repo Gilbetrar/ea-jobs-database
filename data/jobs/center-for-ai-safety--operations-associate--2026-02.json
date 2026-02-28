@@ -1,0 +1,31 @@
+{
+  "id": "center-for-ai-safety--operations-associate--2026-02",
+  "title": "Operations Associate",
+  "organization": "center-for-ai-safety",
+  "source": "80k-hours",
+  "source_url": "https://jobs.lever.co/aisafety/b3d9b0f5-e382-4c5b-a2cb-fa64209702b4",
+  "jd_file": "data/jds/center-for-ai-safety--operations-associate--2026-02.md",
+  "location": {
+    "type": "onsite",
+    "cities": [
+      "San Francisco Bay Area"
+    ]
+  },
+  "salary": {
+    "currency": "USD",
+    "period": "annual",
+    "min": 80000.0,
+    "max": 110000.0
+  },
+  "posted_date": "2026-02-09",
+  "deadline": null,
+  "date_added": "2026-02-28",
+  "tags": [
+    "ai-safety-policy",
+    "full-time",
+    "operations"
+  ],
+  "status": "unknown",
+  "confidence": 1.0,
+  "notes": null
+}

@@ -1,0 +1,30 @@
+{
+  "id": "information-technology-promotion-agency--contract-staff-ai-related-environment-development-and-promotion-work-digital-infrastructure-center--2022-01",
+  "title": "Contract Staff, AI-Related Environment Development and Promotion Work, Digital Infrastructure Center",
+  "organization": "information-technology-promotion-agency",
+  "source": "80k-hours",
+  "source_url": "https://www.ipa.go.jp/recruit/shokutaku/shokutaku-di04.html",
+  "jd_file": "data/jds/information-technology-promotion-agency--contract-staff-ai-related-environment-development-and-promotion-work-digital-infrastructure-center--2022-01.md",
+  "location": {
+    "type": "onsite",
+    "cities": [
+      "Tokyo, Japan"
+    ]
+  },
+  "salary": null,
+  "posted_date": "2022-01-06",
+  "deadline": null,
+  "date_added": "2026-02-28",
+  "tags": [
+    "ai-safety-policy",
+    "full-time",
+    "part-time",
+    "research",
+    "policy",
+    "operations",
+    "management"
+  ],
+  "status": "unknown",
+  "confidence": 1.0,
+  "notes": null
+}

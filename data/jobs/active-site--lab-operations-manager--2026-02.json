@@ -1,0 +1,32 @@
+{
+  "id": "active-site--lab-operations-manager--2026-02",
+  "title": "Lab Operations Manager",
+  "organization": "active-site",
+  "source": "80k-hours",
+  "source_url": "https://jobs.ashbyhq.com/panoplialabs/0ef96a40-b509-45b1-a1fe-f9c6432d3423",
+  "jd_file": "data/jds/active-site--lab-operations-manager--2026-02.md",
+  "location": {
+    "type": "onsite",
+    "cities": [
+      "Boston metro area"
+    ]
+  },
+  "salary": {
+    "currency": "USD",
+    "period": "annual",
+    "min": 100000.0,
+    "max": 130000.0
+  },
+  "posted_date": "2026-02-09",
+  "deadline": null,
+  "date_added": "2026-02-28",
+  "tags": [
+    "biosecurity-pandemic-preparedness",
+    "full-time",
+    "operations",
+    "management"
+  ],
+  "status": "unknown",
+  "confidence": 1.0,
+  "notes": null
+}

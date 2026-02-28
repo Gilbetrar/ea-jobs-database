@@ -1,0 +1,33 @@
+{
+  "id": "constellation--senior-business-operations-generalist--2026-02",
+  "title": "Senior Business Operations Generalist",
+  "organization": "constellation",
+  "source": "80k-hours",
+  "source_url": "https://constellation.org/careers/senior-business-operations-generalist?hsLang=en",
+  "jd_file": "data/jds/constellation--senior-business-operations-generalist--2026-02.md",
+  "location": {
+    "type": "onsite",
+    "cities": [
+      "San Francisco Bay Area"
+    ]
+  },
+  "salary": {
+    "currency": "USD",
+    "period": "annual",
+    "min": 113000.0,
+    "max": 145000.0
+  },
+  "posted_date": "2026-02-16",
+  "deadline": null,
+  "date_added": "2026-02-28",
+  "tags": [
+    "ai-safety-policy",
+    "full-time",
+    "operations",
+    "legal",
+    "finance"
+  ],
+  "status": "unknown",
+  "confidence": 1.0,
+  "notes": null
+}

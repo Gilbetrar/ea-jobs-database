@@ -1,0 +1,23 @@
+{
+  "id": "forecasting-research-institute--research-assistant--2022-01",
+  "title": "Research Assistant",
+  "organization": "forecasting-research-institute",
+  "source": "80k-hours",
+  "source_url": "https://forecastingresearch.org/roles/research-assistant",
+  "jd_file": "data/jds/forecasting-research-institute--research-assistant--2022-01.md",
+  "location": {
+    "type": "remote"
+  },
+  "salary": null,
+  "posted_date": "2022-01-02",
+  "deadline": null,
+  "date_added": "2026-02-28",
+  "tags": [
+    "global-priorities-research",
+    "part-time",
+    "research"
+  ],
+  "status": "unknown",
+  "confidence": 1.0,
+  "notes": null
+}

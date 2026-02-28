@@ -1,0 +1,26 @@
+{
+  "id": "elicit--ai-engineer--2022-01",
+  "title": "AI Engineer",
+  "organization": "elicit",
+  "source": "80k-hours",
+  "source_url": "https://elicit.com/careers?ashby_jid=d27d51d7-b318-4cb0-9b88-c37de18905f3",
+  "jd_file": "data/jds/elicit--ai-engineer--2022-01.md",
+  "location": {
+    "type": "onsite",
+    "cities": [
+      "San Francisco Bay Area"
+    ]
+  },
+  "salary": null,
+  "posted_date": "2022-01-11",
+  "deadline": null,
+  "date_added": "2026-02-28",
+  "tags": [
+    "ai-safety-policy",
+    "full-time",
+    "software-engineering"
+  ],
+  "status": "unknown",
+  "confidence": 1.0,
+  "notes": null
+}

@@ -1,0 +1,29 @@
+{
+  "id": "martian--interpretability-challenge--2025-12",
+  "title": "Interpretability Challenge",
+  "organization": "martian",
+  "source": "80k-hours",
+  "source_url": "https://withmartian.com/prize",
+  "jd_file": "data/jds/martian--interpretability-challenge--2025-12.md",
+  "location": {
+    "type": "remote"
+  },
+  "salary": {
+    "currency": "USD",
+    "period": "annual",
+    "min": 1000000.0,
+    "max": 1000000.0
+  },
+  "posted_date": "2025-12-10",
+  "deadline": null,
+  "date_added": "2026-02-28",
+  "tags": [
+    "ai-safety-policy",
+    "funding",
+    "research",
+    "software-engineering"
+  ],
+  "status": "unknown",
+  "confidence": 1.0,
+  "notes": null
+}

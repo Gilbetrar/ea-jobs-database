@@ -1,0 +1,32 @@
+{
+  "id": "oxford-university-department-of-computer-science--scholarship-doctor-of-philosophy-security-of-ai-systems--2022-01",
+  "title": "Scholarship, Doctor of Philosophy, Security of AI Systems",
+  "organization": "oxford-university-department-of-computer-science",
+  "source": "80k-hours",
+  "source_url": "https://www.cs.ox.ac.uk/aboutus/vacancies/floc_io.html",
+  "jd_file": "data/jds/oxford-university-department-of-computer-science--scholarship-doctor-of-philosophy-security-of-ai-systems--2022-01.md",
+  "location": {
+    "type": "onsite",
+    "cities": [
+      "Oxford, UK"
+    ]
+  },
+  "salary": {
+    "currency": "GBP",
+    "period": "annual",
+    "min": 20780.0,
+    "max": 20780.0
+  },
+  "posted_date": "2022-01-06",
+  "deadline": "2026-03-03",
+  "date_added": "2026-02-28",
+  "tags": [
+    "ai-safety-policy",
+    "funding",
+    "research",
+    "information-security"
+  ],
+  "status": "unknown",
+  "confidence": 1.0,
+  "notes": null
+}

@@ -1,0 +1,28 @@
+{
+  "id": "carnegie-mellon-university-software-engineering-institute--ai-security-researcher--2026-01",
+  "title": "AI Security Researcher",
+  "organization": "carnegie-mellon-university-software-engineering-institute",
+  "source": "80k-hours",
+  "source_url": "https://cmu.wd5.myworkdayjobs.com/en-US/SEI/job/Pittsburgh-PA/AI-Security-Researcher_2024057-1",
+  "jd_file": "data/jds/carnegie-mellon-university-software-engineering-institute--ai-security-researcher--2026-01.md",
+  "location": {
+    "type": "onsite",
+    "cities": [
+      "Pittsburgh, PA"
+    ]
+  },
+  "salary": null,
+  "posted_date": "2026-01-21",
+  "deadline": null,
+  "date_added": "2026-02-28",
+  "tags": [
+    "ai-safety-policy",
+    "full-time",
+    "research",
+    "software-engineering",
+    "information-security"
+  ],
+  "status": "unknown",
+  "confidence": 1.0,
+  "notes": null
+}

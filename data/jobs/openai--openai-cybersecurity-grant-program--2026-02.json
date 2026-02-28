@@ -1,0 +1,24 @@
+{
+  "id": "openai--openai-cybersecurity-grant-program--2026-02",
+  "title": "OpenAI Cybersecurity Grant Program",
+  "organization": "openai",
+  "source": "80k-hours",
+  "source_url": "https://openai.com/blog/openai-cybersecurity-grant-program",
+  "jd_file": "data/jds/openai--openai-cybersecurity-grant-program--2026-02.md",
+  "location": {
+    "type": "remote"
+  },
+  "salary": null,
+  "posted_date": "2026-02-23",
+  "deadline": null,
+  "date_added": "2026-02-28",
+  "tags": [
+    "ai-safety-policy",
+    "fellowship",
+    "funding",
+    "information-security"
+  ],
+  "status": "unknown",
+  "confidence": 1.0,
+  "notes": null
+}

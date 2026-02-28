@@ -1,0 +1,29 @@
+{
+  "id": "us-government-senate--list-of-internship-opportunities-u-s-senate--2026-02",
+  "title": "List of Internship Opportunities, U.S. Senate",
+  "organization": "us-government-senate",
+  "source": "80k-hours",
+  "source_url": "https://www.senate.gov/employment/po/internships.htm",
+  "jd_file": "data/jds/us-government-senate--list-of-internship-opportunities-u-s-senate--2026-02.md",
+  "location": {
+    "type": "onsite",
+    "cities": [
+      "Washington, DC metro area"
+    ]
+  },
+  "salary": null,
+  "posted_date": "2026-02-24",
+  "deadline": null,
+  "date_added": "2026-02-28",
+  "tags": [
+    "other-policy-focused",
+    "internship",
+    "research",
+    "policy",
+    "operations",
+    "congressional-staffer"
+  ],
+  "status": "unknown",
+  "confidence": 1.0,
+  "notes": null
+}

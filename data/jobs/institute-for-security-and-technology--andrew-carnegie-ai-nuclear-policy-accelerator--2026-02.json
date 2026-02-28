@@ -1,0 +1,27 @@
+{
+  "id": "institute-for-security-and-technology--andrew-carnegie-ai-nuclear-policy-accelerator--2026-02",
+  "title": "Andrew Carnegie AI-Nuclear Policy Accelerator",
+  "organization": "institute-for-security-and-technology",
+  "source": "80k-hours",
+  "source_url": "https://securityandtechnology.org/blog/ist-launches-the-andrew-carnegie-ai-nuclear-policy-accelerator/",
+  "jd_file": "data/jds/institute-for-security-and-technology--andrew-carnegie-ai-nuclear-policy-accelerator--2026-02.md",
+  "location": {
+    "type": "onsite",
+    "cities": [
+      "San Francisco Bay Area"
+    ]
+  },
+  "salary": null,
+  "posted_date": "2026-02-18",
+  "deadline": "2026-02-28",
+  "date_added": "2026-02-28",
+  "tags": [
+    "ai-safety-policy",
+    "nuclear-security",
+    "other",
+    "policy"
+  ],
+  "status": "unknown",
+  "confidence": 1.0,
+  "notes": null
+}

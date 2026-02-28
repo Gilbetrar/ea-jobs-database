@@ -1,0 +1,33 @@
+{
+  "id": "apollo-research--full-stack-engineer-monitoring--2025-12",
+  "title": "Full Stack Engineer, Monitoring",
+  "organization": "apollo-research",
+  "source": "80k-hours",
+  "source_url": "https://jobs.lever.co/apolloresearch/bdc9ea00-6744-4f2a-8f23-06081af3945c?utm_source=80k",
+  "jd_file": "data/jds/apollo-research--full-stack-engineer-monitoring--2025-12.md",
+  "location": {
+    "type": "onsite",
+    "cities": [
+      "London, UK"
+    ]
+  },
+  "salary": {
+    "currency": "GBP",
+    "period": "annual",
+    "min": 100000.0,
+    "max": 180000.0
+  },
+  "posted_date": "2025-12-18",
+  "deadline": null,
+  "date_added": "2026-02-28",
+  "tags": [
+    "ai-safety-policy",
+    "full-time",
+    "software-engineering",
+    "information-security",
+    "data"
+  ],
+  "status": "unknown",
+  "confidence": 1.0,
+  "notes": null
+}

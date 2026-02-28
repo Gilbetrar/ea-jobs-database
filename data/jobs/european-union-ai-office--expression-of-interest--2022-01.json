@@ -1,0 +1,24 @@
+{
+  "id": "european-union-ai-office--expression-of-interest--2022-01",
+  "title": "Expression of Interest",
+  "organization": "european-union-ai-office",
+  "source": "80k-hours",
+  "source_url": "https://ec.europa.eu/eusurvey/runner/AIOffice-Interest-General",
+  "jd_file": "data/jds/european-union-ai-office--expression-of-interest--2022-01.md",
+  "location": {
+    "type": "remote"
+  },
+  "salary": null,
+  "posted_date": "2022-01-05",
+  "deadline": null,
+  "date_added": "2026-02-28",
+  "tags": [
+    "ai-safety-policy",
+    "full-time",
+    "research",
+    "policy"
+  ],
+  "status": "unknown",
+  "confidence": 1.0,
+  "notes": null
+}

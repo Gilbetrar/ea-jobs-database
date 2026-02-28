@@ -1,0 +1,32 @@
+{
+  "id": "interface--policy-researcher-ai-systems-markets-and-governance-programme--2026-02",
+  "title": "Policy Researcher, AI Systems, Markets and Governance Programme",
+  "organization": "interface",
+  "source": "80k-hours",
+  "source_url": "https://jobs.interface-eu.org/en?id=0b4f4c",
+  "jd_file": "data/jds/interface--policy-researcher-ai-systems-markets-and-governance-programme--2026-02.md",
+  "location": {
+    "type": "onsite",
+    "cities": [
+      "Berlin, Germany"
+    ]
+  },
+  "salary": {
+    "currency": "EUR",
+    "period": "annual",
+    "min": 45600.0,
+    "max": 52800.0
+  },
+  "posted_date": "2026-02-12",
+  "deadline": "2026-03-08",
+  "date_added": "2026-02-28",
+  "tags": [
+    "ai-safety-policy",
+    "full-time",
+    "research",
+    "policy"
+  ],
+  "status": "unknown",
+  "confidence": 1.0,
+  "notes": null
+}

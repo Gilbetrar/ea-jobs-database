@@ -1,0 +1,33 @@
+{
+  "id": "uk-government-ai-security-institute--research-scientist-engineer-biological-models--2022-01",
+  "title": "Research Scientist / Engineer, Biological Models",
+  "organization": "uk-government-ai-security-institute",
+  "source": "80k-hours",
+  "source_url": "https://job-boards.eu.greenhouse.io/aisi/jobs/4548437101",
+  "jd_file": "data/jds/uk-government-ai-security-institute--research-scientist-engineer-biological-models--2022-01.md",
+  "location": {
+    "type": "onsite",
+    "cities": [
+      "London, UK"
+    ]
+  },
+  "salary": {
+    "currency": "GBP",
+    "period": "annual",
+    "min": 65000.0,
+    "max": 145000.0
+  },
+  "posted_date": "2022-01-07",
+  "deadline": null,
+  "date_added": "2026-02-28",
+  "tags": [
+    "ai-safety-policy",
+    "biosecurity-pandemic-preparedness",
+    "full-time",
+    "research",
+    "software-engineering"
+  ],
+  "status": "unknown",
+  "confidence": 1.0,
+  "notes": null
+}

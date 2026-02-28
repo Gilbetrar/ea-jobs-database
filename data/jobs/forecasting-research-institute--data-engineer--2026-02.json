@@ -1,0 +1,28 @@
+{
+  "id": "forecasting-research-institute--data-engineer--2026-02",
+  "title": "Data Engineer",
+  "organization": "forecasting-research-institute",
+  "source": "80k-hours",
+  "source_url": "https://forecastingresearch.org/roles/data-engineer",
+  "jd_file": "data/jds/forecasting-research-institute--data-engineer--2026-02.md",
+  "location": {
+    "type": "remote"
+  },
+  "salary": {
+    "currency": "USD",
+    "period": "annual",
+    "min": 75000.0,
+    "max": 130000.0
+  },
+  "posted_date": "2026-02-20",
+  "deadline": null,
+  "date_added": "2026-02-28",
+  "tags": [
+    "global-priorities-research",
+    "full-time",
+    "software-engineering"
+  ],
+  "status": "unknown",
+  "confidence": 1.0,
+  "notes": null
+}

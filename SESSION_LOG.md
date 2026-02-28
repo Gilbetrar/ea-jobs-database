@@ -150,3 +150,45 @@
 - Linked records (Jobs → Organizations relationship) not yet implemented (requires Airtable record IDs)
 - curated.json doesn't exist yet (depends on issue #6 Data Quality Review)
 - May need to test with real Airtable base to verify field type compatibility
+
+---
+
+## Agent Session - Issue #5
+
+**Worked on:** Issue #5 - 80K Hours Ingestion via Algolia API
+
+**What I did:**
+- Built `scripts/fetch_80k_hours.py` — Algolia fetcher with:
+  - Paginated search of `jobs_prod_super_ranked` index (834 jobs)
+  - Company data from `companies_prod` index (57 companies)
+  - Salary text parsing ($X - $Y format, skips hourly rates)
+  - Location type inference from tags_location_type and tags_city
+  - HTML-to-markdown conversion using markdownify library
+  - YAML frontmatter on JD files (job_id, source_url, fetched_date, platform)
+  - Cross-source deduplication against existing Slack data
+  - Org merging (preserves existing manual data)
+  - --dry-run, --since, --limit CLI flags
+  - API connectivity pre-check (fail fast)
+  - Duplicate job ID handling (appends objectID suffix)
+- Created test fixtures: sample_algolia_record.json, sample_algolia_expected.json, sample_jd_html.html, sample_jd_expected.md
+- Created `scripts/test_issue_5.py` with 47 tests (all pass, 0 warnings)
+- Ran full import: 834 jobs, 370 orgs, 834 JDs — all validate against schemas
+
+**What I learned:**
+- `browse_objects` requires more than search-only API key permissions — use paginated `search_single_index` instead
+- All 834 jobs fit in a single page with hitsPerPage=1000
+- Algolia records use Pydantic models in v4 SDK — use `.to_dict()` to get plain dicts
+- The `description` field is empty for most records; `description_short` has the HTML summary
+- Salary field is free text (e.g. "$140,000 - $170,000 award") requiring regex parsing
+- markdownify library handles HTML→markdown better than the custom HTMLToMarkdown parser from issue #3
+- Unix timestamps must use UTC explicitly (`datetime.fromtimestamp(ts, tz=timezone.utc)`) for deterministic tests
+
+**Codebase facts discovered:**
+- No CI (confirmed — no GitHub Actions workflows)
+- algoliasearch v4.37.0 uses Pydantic models, not plain dicts
+- markdownify already installed (v1.2.2)
+- Job schema already includes source enum value "80k-hours" — no schema change needed
+
+**Mistakes made:**
+- Initially used `datetime.utcfromtimestamp()` (deprecated in Python 3.12+), switched to `datetime.fromtimestamp(ts, tz=timezone.utc)`
+- Initially tried `browse_objects()` which isn't allowed with search-only keys

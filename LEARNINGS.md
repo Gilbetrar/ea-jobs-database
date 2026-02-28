@@ -22,7 +22,10 @@ python3 scripts/parse_slack_export.py path/to/export.md  # Run parser on Slack e
 python3 scripts/fetch_jds.py [--dry-run] [--limit N]     # Fetch JDs from source URLs
 python3 scripts/sync_to_airtable.py --dry-run --all      # Preview Airtable sync
 python3 scripts/test_issue_4.py                          # Validate Airtable sync script
+python3 scripts/fetch_80k_hours.py [--dry-run] [--since] # Fetch 80K Hours jobs via Algolia
+python3 scripts/test_issue_5.py                          # Validate 80K Hours fetcher
 pip3 install jsonschema                                  # Required dependency
+pip3 install algoliasearch markdownify                   # Required for 80K Hours fetcher
 ```
 
 ## Conventions
@@ -30,7 +33,7 @@ pip3 install jsonschema                                  # Required dependency
 - **Job IDs**: `org-name--role-title--YYYY-MM` (lowercase, hyphens, double-dash separators)
 - **Org IDs**: `org-name` (lowercase, hyphens)
 - All JSON validated against schemas in `schemas/`
-- `confidence` < 1.0 for auto-parsed records, 1.0 for manual
+- `confidence` < 1.0 for auto-parsed records, 1.0 for manual and structured sources (80K Hours)
 
 ## Key Patterns
 
@@ -55,3 +58,7 @@ pip3 install jsonschema                                  # Required dependency
 - Airtable sync uses env vars: AIRTABLE_API_KEY, AIRTABLE_BASE_ID (required for live sync)
 - Airtable multi-select fields require `[{"name": "value"}]` format, not plain arrays
 - Sync script logs to stderr, JSON output to stdout — keeps --output-json clean
+- Algolia search-only keys can't use `browse_objects` — use paginated `search_single_index` instead
+- Algolia SDK v4 returns Pydantic models — use `.to_dict()` to get plain dicts
+- 80K Hours data: `description_short` has HTML, `description` is usually empty
+- Use `datetime.fromtimestamp(ts, tz=timezone.utc)` not `utcfromtimestamp()` (deprecated Python 3.12+)

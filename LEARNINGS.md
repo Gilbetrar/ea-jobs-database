@@ -82,7 +82,12 @@ python3 scripts/test_issue_8.py                          # Validate issue #8 Pha
 - Test section name assertions are case-insensitive substring checks — ensure report headers contain expected keywords
 - `rapidfuzz.fuzz.ratio` returns 0-100, divide by 100 for 0-1 range
 - `jd_quality.py` scorer: 0-100 scale, promote (>=60), review (40-59), quarantine (<40 or fatal)
-- All 834 current JD files are short 80K summaries (300-750 chars) — they all score < 50
-- Issue #8 is multi-phase: Phase 1 (scorer) done, Phase 2a (infrastructure) done, Phase 2b (run fetch), Phase 3 (review+sync)
+- `jd_quality.py` scorer: 0-100 scale, promote (>=60), review (40-59), quarantine (<40 or fatal)
+- Issue #8 is multi-phase: Phase 1 (scorer) done, Phase 2a (infrastructure) done, Phase 2b (run fetch) done, Phase 3 (review+sync)
 - `fetch_jds.py --overwrite` writes to `data/jds-staging/`, not production; `--promote` triggers score+backup+promote
 - Promotion only overwrites production if staged file body is longer than existing (prevents regression)
+- Lever pages have ~700KB inline CSS with class names matching content patterns — ALWAYS strip before `</style>` before extracting
+- Ashby/Workable are JS-rendered SPA — `urllib` gets empty shells, needs headless browser (out of scope)
+- Google Docs URLs need `/pub` or `/export?format=html` suffix for content (default `/edit` returns UI chrome)
+- Phase 2b results: 543 JDs overwritten with full content, 75 quarantined, 25 for review. Backup at `data/jds-backup/`
+- `data/jds-staging/` and `data/jds-backup/` are gitignored (working data only)

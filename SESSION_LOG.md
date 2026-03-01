@@ -317,3 +317,48 @@
 **Mistakes made:**
 - Initially created staging dir even in dry-run mode; fixed by guarding mkdir with `if not dry_run`
 
+---
+
+## Agent Session - Issue #8 Phase 2b (Run Fetch)
+
+**Worked on:** Issue #8 - Re-fetch full JDs, Phase 2b: Execute full fetch pipeline
+
+**What I did:**
+1. Verified Phase 1 tests still pass (36 pass, 0 fail)
+2. Ran small test fetch (5 jobs) to verify pipeline works end-to-end
+3. Ran full fetch: `python3 scripts/fetch_jds.py --overwrite --promote`
+4. Discovered Lever extractor was broken — only extracting header (75 chars) not body
+5. Fixed Lever extractor to strip CSS before matching content markers
+6. Re-fetched 41 Lever jobs with fixed extractor — 40/41 now promotable
+7. Re-ran promotion pipeline: 548 promoted, 75 quarantined, 25 for review
+8. All 46 tests pass with 0 failures, 0 warnings
+
+**Pipeline results:**
+- 835 total jobs, 804 fetchable (31 form URLs skipped)
+- 682 fetched, 123 failed
+- 548 promoted (score >= 60), 75 quarantined, 25 review
+- 543 production files actually overwritten (5 shorter than existing)
+
+**Platform breakdown:**
+- Greenhouse: 104/104 fetched, 100 promoted — excellent
+- Lever: 41/41 fetched, 40 promoted — after fix
+- Generic: 514/588 fetched, 407 promoted
+- Google Docs: 23/28 fetched, 1 promoted — UI chrome captured, needs /pub URL
+- Ashby: 0/29 — JS-rendered, cannot fetch with urllib
+- Workable: 0/14 — JS-rendered, cannot fetch with urllib
+
+**What I learned:**
+- Lever pages have massive inline CSS (~700KB HTML) with class names that match content patterns
+- Stripping everything before last `</style>` tag is essential for reliable Lever extraction
+- Lever content lives in `<div class="section page-centered">` sections
+- Google Docs URLs need `/pub` or `/export?format=html` variant for content access
+- Ashby and Workable are fundamentally JS-rendered — urllib gets empty SPA shells
+- The 5-job test fetch was valuable — it caught that the pipeline worked before committing to 20+ min full run
+
+**Mistakes made:**
+- First attempted `cd dir && python script` in background shell, which fails due to bash rules
+- Didn't discover the Lever CSS issue until after the initial full fetch
+
+**Remaining work for Issue #8:**
+- Phase 3: Ben reviews 25-item review queue, Airtable sync, skill update
+

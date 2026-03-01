@@ -1,0 +1,677 @@
+[
+  {
+    "job_id": "active-site--head-of-operations--2026-01",
+    "platform": "google-docs",
+    "source_url": "https://docs.google.com/document/d/1b55BZq1yvFRIiuqGNng3hKkuWoVa2B2jqughjRIDRmU/edit?tab=t.0#heading=h.6sk1c0wbpmdz",
+    "score": 31,
+    "fatal_signal": null,
+    "body_length": 616,
+    "reason": "score_31"
+  },
+  {
+    "job_id": "adobe--ai-ml-intern-machine-learning-2026--2022-01",
+    "platform": "generic",
+    "source_url": "https://careers.adobe.com/us/en/job/R158493/2026-AI-ML-Intern-Machine-Learning-Engineer",
+    "score": 32,
+    "fatal_signal": null,
+    "body_length": 1276,
+    "reason": "score_32"
+  },
+  {
+    "job_id": "ai-safety-awareness-foundation--volunteer--2022-01",
+    "platform": "google-docs",
+    "source_url": "https://docs.google.com/document/d/1lEtqNXTuFz-_b5G9Hbp5JooOY8bY0PEVedjMSLwlx6I/edit?tab=t.0",
+    "score": 31,
+    "fatal_signal": null,
+    "body_length": 622,
+    "reason": "score_31"
+  },
+  {
+    "job_id": "animal-equality--speculative-application--2022-01",
+    "platform": "generic",
+    "source_url": "https://animal-equality-germany-ev.jobs.personio.de/job/1359239?language=de?language=",
+    "score": 28,
+    "fatal_signal": null,
+    "body_length": 551,
+    "reason": "score_28"
+  },
+  {
+    "job_id": "azolla-ventures--partner--2022-01",
+    "platform": "generic",
+    "source_url": "https://drive.google.com/file/d/1NXpzT_f7eTcGFZEBHXRigyk2JHh8t_wT/view",
+    "score": 26,
+    "fatal_signal": null,
+    "body_length": 278,
+    "reason": "score_26"
+  },
+  {
+    "job_id": "bipartisan-policy-center--summer-internship-governance-program--2026-02",
+    "platform": "generic",
+    "source_url": "https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=b7ec3708-935d-4824-b8ca-81a1101b34c3&ccId=19000101_000003&lang=en_US&jobId=561745&jwId=SYS:JW:001",
+    "score": 26,
+    "fatal_signal": null,
+    "body_length": 226,
+    "reason": "score_26"
+  },
+  {
+    "job_id": "bipartisan-policy-center--summer-internship-government-relations--2026-02",
+    "platform": "generic",
+    "source_url": "https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=b7ec3708-935d-4824-b8ca-81a1101b34c3&ccId=19000101_000003&lang=en_US&jobId=561751&jwId=SYS:JW:001",
+    "score": 26,
+    "fatal_signal": null,
+    "body_length": 228,
+    "reason": "score_26"
+  },
+  {
+    "job_id": "bluedot-impact--community-lead--2026-02",
+    "platform": "generic",
+    "source_url": "https://bluedot.org/join-us/community-lead?utm_source=80kJB",
+    "score": 38,
+    "fatal_signal": null,
+    "body_length": 357,
+    "reason": "score_38"
+  },
+  {
+    "job_id": "bluedot-impact--facilitator--2025-12",
+    "platform": "generic",
+    "source_url": "https://bluedot.org/join-us/facilitate?utm_source=80kJB",
+    "score": 27,
+    "fatal_signal": null,
+    "body_length": 153,
+    "reason": "score_27"
+  },
+  {
+    "job_id": "bluedot-impact--head-of-operations--2026-02",
+    "platform": "generic",
+    "source_url": "https://bluedot.org/join-us/head-of-operations?utm_source=80kJB",
+    "score": 30,
+    "fatal_signal": null,
+    "body_length": 398,
+    "reason": "score_30"
+  },
+  {
+    "job_id": "bluedot-impact--mentor--2025-12",
+    "platform": "generic",
+    "source_url": "https://bluedot.org/join-us/coach?utm_source=80kJB",
+    "score": 27,
+    "fatal_signal": null,
+    "body_length": 150,
+    "reason": "score_27"
+  },
+  {
+    "job_id": "carnegie-mellon-university--internship-data-science-for-social-good-summer-2026--2026-02",
+    "platform": "generic",
+    "source_url": "https://dssgfellowship.org/",
+    "score": 34,
+    "fatal_signal": null,
+    "body_length": 371,
+    "reason": "score_34"
+  },
+  {
+    "job_id": "center-on-long-term-risk--general-application--2022-01",
+    "platform": "generic",
+    "source_url": "https://longtermrisk.org/interest/",
+    "score": 36,
+    "fatal_signal": null,
+    "body_length": 1028,
+    "reason": "score_36"
+  },
+  {
+    "job_id": "climate-pledge-fund--list-of-climate-technology-roles--2022-01",
+    "platform": "generic",
+    "source_url": "https://portfoliojobs.theclimatepledge.com/jobs",
+    "score": 23,
+    "fatal_signal": null,
+    "body_length": 135,
+    "reason": "score_23"
+  },
+  {
+    "job_id": "concentric-policies--communications-intern-french-portuguese--2022-01",
+    "platform": "google-docs",
+    "source_url": "https://docs.google.com/document/d/1FM0Wo6mxGcTquVcz0St28t6BGOEiNXw04CxW8O5c-0k/edit#heading=h.92fcxz3w7i3o",
+    "score": 31,
+    "fatal_signal": null,
+    "body_length": 641,
+    "reason": "score_31"
+  },
+  {
+    "job_id": "ea-funds--grant-recipient-animal-welfare--2022-01",
+    "platform": "generic",
+    "source_url": "https://funds.effectivealtruism.org/funds/animal-welfare",
+    "score": 23,
+    "fatal_signal": null,
+    "body_length": 101,
+    "reason": "score_23"
+  },
+  {
+    "job_id": "ea-funds--grant-recipient-effective-altruism-infrastructure--2022-01",
+    "platform": "generic",
+    "source_url": "https://funds.effectivealtruism.org/funds/ea-community",
+    "score": 23,
+    "fatal_signal": null,
+    "body_length": 99,
+    "reason": "score_23"
+  },
+  {
+    "job_id": "ea-funds--grant-recipient-long-term-future--2022-01",
+    "platform": "generic",
+    "source_url": "https://funds.effectivealtruism.org/funds/far-future",
+    "score": 23,
+    "fatal_signal": null,
+    "body_length": 78,
+    "reason": "score_23"
+  },
+  {
+    "job_id": "encode--expression-of-interest--2022-01",
+    "platform": "google-docs",
+    "source_url": "https://docs.google.com/document/d/1QozUvK_7FpeaJSttdpXhE8h4VIwYxDbwCuHxY76Zafg/edit?tab=t.0",
+    "score": 31,
+    "fatal_signal": null,
+    "body_length": 933,
+    "reason": "score_31"
+  },
+  {
+    "job_id": "encode--policy-analyst-director--2022-01",
+    "platform": "google-docs",
+    "source_url": "https://docs.google.com/document/d/1UxruiF1jo5s956wbyRZp_SNrE1y4SNE0MF3-MkM5sqQ/edit?tab=t.0#heading=h.oqz3pmpx7801",
+    "score": 31,
+    "fatal_signal": null,
+    "body_length": 612,
+    "reason": "score_31"
+  },
+  {
+    "job_id": "essential--technical-operator-kenya--2022-01",
+    "platform": "generic",
+    "source_url": "https://drive.google.com/file/d/12DKjjH_y5pfVkwJVG79Yu_MsmXteiQKF/view",
+    "score": 26,
+    "fatal_signal": null,
+    "body_length": 296,
+    "reason": "score_26"
+  },
+  {
+    "job_id": "first-embrace--founding-director-director-of-operations--2026-01",
+    "platform": "google-docs",
+    "source_url": "https://docs.google.com/document/d/15ngrwjrFXk1rDVV6JelJHiEvcPQxfKOhXUpCDk7HpXQ/edit?usp=sharing",
+    "score": 31,
+    "fatal_signal": null,
+    "body_length": 632,
+    "reason": "score_31"
+  },
+  {
+    "job_id": "fp21--fellows--2022-01",
+    "platform": "generic",
+    "source_url": "https://drive.google.com/file/d/18G_FSF46BunvO9qYQ1C1qU2RTJr8jOa7/view",
+    "score": 26,
+    "fatal_signal": null,
+    "body_length": 271,
+    "reason": "score_26"
+  },
+  {
+    "job_id": "general-purpose-ai-policy-lab--chief-of-staff-to-the-chief-executive-officer--2026-02",
+    "platform": "google-docs",
+    "source_url": "https://docs.google.com/document/d/1oXWkoQEL9_jE2rCJ0IDV8871dP0M0sXg-jlNVdV0EJw/edit?tab=t.0#heading=h.q8n18m4w7f2n",
+    "score": 31,
+    "fatal_signal": null,
+    "body_length": 649,
+    "reason": "score_31"
+  },
+  {
+    "job_id": "george-mason-university-mercatus-center--various-fellowships--2026-02",
+    "platform": "generic",
+    "source_url": "https://www.mercatus.org/students/fellowships",
+    "score": 29,
+    "fatal_signal": null,
+    "body_length": 335,
+    "reason": "score_29"
+  },
+  {
+    "job_id": "good-impressions-media--project-manager-animal-welfare--2026-02",
+    "platform": "google-docs",
+    "source_url": "https://docs.google.com/document/d/1l2DGkABij1qhMVd5A3l9EFjExfJeEpmcDZrW5B-O65Q/edit?tab=t.0#heading=h.fk4t8v84gjcb",
+    "score": 31,
+    "fatal_signal": null,
+    "body_length": 627,
+    "reason": "score_31"
+  },
+  {
+    "job_id": "healthlearn--director-of-external-affairs--2026-01",
+    "platform": "generic",
+    "source_url": "https://drive.google.com/file/d/1qdJpJOEHhLCyUtuXmo3mGHpG8wlzdrBL/view",
+    "score": 26,
+    "fatal_signal": null,
+    "body_length": 292,
+    "reason": "score_26"
+  },
+  {
+    "job_id": "high-impact-medicine--volunteer-opportunities--2022-01",
+    "platform": "google-docs",
+    "source_url": "https://docs.google.com/document/d/1Nqz1vAJQzr4XOpB-mHg2YGzkIItX-RMj2b88pLROnjA/edit?tab=t.0#heading=h.6jynaot9cbnq",
+    "score": 31,
+    "fatal_signal": null,
+    "body_length": 609,
+    "reason": "score_31"
+  },
+  {
+    "job_id": "horizon-institute-for-public-service--list-of-short-term-policy-programs--2026-02",
+    "platform": "generic",
+    "source_url": "https://emergingtechpolicy.org/pathways/short-term-policy-programs/",
+    "score": 29,
+    "fatal_signal": null,
+    "body_length": 228,
+    "reason": "score_29"
+  },
+  {
+    "job_id": "hortus-ai--ux-intern--2022-01",
+    "platform": "google-docs",
+    "source_url": "https://docs.google.com/document/d/1X08pWxN4_7X9bOS3VL8OkrIPeT51NDl1ImsjbJGOg8c/edit",
+    "score": 31,
+    "fatal_signal": null,
+    "body_length": 558,
+    "reason": "score_31"
+  },
+  {
+    "job_id": "inhr--program-officer-aixbio--2026-02",
+    "platform": "google-docs",
+    "source_url": "https://docs.google.com/document/d/1O7uxswK9EKroljk8yaTMkWcdAXWtICAWXp6eHj6ZeWs/edit?usp=sharing",
+    "score": 31,
+    "fatal_signal": null,
+    "body_length": 629,
+    "reason": "score_31"
+  },
+  {
+    "job_id": "legal-advocates-for-safe-science-and-technology--operations-communications-and-research-manager--2022-01",
+    "platform": "google-docs",
+    "source_url": "https://docs.google.com/document/d/1xKv6O1kF_-PX0jLedXEXGKMgqgFa5BtLfSy9QO1I8_Q/edit?usp=sharing",
+    "score": 31,
+    "fatal_signal": null,
+    "body_length": 658,
+    "reason": "score_31"
+  },
+  {
+    "job_id": "longview-philanthropy--general-applications--2022-01",
+    "platform": "generic",
+    "source_url": "https://www.longview.org/careers/general-applications/",
+    "score": 24,
+    "fatal_signal": null,
+    "body_length": 408,
+    "reason": "score_24"
+  },
+  {
+    "job_id": "lyptus-research--cybersecurity-experts-ai-time-horizons--2026-02",
+    "platform": "google-docs",
+    "source_url": "https://docs.google.com/document/d/1Y9J5xBh7KfduvmugAPKNF5YgcVuV0voror20Rx6GYYo/edit?tab=t.0#heading=h.lffm2qynkwot",
+    "score": 31,
+    "fatal_signal": null,
+    "body_length": 645,
+    "reason": "score_31"
+  },
+  {
+    "job_id": "meat-like--ceo--2022-01",
+    "platform": "google-docs",
+    "source_url": "https://docs.google.com/document/d/1vHkPK8SMpmbGMoFIZs0E3VeYDj0ZHaE_RRP7pZ5n1KU/edit",
+    "score": 31,
+    "fatal_signal": null,
+    "body_length": 562,
+    "reason": "score_31"
+  },
+  {
+    "job_id": "mercy-for-animals--director-major-gifts--2026-02",
+    "platform": "generic",
+    "source_url": "https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=9b16364c-5e0e-4e66-be82-8f108b1eb279&ccId=19000101_000001&jobId=548727&source=CC2&lang=en_US&_ga=2.268128969.695369332.1771975192-1424199026.1770929654&_gac=1.120228474.1772038252.CjwKCAiA2PrMBhA4EiwAwpHyC6qHnuw0uvuPDXWCuODfJC7mfmiUmWhaO_122HRZ5nH80iQViHnfHBoCuwgQAvD_BwE",
+    "score": 26,
+    "fatal_signal": null,
+    "body_length": 210,
+    "reason": "score_26"
+  },
+  {
+    "job_id": "mercy-for-animals--legal-intern-law-scholars-for-change-fall-2025-spring-2026--2022-01",
+    "platform": "greenhouse",
+    "source_url": "https://job-boards.greenhouse.io/mercyforanimals/jobs/6650084?_ga=2.249772559.827919572.1756787095-1965807046.1753674741",
+    "score": 39,
+    "fatal_signal": null,
+    "body_length": 388,
+    "reason": "score_39"
+  },
+  {
+    "job_id": "meridian--intern-marketing-and-media-social-and-video--2022-01",
+    "platform": "google-docs",
+    "source_url": "https://docs.google.com/document/d/16MwSYURaxkstolkXCZzHVBIz9WgPmTbEul7Y3thjoac/edit?tab=t.0#heading=h.dk0m2eyh4s9u",
+    "score": 31,
+    "fatal_signal": null,
+    "body_length": 656,
+    "reason": "score_31"
+  },
+  {
+    "job_id": "mila--research-engineers-research-scientists--2022-01",
+    "platform": "generic",
+    "source_url": "https://yoshuabengio.org/news/",
+    "score": 35,
+    "fatal_signal": null,
+    "body_length": 1098,
+    "reason": "score_35"
+  },
+  {
+    "job_id": "national-university-of-singapore-asia-centre-for-health-security--research-fellow-infectious-disease-modelling--2022-01",
+    "platform": "generic",
+    "source_url": "https://careers.nus.edu.sg/job/Research-Fellow-%28Infectious-Disease-Modelling%29/30141-en_GB/",
+    "score": 29,
+    "fatal_signal": null,
+    "body_length": 691,
+    "reason": "score_29"
+  },
+  {
+    "job_id": "national-university-of-singapore-saw-swee-hock-school-of-public-health--research-associate-research-fellow--2022-01",
+    "platform": "generic",
+    "source_url": "https://careers.nus.edu.sg/job/Research-AssociateResearch-Fellow-%28part-time%29/30129-en_GB/",
+    "score": 29,
+    "fatal_signal": null,
+    "body_length": 682,
+    "reason": "score_29"
+  },
+  {
+    "job_id": "national-university-of-singapore-saw-swee-hock-school-of-public-health--research-fellow--2022-01",
+    "platform": "generic",
+    "source_url": "https://careers.nus.edu.sg/job/Research-Fellow-%28NUS-Advance-ID%29/29117-en_GB/",
+    "score": 29,
+    "fatal_signal": null,
+    "body_length": 661,
+    "reason": "score_29"
+  },
+  {
+    "job_id": "new-incentives--audit-expert-pro-bono--2022-01",
+    "platform": "google-docs",
+    "source_url": "https://docs.google.com/document/d/1_l46VONWJMmmIvZbTw7TaYbWE9N_Yx54mjkASkYFBzA/edit",
+    "score": 31,
+    "fatal_signal": null,
+    "body_length": 649,
+    "reason": "score_31"
+  },
+  {
+    "job_id": "partnership-for-public-service--intern-communications-and-public-engagement-summer-2026--2026-02",
+    "platform": "generic",
+    "source_url": "https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=45713b53-21b1-4127-847f-73f3b4916607&ccId=19000101_000001&jobId=610051&source=CC2&lang=en_US",
+    "score": 26,
+    "fatal_signal": null,
+    "body_length": 247,
+    "reason": "score_26"
+  },
+  {
+    "job_id": "partnership-for-public-service--intern-public-policy-and-stakeholder-engagement-summer-2026--2026-02",
+    "platform": "generic",
+    "source_url": "https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=45713b53-21b1-4127-847f-73f3b4916607&ccId=19000101_000001&jobId=610047&source=CC2&lang=en_US",
+    "score": 26,
+    "fatal_signal": null,
+    "body_length": 251,
+    "reason": "score_26"
+  },
+  {
+    "job_id": "pauseai--local-group-leaders-us--2022-01",
+    "platform": "generic",
+    "source_url": "https://www.pauseai-us.org/Apply",
+    "score": 23,
+    "fatal_signal": null,
+    "body_length": 53,
+    "reason": "score_23"
+  },
+  {
+    "job_id": "pax-sapiens--intern-office-for-research-and-analysis-open-nuclear-network--2026-02",
+    "platform": "generic",
+    "source_url": "https://paxsapiens.bamboohr.com/careers/50",
+    "score": 23,
+    "fatal_signal": null,
+    "body_length": 71,
+    "reason": "score_23"
+  },
+  {
+    "job_id": "rutgers-university-eagleton-institute-of-politics--fellowship-eagleton-science-and-politics-program--2026-01",
+    "platform": "generic",
+    "source_url": "https://eagleton.rutgers.edu/eagleton-science-and-politics-program-2/",
+    "score": 26,
+    "fatal_signal": null,
+    "body_length": 398,
+    "reason": "score_26"
+  },
+  {
+    "job_id": "secure-world-foundation--senior-program-analyst-space-law-and-regulation--2026-02",
+    "platform": "generic",
+    "source_url": "https://www.swfound.org/opportunities/senior-program-analyst-space-law-and-regulation",
+    "score": 26,
+    "fatal_signal": null,
+    "body_length": 500,
+    "reason": "score_26"
+  },
+  {
+    "job_id": "securebio--expression-of-interest--2026-02",
+    "platform": "generic",
+    "source_url": "https://securebio.org/careers/general-application",
+    "score": 29,
+    "fatal_signal": null,
+    "body_length": 379,
+    "reason": "score_29"
+  },
+  {
+    "job_id": "shrimp-welfare-project--technical-field-coordinator-asia--2026-01",
+    "platform": "google-docs",
+    "source_url": "https://docs.google.com/document/d/1WUJ1Eiamxr7_2tO8N32XPGeAy0eepER8xfzHErQQr7E/edit?usp=sharing",
+    "score": 31,
+    "fatal_signal": null,
+    "body_length": 632,
+    "reason": "score_31"
+  },
+  {
+    "job_id": "shrimp-welfare-project--technical-field-coordinator-latin-america--2026-01",
+    "platform": "google-docs",
+    "source_url": "https://docs.google.com/document/d/1VLkbd1pJL8yRBRqpIA5QEE8M_zzFEFjhZmRT4zNbfyA/edit?usp=sharing",
+    "score": 31,
+    "fatal_signal": null,
+    "body_length": 642,
+    "reason": "score_31"
+  },
+  {
+    "job_id": "spiro--program-lead-tb-shield-pakistan--2022-01",
+    "platform": "generic",
+    "source_url": "https://www.spiro.ngo/join-us",
+    "score": 37,
+    "fatal_signal": null,
+    "body_length": 639,
+    "reason": "score_37"
+  },
+  {
+    "job_id": "stanford-university-center-for-international-security-and-cooperation--research-assistant-to-oriana-skylar-mastro-chinese-language--2022-01",
+    "platform": "generic",
+    "source_url": "https://drive.google.com/file/d/1qCUm7zTJhogOXI03w53fDPAW9AEBqLGR/view",
+    "score": 26,
+    "fatal_signal": null,
+    "body_length": 324,
+    "reason": "score_26"
+  },
+  {
+    "job_id": "stanford-university-center-for-international-security-and-cooperation--research-assistant-to-oriana-skylar-mastro-russian-language--2022-01",
+    "platform": "generic",
+    "source_url": "https://drive.google.com/file/d/1K4lGFeRefwa5IqUwLmOM5Va6jWMCee3H/view",
+    "score": 26,
+    "fatal_signal": null,
+    "body_length": 324,
+    "reason": "score_26"
+  },
+  {
+    "job_id": "talos-network--communications-lead--2026-02",
+    "platform": "google-docs",
+    "source_url": "https://docs.google.com/document/d/1Um1rzkd5SIAQAcHUurRQ6KyfP0wqKNZjlWVD8F2BG7I/edit?usp=sharing",
+    "score": 31,
+    "fatal_signal": null,
+    "body_length": 635,
+    "reason": "score_31"
+  },
+  {
+    "job_id": "talos-network--operations-associate--2026-02",
+    "platform": "google-docs",
+    "source_url": "https://docs.google.com/document/d/1yco3_Iub2iSlracXpqKBlmQ0bJ1LODI73toLHTPv9Fw/edit?usp=sharing",
+    "score": 31,
+    "fatal_signal": null,
+    "body_length": 637,
+    "reason": "score_31"
+  },
+  {
+    "job_id": "talos-network--programme-co-lead-policy-leaders-programme--2026-02",
+    "platform": "google-docs",
+    "source_url": "https://docs.google.com/document/d/1l4m3jh_7pKh1xK7mHBkMzUquma2xxlOWS8iQ4M6qjfo/edit?usp=sharing",
+    "score": 31,
+    "fatal_signal": null,
+    "body_length": 650,
+    "reason": "score_31"
+  },
+  {
+    "job_id": "talos-network--talent-lead--2026-02",
+    "platform": "google-docs",
+    "source_url": "https://docs.google.com/document/d/1tYQSyYionqysdKu0oOMrbCzb9gnDlwk9uonONsXdU0Y/edit?usp=sharing",
+    "score": 31,
+    "fatal_signal": null,
+    "body_length": 619,
+    "reason": "score_31"
+  },
+  {
+    "job_id": "the-broad-institute-sabeti-lab--operations-specialist--2026-01",
+    "platform": "generic",
+    "source_url": "https://broadinstitute.avature.net/en_US/careers/JobDetail/Operations-Specialist-II-Sabeti-Lab/21193",
+    "score": 26,
+    "fatal_signal": null,
+    "body_length": 231,
+    "reason": "score_26"
+  },
+  {
+    "job_id": "tien-procent-club--volunteer--2026-02",
+    "platform": "generic",
+    "source_url": "https://www.tienprocent.club/doe-mee",
+    "score": 33,
+    "fatal_signal": null,
+    "body_length": 4530,
+    "reason": "score_33"
+  },
+  {
+    "job_id": "uk-government-department-for-science-innovation-and-technology--director-general-emerging-technology-and-artificial-intelligence--2026-02",
+    "platform": "generic",
+    "source_url": "https://www.civilservicejobs.service.gov.uk/csr/jobs.cgi?jcode=1988037",
+    "score": 26,
+    "fatal_signal": null,
+    "body_length": 381,
+    "reason": "score_26"
+  },
+  {
+    "job_id": "us-fusion-energy--jobs-and-opportunities-in-nuclear-fusion-energy-development--2022-01",
+    "platform": "generic",
+    "source_url": "https://usfusionenergy.org/opportunities",
+    "score": 34,
+    "fatal_signal": null,
+    "body_length": 266,
+    "reason": "score_34"
+  },
+  {
+    "job_id": "us-government-bureau-of-industry-and-security--director-office-of-export-enforcement--2026-02",
+    "platform": "generic",
+    "source_url": "https://www.usajobs.gov/job/858107700",
+    "score": 36,
+    "fatal_signal": null,
+    "body_length": 740,
+    "reason": "score_36"
+  },
+  {
+    "job_id": "us-government-bureau-of-industry-and-security--director-office-of-exporter-services--2026-02",
+    "platform": "generic",
+    "source_url": "https://www.usajobs.gov/job/858000100",
+    "score": 36,
+    "fatal_signal": null,
+    "body_length": 740,
+    "reason": "score_36"
+  },
+  {
+    "job_id": "us-government-congress--list-of-internship-opportunities-u-s-house-of-representatives--2026-02",
+    "platform": "generic",
+    "source_url": "https://drive.google.com/file/d/1Ce1vJxL60T7F4T4X34TuUOKW7b9d1YEE/view?usp=sharing",
+    "score": 26,
+    "fatal_signal": null,
+    "body_length": 362,
+    "reason": "score_26"
+  },
+  {
+    "job_id": "us-government-congress--list-of-staff-opportunities-u-s-house-of-representatives--2026-02",
+    "platform": "generic",
+    "source_url": "https://drive.google.com/file/d/1r9cQjRvLYH3RtKieWMnQCdRz-pxPgO8o/view?usp=sharing",
+    "score": 26,
+    "fatal_signal": null,
+    "body_length": 357,
+    "reason": "score_26"
+  },
+  {
+    "job_id": "us-government-defense-threat-reduction-agency--interdisciplinary-physical-scientist-chemist-biologist-florida--2026-02",
+    "platform": "generic",
+    "source_url": "https://www.usajobs.gov/job/857240400",
+    "score": 36,
+    "fatal_signal": null,
+    "body_length": 740,
+    "reason": "score_36"
+  },
+  {
+    "job_id": "us-government-defense-threat-reduction-agency--interdisciplinary-physical-scientist-chemist-biologist-virginia--2026-02",
+    "platform": "generic",
+    "source_url": "https://www.usajobs.gov/job/857240900",
+    "score": 36,
+    "fatal_signal": null,
+    "body_length": 740,
+    "reason": "score_36"
+  },
+  {
+    "job_id": "us-government-national-institute-of-standards-and-technology--ai-evaluations-scientist-biological-ai-models-center-for-ai-standards-and-innovation--2026-02",
+    "platform": "generic",
+    "source_url": "https://www.usajobs.gov/job/856101000",
+    "score": 36,
+    "fatal_signal": null,
+    "body_length": 731,
+    "reason": "score_36"
+  },
+  {
+    "job_id": "us-government-national-institute-of-standards-and-technology--ai-research-scientist-applied-systems-center-for-ai-standards-and-innovation--2026-02",
+    "platform": "generic",
+    "source_url": "https://www.usajobs.gov/job/856266200",
+    "score": 36,
+    "fatal_signal": null,
+    "body_length": 731,
+    "reason": "score_36"
+  },
+  {
+    "job_id": "us-government-national-institute-of-standards-and-technology--senior-cyber-offense-specialist-center-for-ai-standards-and-innovation--2026-02",
+    "platform": "generic",
+    "source_url": "https://www.usajobs.gov/job/856268500",
+    "score": 36,
+    "fatal_signal": null,
+    "body_length": 731,
+    "reason": "score_36"
+  },
+  {
+    "job_id": "various-us-federal-government-departments-ai-related--ai-related-roles-in-the-us-federal-government--2022-01",
+    "platform": "generic",
+    "source_url": "https://ai.usajobs.gov/Search/Results?cmco=AI&s=relevance&sd=asc&p=1",
+    "score": 27,
+    "fatal_signal": null,
+    "body_length": 284,
+    "reason": "score_27"
+  },
+  {
+    "job_id": "various-us-federal-government-departments-ai-related--list-of-pathways-internship-placements--2022-01",
+    "platform": "generic",
+    "source_url": "https://intern.usajobs.gov/Search/Results?hp=student&wt=15328&s=salary&sd=desc&p=1",
+    "score": 27,
+    "fatal_signal": null,
+    "body_length": 284,
+    "reason": "score_27"
+  },
+  {
+    "job_id": "various-us-federal-government-departments-ai-related--list-of-pathways-recent-graduate-placements--2022-01",
+    "platform": "generic",
+    "source_url": "https://www.usajobs.gov/Search/Results?wt=15326&hp=graduates",
+    "score": 27,
+    "fatal_signal": null,
+    "body_length": 284,
+    "reason": "score_27"
+  }
+]

@@ -1,0 +1,49 @@
+{
+  "total": 835,
+  "fetchable": 682,
+  "fetched": 682,
+  "failed": 0,
+  "skipped": 153,
+  "promoted": 548,
+  "quarantined": 75,
+  "review_queue": 25,
+  "by_platform": {
+    "generic": {
+      "attempted": 514,
+      "fetched": 514,
+      "promoted": 407,
+      "quarantined": 52,
+      "review": 22,
+      "failed": 0,
+      "failed_reasons": {}
+    },
+    "google-docs": {
+      "attempted": 23,
+      "fetched": 23,
+      "promoted": 1,
+      "quarantined": 22,
+      "review": 0,
+      "failed": 0,
+      "failed_reasons": {}
+    },
+    "greenhouse": {
+      "attempted": 104,
+      "fetched": 104,
+      "promoted": 100,
+      "quarantined": 1,
+      "review": 2,
+      "failed": 0,
+      "failed_reasons": {}
+    },
+    "lever": {
+      "attempted": 41,
+      "fetched": 41,
+      "promoted": 40,
+      "quarantined": 0,
+      "review": 1,
+      "failed": 0,
+      "failed_reasons": {}
+    }
+  },
+  "fatal_signals": []
+}

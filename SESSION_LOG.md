@@ -286,3 +286,34 @@
 - Even non-80K org JDs have platform: 80k-hours (they came from 80K Hours Algolia data)
 - No CI is configured — no GitHub Actions workflows exist
 
+---
+
+## Agent Session - Issue #8 Phase 2a
+
+**Worked on:** Issue #8 - Re-fetch full job descriptions (Phase 2a: staging/promotion infrastructure)
+
+**What I did:**
+- Added Workable platform detection to `detect_platform()` and `extract_workable()` extractor
+- Restructured `fetch_jds.py` to support three modes:
+  - Default incremental fetch (unchanged behavior)
+  - `--overwrite` mode: fetches ALL JDs to `data/jds-staging/` regardless of cache
+  - `--promote` / `--promote-only`: scores staged files, backs up production, promotes passing files
+- Added complete promotion pipeline: `backup_production()`, `score_staged_files()`, `triage_results()`, `promote_files()`
+- Added report generation: `jd_refetch_report.json`, `jd_quarantine.json`, `jd_review_queue.md/.json`
+- Review queue uses smart selection: borderline items, per-platform samples, shortest promoted, highest quarantined
+- All 36 existing tests pass (0 failures)
+
+**What remains for Phase 2b:**
+- Actually run the fetch: `python3 scripts/fetch_jds.py --overwrite --promote`
+- This will take ~20+ minutes (835 URLs at 1.5s rate limit)
+- After fetch, verify reports and promotion counts
+- Update test_issue_8.py to make Phase 2 warns into hard tests
+
+**What I learned:**
+- `fetch_to_staging()` must not create staging dir in dry-run mode (fixed)
+- The `--promote-only` mode needs the staging dir to already exist
+- Promotion only overwrites production if staged file is longer (prevents regression)
+
+**Mistakes made:**
+- Initially created staging dir even in dry-run mode; fixed by guarding mkdir with `if not dry_run`
+

@@ -36,6 +36,9 @@ python3 scripts/test_issue_6.py --post-merge             # Validate Phase 3 (aft
 python3 scripts/test_issue_7.py                          # Validate Claude Code skill structure
 AIRTABLE_PAT=patXXX python3 scripts/bulk_upload.py       # Bulk upload jobs to Airtable
 AIRTABLE_PAT=patXXX python3 scripts/bulk_upload.py --dry-run  # Preview bulk upload
+python3 scripts/fetch_jds.py --overwrite --promote         # Full re-fetch pipeline (fetch→score→promote)
+python3 scripts/fetch_jds.py --overwrite --dry-run        # Preview what would be fetched
+python3 scripts/fetch_jds.py --promote-only               # Score+promote from existing staging
 python3 scripts/test_issue_8.py                          # Validate issue #8 Phase 1 (scorer)
 ```
 
@@ -80,4 +83,6 @@ python3 scripts/test_issue_8.py                          # Validate issue #8 Pha
 - `rapidfuzz.fuzz.ratio` returns 0-100, divide by 100 for 0-1 range
 - `jd_quality.py` scorer: 0-100 scale, promote (>=60), review (40-59), quarantine (<40 or fatal)
 - All 834 current JD files are short 80K summaries (300-750 chars) — they all score < 50
-- Issue #8 is multi-phase: Phase 1 (scorer) done, Phase 2 (fetch+promote), Phase 3 (review+sync)
+- Issue #8 is multi-phase: Phase 1 (scorer) done, Phase 2a (infrastructure) done, Phase 2b (run fetch), Phase 3 (review+sync)
+- `fetch_jds.py --overwrite` writes to `data/jds-staging/`, not production; `--promote` triggers score+backup+promote
+- Promotion only overwrites production if staged file body is longer than existing (prevents regression)

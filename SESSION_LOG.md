@@ -251,3 +251,38 @@
 
 **Mistakes made:**
 - None significant
+
+---
+
+## Agent Session - Issue #8 (Phase 1)
+
+**Worked on:** Issue #8 - Re-fetch full job descriptions from source URLs (Phase 1: Scoring Module)
+
+**What I did:**
+- Created `scripts/jd_quality.py` — a 0-100 quality scoring module for JD content
+- Created `scripts/test_issue_8.py` — test script with 36 passing tests
+- Scorer correctly rejects error pages, login walls, expired postings, SPA shells, nav-only pages
+- Scorer correctly accepts well-formed JDs (>= 60 score, "promote" tier)
+- Old 80K Hours bullet summaries score < 50 (won't be accidentally promoted)
+- Platform-specific validators for Greenhouse, Lever, Ashby, Workable, Google Docs
+- Fatal signal exception: phrases in long content (>2000 chars) get penalty instead of hard reject
+
+**Scoring dimensions:**
+- Length (0-25): summaries ~300-750 chars score low, real JDs 2000+ score high
+- Structure (0-25): headings, JD section keywords, bullet density
+- Vocabulary (0-20): JD-domain words (team, role, salary, benefits, etc.)
+- Platform-specific (0-20): per-platform failure mode checks
+- Encoding cleanliness (0-10): deductions for HTML artifacts
+- Negative signals (0 to -50): auth indicators, nav chrome, cookies, encoding artifacts
+
+**Phase 2 work remaining:**
+- Add staging/backup/promotion flow to fetch_jds.py
+- Run the actual fetch of all 835 JDs to staging
+- Score and triage (promote/review/quarantine)
+- Generate review queue and quarantine manifest
+
+**Codebase facts discovered:**
+- All 834 JD files are short 80K Hours summaries (~300-750 chars, 4-5 bullet points)
+- Even non-80K org JDs have platform: 80k-hours (they came from 80K Hours Algolia data)
+- No CI is configured — no GitHub Actions workflows exist
+

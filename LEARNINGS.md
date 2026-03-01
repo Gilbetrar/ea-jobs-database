@@ -33,6 +33,10 @@ python3 scripts/merge_orgs.py --apply                    # Apply approved merges
 python3 scripts/generate_curated.py                      # Generate curated subset (300 jobs)
 python3 scripts/test_issue_6.py                          # Validate issue #6 Phase 1
 python3 scripts/test_issue_6.py --post-merge             # Validate Phase 3 (after merge apply)
+python3 scripts/test_issue_7.py                          # Validate Claude Code skill structure
+AIRTABLE_PAT=patXXX python3 scripts/bulk_upload.py       # Bulk upload jobs to Airtable
+AIRTABLE_PAT=patXXX python3 scripts/bulk_upload.py --dry-run  # Preview bulk upload
+python3 scripts/test_issue_8.py                          # Validate issue #8 Phase 1 (scorer)
 ```
 
 ## Conventions
@@ -47,6 +51,8 @@ python3 scripts/test_issue_6.py --post-merge             # Validate Phase 3 (aft
 - Git is the primary data store; Airtable is a browsable view
 - Each job/org is a separate JSON file (not batched)
 - Schemas use Draft-07 (`jsonschema.Draft7Validator`)
+- Claude Code skill lives at `Skills/ea-jobs-db/SKILL.md` in agent-system repo (symlinked to `~/.claude/skills/ea-jobs-db`)
+- `bulk_upload.py` denormalizes org info + JD content into Airtable records (batched, rate-limited)
 
 ## Gotchas
 
@@ -72,3 +78,6 @@ python3 scripts/test_issue_6.py --post-merge             # Validate Phase 3 (aft
 - Issue #6 has a human review checkpoint (Phase 2) — merges cannot be auto-applied
 - Test section name assertions are case-insensitive substring checks — ensure report headers contain expected keywords
 - `rapidfuzz.fuzz.ratio` returns 0-100, divide by 100 for 0-1 range
+- `jd_quality.py` scorer: 0-100 scale, promote (>=60), review (40-59), quarantine (<40 or fatal)
+- All 834 current JD files are short 80K summaries (300-750 chars) — they all score < 50
+- Issue #8 is multi-phase: Phase 1 (scorer) done, Phase 2 (fetch+promote), Phase 3 (review+sync)

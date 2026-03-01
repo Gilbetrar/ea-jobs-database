@@ -362,3 +362,31 @@
 **Remaining work for Issue #8:**
 - Phase 3: Ben reviews 25-item review queue, Airtable sync, skill update
 
+---
+
+## Agent Session - Issue #8 Phase 3 (Airtable update + skill)
+
+**Worked on:** Issue #8 - Phase 3: `--update-only` mode for bulk_upload.py and ea-jobs-db skill update
+
+**What I did:**
+1. Added `--update-only` mode to `scripts/bulk_upload.py` — patches Job Description field on existing Airtable records by looking up records via `git_id`
+2. Added `fetch_all_records()` for paginated Airtable record retrieval (uses `fields[]=git_id` for minimal data transfer)
+3. Added `batch_update()` using PATCH method in batches of 10
+4. Updated `ea-jobs-db` skill (in agent-system repo) with:
+   - New scripts/exports in Quick Reference table
+   - Platform-specific extractors documented in Workflow 1
+   - Full JD re-fetch step added to Workflow 3 (80K Hours refresh)
+   - `--update-only` mode documented in Step 8 (Airtable sync)
+   - Platform values and quality scoring info in Tips
+5. Verified: all 46 tests in test_issue_8.py pass, dry-run of --update-only works correctly
+
+**What I learned:**
+- `bulk_upload.py` was never previously committed — it was listed as untracked in git status
+- Airtable list records API supports `fields[]=fieldName` to minimize data transfer
+- The dry-run mode for --update-only simulates record mapping from local job files when no API key is provided
+
+**Remaining work for Issue #8:**
+- Ben's human review of the 25-item review queue (exports/jd_review_queue.md)
+- Actually running `--update-only` with a real AIRTABLE_PAT to sync JDs to Airtable
+- Close issue #8 after Airtable sync is confirmed
+

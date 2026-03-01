@@ -34,8 +34,10 @@ python3 scripts/generate_curated.py                      # Generate curated subs
 python3 scripts/test_issue_6.py                          # Validate issue #6 Phase 1
 python3 scripts/test_issue_6.py --post-merge             # Validate Phase 3 (after merge apply)
 python3 scripts/test_issue_7.py                          # Validate Claude Code skill structure
-AIRTABLE_PAT=patXXX python3 scripts/bulk_upload.py       # Bulk upload jobs to Airtable
-AIRTABLE_PAT=patXXX python3 scripts/bulk_upload.py --dry-run  # Preview bulk upload
+AIRTABLE_PAT=patXXX python3 scripts/bulk_upload.py                       # Bulk upload jobs to Airtable
+AIRTABLE_PAT=patXXX python3 scripts/bulk_upload.py --dry-run              # Preview bulk upload
+AIRTABLE_PAT=patXXX python3 scripts/bulk_upload.py --update-only          # Patch JDs on existing records
+AIRTABLE_PAT=patXXX python3 scripts/bulk_upload.py --update-only --dry-run  # Preview JD patches
 python3 scripts/fetch_jds.py --overwrite --promote         # Full re-fetch pipeline (fetch→score→promote)
 python3 scripts/fetch_jds.py --overwrite --dry-run        # Preview what would be fetched
 python3 scripts/fetch_jds.py --promote-only               # Score+promote from existing staging
@@ -82,8 +84,7 @@ python3 scripts/test_issue_8.py                          # Validate issue #8 Pha
 - Test section name assertions are case-insensitive substring checks — ensure report headers contain expected keywords
 - `rapidfuzz.fuzz.ratio` returns 0-100, divide by 100 for 0-1 range
 - `jd_quality.py` scorer: 0-100 scale, promote (>=60), review (40-59), quarantine (<40 or fatal)
-- `jd_quality.py` scorer: 0-100 scale, promote (>=60), review (40-59), quarantine (<40 or fatal)
-- Issue #8 is multi-phase: Phase 1 (scorer) done, Phase 2a (infrastructure) done, Phase 2b (run fetch) done, Phase 3 (review+sync)
+- Issue #8 is multi-phase: Phase 1 (scorer) done, Phase 2a (infrastructure) done, Phase 2b (run fetch) done, Phase 3 (code done, awaiting human review + Airtable sync)
 - `fetch_jds.py --overwrite` writes to `data/jds-staging/`, not production; `--promote` triggers score+backup+promote
 - Promotion only overwrites production if staged file body is longer than existing (prevents regression)
 - Lever pages have ~700KB inline CSS with class names matching content patterns — ALWAYS strip before `</style>` before extracting

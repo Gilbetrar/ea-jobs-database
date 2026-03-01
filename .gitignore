@@ -17,5 +17,9 @@ Thumbs.db
 .env
 .env.local
 
+# JD staging and backup (working data, not committed)
+data/jds-staging/
+data/jds-backup/
+
 # Signal file (used by orchestrator)
 SIGNAL.txt

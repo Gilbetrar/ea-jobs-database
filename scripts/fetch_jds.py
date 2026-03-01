@@ -227,11 +227,24 @@ def html_to_markdown(html_content):
 # ---------------------------------------------------------------------------
 
 def extract_lever(html):
-    """Extract JD content from Lever job page HTML."""
+    """Extract JD content from Lever job page HTML.
+
+    Lever pages have large inline CSS that contains class names like 'posting-page'
+    and 'content'. We strip everything before the last </style> tag to avoid
+    matching CSS selectors instead of actual content.
+    """
+    # Strip CSS/head to avoid matching class names in stylesheets
+    style_end = html.rfind('</style>')
+    body_html = html[style_end:] if style_end > 0 else html
+
     content = _extract_between_markers(
-        html,
-        [r'class="posting-page"', r'class="content"', r'<div class="posting-'],
-        [r'class="posting-btn-submit"', r'<div class="postings-btn', r'</main>']
+        body_html,
+        [r'class="section page-centered posting-header"',
+         r'class="posting-headline"',
+         r'class="posting-page"'],
+        [r'class="section page-centered last-section-apply"',
+         r'class="posting-btn-submit"',
+         r'<div class="postings-btn']
     )
     if content:
         return html_to_markdown(content)

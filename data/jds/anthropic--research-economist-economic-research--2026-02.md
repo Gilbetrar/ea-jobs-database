@@ -1,12 +1,141 @@
 ---
 job_id: anthropic--research-economist-economic-research--2026-02
 source_url: https://job-boards.greenhouse.io/anthropic/jobs/5018472008
-fetched_date: 2026-02-28
-platform: 80k-hours
+fetched_date: 2026-03-01
+platform: greenhouse
 ---
 
-* In this role, you'll measure AI's effects on the economy through the Anthropic Economic Index.
-* Design empirical research on AI's economic impact using novel data and privacy-preserving systems.
-* Develop methods to study AI's effect on labor markets, productivity, and economic transformation.
-* Build academic partnerships and translate insights into product and policy recommendations.
-* Share findings through research publications, policy briefs, and stakeholder presentations.
+# Research Economist, Economic Research
+
+[](https://www.anthropic.com/jobs)
+[Back to jobs](https://job-boards.greenhouse.io/anthropic)
+
+# Research Economist, Economic Research
+
+San Francisco, CAApply
+
+## **About Anthropic**
+ 
+
+Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy experts, and business leaders working together to build beneficial AI systems.
+
+## **About the Role**
+ 
+
+As an Economist at Anthropic, you will work to measure and understand AI's effects on the global economy. You will make fundamental contributions to the development of the Anthropic Economic Index, establishing new methodologies to measure the usage, diffusion, and impact of AI throughout the economy using privacy-preserving tools and novel data sources. You will use frontier methods in econometrics, machine learning, and structural estimation. Such rigour will drive impact, shaping both policy discussions and product decisions as AI transforms the economy.
+ 
+
+Our team combines rigorous empirical methods with novel measurement approaches. We're building first-of-its-kind datasets tracking AI's impact on labor markets, productivity, and economic transformation. Using our privacy-preserving measurement system ([Clio](https://www.anthropic.com/research/clio)), we [analyze millions of real-world AI interactions](https://assets.anthropic.com/m/2e23255f1e84ca97/original/Economic_Tasks_AI_Paper.pdf) to understand how AI augments and automates work across different occupations and tasks.
+ 
+
+*Note: We are primarily looking to hire in San Francisco but may consider candidates based in London*
+ 
+## **Responsibilities**
+ 
+ 
+- Make fundamental contributions to the development and expansion of the [Anthropic Economic Index](https://www.anthropic.com/economic-index), including quarterly reports and industry-specific deep dives 
+- Design and conduct empirical research on AI's economic effects using novel data sources and privacy-preserving measurement systems 
+- Develop new methodological approaches for studying AI's impact on: 
+ 
+  - Labor markets and the future of work 
+  - Productivity and task transformation 
+  - Economic inequality and displacement 
+  - Industry-specific disruption and adaptation 
+ 
+- Build and maintain relationships with academic institutions, policy think tanks, and other research partners 
+- Work cross-functionally with other technical teams to improve our measurement infrastructure and data collection 
+- Translate research insights into actionable recommendations for both product decisions and policy discussions 
+- Amplify external engagement through research publications, policy briefs, and presentations to diverse stakeholders 
+ 
+## **You May Be a Good Fit If You Have**
+ 
+ 
+- PhD in Economics 
+- Strong track record of empirical research, particularly studies combining novel data sources and economic theory or those implementing frontier methods in causal inference and machine learning 
+- Experience relevant to the study of AI’s impact on the economy, including: 
+ 
+  - Labor market analysis and occupational change 
+  - Task-based approaches to technological transformation 
+  - Large-scale data analysis and econometric methods 
+  - Large language models for social science research 
+  - Policy-relevant economic research 
+  - Experimental and quasi-experimental methods for causal inference 
+  - Macroeconomic modeling and time series forecasting 
+ 
+- Technical skills including: 
+ 
+  - Proficiency in Python, R, SQL, or similar tools for large-scale data analysis 
+  - Experience working with novel datasets and measurement systems 
+  - Comfort learning new technical tools and frameworks 
+ 
+- Demonstrated ability to: 
+ 
+  - Lead complex research projects from conception to publication 
+  - Communicate technical findings to diverse audiences 
+  - Build relationships across academic, policy, and industry communities 
+ 
+- Strong interest in ensuring AI development benefits humanity 
+- Comfort working with AI systems and ability to think critically about their capabilities and limitations 
+ 
+## **Some Examples of Our Recent Work**
+ 
+ 
+- [Anthropic Economic Index Report: Economic Primitives](https://www.anthropic.com/research/anthropic-economic-index-january-2026-report) 
+- [Anthropic Economic Index Report: Uneven Geographic and Enterprise AI Adoption](https://www.anthropic.com/research/anthropic-economic-index-september-2025-report) 
+- [Estimating AI productivity gains from Claude conversations](https://www.anthropic.com/research/estimating-productivity-gains) 
+- [The Anthropic Economic Index](https://www.anthropic.com/economic-index) 
+- [Economic Tasks Performed with AI: Evidence from Millions of Claude Conversations](https://assets.anthropic.com/m/2e23255f1e84ca97/original/Economic_Tasks_AI_Paper.pdf) 
+- [Clio: Privacy-Preserving Insights into Real-World AI Use](https://www.anthropic.com/research/clio) 
+ 
+## **Additional Information**
+ 
+
+For this role, we're looking for candidates who can combine rigorous economic analysis with novel measurement approaches to understand AI's transformative effects on the economy. The ideal candidate will be comfortable working at the intersection of empirical economics, technological change, and policy impact.
+
+The annual compensation range for this role is listed below. 
+ 
+
+For sales roles, the range provided is the role’s On Target Earnings ("OTE") range, meaning that the range includes both the sales commissions/sales bonuses target and annual base salary for the role.
+
+Annual Salary:
+
+$320,000 - $405,000 USD
+
+## **Logistics**
+ 
+
+**Education requirements: **We require at least a Bachelor's degree in a related field or equivalent experience.**
+
+Location-based hybrid policy:** Currently, we expect all staff to be in one of our offices at least 25% of the time. However, some roles may require more time in our offices.
+ 
+
+**Visa sponsorship:** We do sponsor visas! However, we aren't able to successfully sponsor visas for every role and every candidate. But if we make you an offer, we will make every reasonable effort to get you a visa, and we retain an immigration lawyer to help with this.
+ 
+
+**We encourage you to apply even if you do not believe you meet every single qualification.** Not all strong candidates will meet every single qualification as listed. Research shows that people who identify as being from underrepresented groups are more prone to experiencing imposter syndrome and doubting the strength of their candidacy, so we urge you not to exclude yourself prematurely and to submit an application if you're interested in this work. We think AI systems like the ones we're building have enormous social and ethical implications. We think this makes representation even more important, and we strive to include a range of diverse perspectives on our team.
+
+**Your safety matters to us.** To protect yourself from potential scams, remember that Anthropic recruiters only contact you from @anthropic.com email addresses. In some cases, we may partner with vetted recruiting agencies who will identify themselves as working on behalf of Anthropic. Be cautious of emails from other domains. Legitimate Anthropic recruiters will never ask for money, fees, or banking information before your first day. If you're ever unsure about a communication, don't click any links—visit [anthropic.com/careers](http://anthropic.com/careers) directly for confirmed position openings.
+ 
+## **How we're different**
+ 
+
+We believe that the highest-impact AI research will be big science. At Anthropic we work as a single cohesive team on just a few large-scale research efforts. And we value impact — advancing our long-term goals of steerable, trustworthy AI — rather than work on smaller and more specific puzzles. We view AI research as an empirical science, which has as much in common with physics and biology as with traditional efforts in computer science. We're an extremely collaborative group, and we host frequent research discussions to ensure that we are pursuing the highest-impact work at any given time. As such, we greatly value communication skills.
+ 
+
+The easiest way to understand our research directions is to read our recent research. This research continues many of the directions our team worked on prior to Anthropic, including: GPT-3, Circuit-Based Interpretability, Multimodal Neurons, Scaling Laws, AI & Compute, Concrete Problems in AI Safety, and Learning from Human Preferences.
+ 
+## **Come work with us!**
+ 
+
+Anthropic is a public benefit corporation headquartered in San Francisco. We offer competitive compensation and benefits, optional equity donation matching, generous vacation and parental leave, flexible working hours, and a lovely office space in which to collaborate with colleagues. **Guidance on Candidates' AI Usage:** Learn about [our policy](https://www.anthropic.com/candidate-ai-guidance) for using AI in our application process
+
+Create a Job Alert
+
+Interested in building your career at Anthropic? Get future opportunities sent straight to your email.
+Create alert
+
+## Apply for this job
+
+*
+
+indicates a required field

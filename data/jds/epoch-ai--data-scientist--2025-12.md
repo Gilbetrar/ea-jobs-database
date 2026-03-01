@@ -1,12 +1,57 @@
 ---
 job_id: epoch-ai--data-scientist--2025-12
 source_url: https://jobs.lever.co/epoch-ai/ab88ba6e-6a92-44cc-8830-a2dafca31f1a
-fetched_date: 2026-02-28
-platform: 80k-hours
+fetched_date: 2026-03-01
+platform: lever
 ---
 
-* In this role, you'll gather and analyze data on AI technologies and infrastructure to inform research and policy decisions.
-* Review technical literature and extract key details about model architectures and AI advancements.
-* Track and compile benchmark scores and performance metrics from various AI systems.
-* Analyze financial disclosures and news media for insights about AI companies.
-* Produce informed estimates on the physical infrastructure supporting AI development.
+## Data Scientist (Contract)
+
+Remote
+Data & Trends /
+Contract - Part Time /
+Remote
+[Apply for this job](https://jobs.lever.co/epoch-ai/ab88ba6e-6a92-44cc-8830-a2dafca31f1a/apply)
+
+Epoch is seeking part-time data scientists to assist with our AI research efforts. This role involves reviewing technical literature, tracking benchmark data, compiling technical infrastructure details, and analyzing various sources to build comprehensive insights about AI models, data centers, and companies.
+
+About the Position
+This is an independent contractor role, and your main responsibility will be gathering data on the inputs, impacts, and details of AI, as well as carrying out analysis of the gathered data. This may consist of reading recent machine learning papers to extract key details about [model architectures](https://epoch.ai/data/ai-models), tracking [benchmark scores](https://epoch.ai/benchmarks), processing satellite images and permits to track [data centers](https://epoch.ai/data/data-centers), or analyzing financial disclosures as well as news media for information about [AI companies](https://epoch.ai/data/ai-companies). In terms of analysis, you will work with our research team to create [Data Insights](https://epoch.ai/data-insights) and other products.
+
+Your day-to-day activities will be finding and reading a variety of sources, accurately extracting and compiling important details, and reporting on and discussing your findings with your supervisor. An ideal candidate for this role would have an excellent understanding of AI inputs and applications, careful attention to detail, and keen sense for the reliability of information sources. This is an excellent opportunity for those interested in a flexible role gaining exposure to cutting edge AI advancements and doing impactful work. Data you collect will be used in our future research and will inform international AI policy decisions.
+
+This role is fully remote, and we can set up contracts in many countries. (Unfortunately, we are unable to offer contracts for this role to candidates working from China.) While we welcome applicants from all time zones, you will be expected to attend occasional meetings during most of UTC-7/8 (Pacific Time) working hours. This role is, by default, designed for flexible part-time hours, estimated at 10 to 30 hours per week. However, depending on each candidate's suitability, availability, and interest, more hours per week will be considered.
+
+Successful candidates will report to Yafah Edelman, Head of Data & Trends. 
+
+**Applications are rolling.** Please **do not** include a cover letter, photograph, or headshot of yourself, or any personal information that is not relevant to the role for which you’re applying.
+
+### Key Responsibilities
+
+  - Carefully parsing assigned machine learning papers or benchmark leaderboards and identifying key information.
+  - Accurately extracting and compiling these technical details.
+  - Producing informed estimates of metrics about the physical infrastructure supporting AI based on limited information.
+
+### What We Are Looking For
+
+  - Ability to work independently and meet deadlines reliably.
+  - Attention to detail.
+  - Ability to systematically extract key information from a variety of sources.
+  - Understanding or interest in a broad array of technical AI topics, especially model evaluations and data centers.
+
+### Compensation & Benefits
+
+  - Hourly compensation between $30-40 USD, estimated at 10–30 hours of work per week, depending on your availability (more hours, up to full-time, will be considered). Wages are not restricted to USD, and contracts and payments are usually in local currencies. Conversions are based on average exchange rates.
+  - **Fully remote environment,** including flexible work hours. 
+
+Additional Information
+While we welcome applicants from all time zones, we prefer candidates who can overlap with UTC–7/8 (Pacific Time). 
+
+Please submit all of your application materials in **English** and note that we require professional level English proficiency.
+
+Epoch AI is committed to building an **inclusive, equitable, and supportive** community for you to thrive and do your best work. Please don’t hesitate to apply for a role regardless of your age, gender identity/expression, political identity, personal preferences, physical abilities, veteran status, neurodiversity or any other background. Please **email **[[email protected]](/cdn-cgi/l/email-protection#74171506111106073411041b171c5a151d) if you have any questions about this role, accessibility requests, or if you want to request an extension to the application deadline. However, we will not review applications submitted to this email address; please submit your application through the link on this page. 
+
+About Epoch AI
+Epoch AI is a research institute that investigates trends in machine learning and the economic consequences of AI. Our mission is to develop a comprehensive, publicly accessible knowledge base on AI that informs policymakers, industry leaders, and society at large. We strive to achieve both rigor and accessibility to our work, as exemplified by some of our most successful projects, including our [database of AI models](https://epochai.org/data) and our [AI trends dashboard](https://epochai.org/trends). Our body of research includes our work on [compute trends](https://epochai.org/blog/compute-trends) (IJCN 2022), [data scarcity](https://epochai.org/blog/will-we-run-out-of-data-limits-of-llm-scaling-based-on-human-generated-data) (ICML 2024), and [algorithmic progress](https://arxiv.org/abs/2403.05812) (NeurIPS 2024). You can read more about our work and mission on our [website](https://epochai.org/) and in [this Time profile](https://time.com/6985850/jaime-sevilla-epoch-ai/). 
+
+We may use artificial intelligence (AI) tools to support parts of the hiring process, such as reviewing applications, analyzing resumes, or assessing responses. These tools assist our recruitment team but do not replace human judgment. Final hiring decisions are ultimately made by humans. If you would like more information about how your data is processed, please contact us.

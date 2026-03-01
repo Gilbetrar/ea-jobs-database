@@ -1,12 +1,153 @@
 ---
 job_id: massachusetts-institute-of-technology-lincoln-laboratory--co-op-cyber-system-assessments-internet-of-things--2026-02
 source_url: https://careers.ll.mit.edu/job/Lexington-Group-05-59-CO-OP-%28IoT%29-Cyber-System-Assessments-July-December-2026-MA-02420/1361576300/
-fetched_date: 2026-02-28
-platform: 80k-hours
+fetched_date: 2026-03-01
+platform: generic
 ---
 
-* In this role, you'll conduct research and development for compromise detection in Internet of Things (IoT) devices.
-* Develop web services to enhance IoT device security monitoring capabilities.
-* Create novel techniques for detecting compromised IoT systems and devices.
-* Research current trends in IoT device exploitation to inform protection strategies.
-* Collaborate with cybersecurity experts on vulnerability research and system assessment projects.
+# Co-op, Cyber System Assessments, Internet of Things
+
+Search by Keyword **     
+ 
+  
+ 
+         
+ 
+ 
+ 
+ 
+ 
+ 
+   Select how often (in days) to receive an alert:   
+ [** JOIN OUR TALENT NETWORK](#)      
+ 
+ × 
+   Select how often (in days) to receive an alert:          
+ 
+ 
+ 
+# Group 05-59 | CO-OP (IoT) | Cyber System Assessments | July - December 2026
+ 
+ [Apply now »](/talentcommunity/apply/1361576300/?locale=en_US)   
+
+**Date: **Feb 3, 2026 
+ 
+
+ **Location:** Lexington, MA, US  
+  
+
+ **Company: ** MIT Lincoln Laboratory 
+ 
+ 
+
+ 
+ 
+
+The Cyber System Assessments Group performs software and hardware reverse engineering, vulnerability research and discovery, and system exploitation. We develop and prototype cutting-edge capabilities for our operational partners in the U.S. government. We look for, find, and demonstrate cyber vulnerabilities so that vulnerabilities in U.S. systems can be corrected, and so that vulnerabilities in other systems are better understood. U.S. Government leaders rely on us for our expert guidance, and our technical role with our U.S. Government sponsors is considered essential to the success of their missions.
+ 
+
+ 
+
+## Position Description
+ 
+
+ 
+ 
+
+As a Cyber System Exploitation Co-Op, you will work with a team of experts to conduct research and development related to compromise detection for Internet of Things (IoT) devices. Your project will build your technical skills and experience through several lines of effort, including web service development, creation of novel techniques for compromise detection, and research into current trends in IoT device exploitation.
+ 
+
+ 
+ 
+
+Desired technical skills:
+ 
+
+ 
+ 
+ 
+- Linux OS internals 
+- Git 
+- Docker 
+- Common exploitation techniques 
+- Python 
+- Django 
+- React 
+- Technical writing/presentation 
+ 
+
+ 
+ 
+
+This position will be filled for co-op projects that run from July-December, 2026. There is an opportunity for a hybrid work arrangement for this co-op.
+ 
+
+ 
+
+## Requirements
+ 
+
+ 
+ 
+
+Candidates must be a junior or senior undergraduate, or a graduate, degree candidate in Computer Science, Computer Engineering, Electrical Engineering, Math, Physics, or similar technical program.
+ 
+
+ 
+
+## Compensation
+ 
+
+ 
+ 
+
+Compensation for 2026 *(will be reviewed for 2027)*
+ 
+ 
+- Technical Co-Op: $24.50 – $31.00 per hour (based on year in school) 
+- Administrative Co-Op: $21.50 – $25.00 per hour (based on year in school) 
+
+ 
+ 
+
+Selected candidate will be subject to a pre-employment background investigation and must be able to obtain and maintain a Secret level DoD security clearance.
+ 
+
+ 
+ 
+
+MIT Lincoln Laboratory is an Equal Employment Opportunity (EEO) employer. All qualified applicants will receive consideration for employment and will not be discriminated against on the basis of race, color, religion, sex, sexual orientation, gender identity, national origin, age, veteran status, disability status, or genetic information; U.S. citizenship is required.
+ 
+
+ 
+ 
+
+**Requisition ID:** 42624 
+ 
+
+ 
+  
+
+  
+**Nearest Major Market: **Boston   
+**Job Segment: ** R&D Engineer, Security Clearance, Technical Writer, Computer Science, Electrical Engineering, Engineering, Government, Technology   
+  
+ 
+ [Apply now »](/talentcommunity/apply/1361576300/?locale=en_US)   
+    
+Find similar jobs:  
+ [Cyber Security and Information Sciences](/go/Cyber-Security-and-Information-Sciences/3532900/)      
+ 
+ 
+ 
+ [  ](https://www.ll.mit.edu/) 
+ 
+- [TERMS OF USE](https://www.ll.mit.edu/terms-of-use.html) 
+- [PRIVACY POLICY](www.blank.com) 
+- [CONTACT](mailto:recruitingdept@ll.mit.edu) 
+- [JOIN OUR TALENT NETWORK](https://career4preview.sapsf.com/career?company=C0012546317T1&site=&lang=en_US&requestParams=&login_ns=register&jobPipeline=Direct&navBarLevel=MY%5fPROFILE&_s.crb=2DN42kk1ABAW1oZ98GyC1gdYy58%3d) 
+    
+ 
+ 
+
+© 2019 LINCOLN LABORATORY, MASSACHUSETTS INSTITUTE OF TECHNOLOGY | 244 Wood Street, Lexington, MA 02421-6426

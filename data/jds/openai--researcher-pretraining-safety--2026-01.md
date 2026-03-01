@@ -1,12 +1,135 @@
 ---
 job_id: openai--researcher-pretraining-safety--2026-01
 source_url: https://openai.com/careers/researcher-pretraining-safety-san-francisco/
-fetched_date: 2026-02-28
-platform: 80k-hours
+fetched_date: 2026-03-01
+platform: generic
 ---
 
-* In this role, you'll build safer AI models and enable earlier safety evaluation during training.
-* Develop techniques to identify and evaluate unsafe behavior in early-stage models.
-* Design data strategies to improve pretraining and reduce downstream risk.
-* Explore architectures and configurations that enhance model controllability.
-* Introduce safety-oriented loss functions and metrics into the pretraining stack.
+# Researcher, Pretraining Safety
+
+OpenAI
+
+Careers
+
+## Researcher, Pretraining Safety
+
+Safety Systems - San Francisco
+
+[Apply now(opens in a new window)](https://jobs.ashbyhq.com/openai/d829b701-5ee2-414f-8596-ef94911a168a/application)
+
+## **About the Team**
+
+The [Safety Systems team](https://openai.com/safety/safety-systems) is responsible for various safety work to ensure our best models can be safely deployed to the real world to benefit the society and is at the forefront of OpenAI's mission to build and deploy safe AGI, driving our commitment to AI safety and fostering a culture of trust and transparency.
+
+The Pretraining Safety team’s goal is to build safer, more capable base models and enable earlier, more reliable safety evaluation during training. We aim to:
+
+1. 
+
+**Develop upstream safety evaluations** that to monitor how and when unsafe behaviors and goals emerge;
+
+2. 
+
+**Create safer priors** through targeted pretraining and mid-training interventions that make downstream alignment more effective and efficient
+
+3. 
+
+**Design safe-by-design architectures** that allow for more controllability of model capabilities
+
+In addition, we will conduct the foundational research necessary for understanding how behaviors emerge, generalize, and can be reliably measured throughout training.
+
+### 
+
+## **About the Role**
+
+The Pretraining Safety team is pioneering how safety is built into models before they reach post-training and deployment. In this role, you will work throughout the full stack of model development with a focus on pre-training:
+
+- 
+
+Identify safety-relevant behaviors as they first emerge in base models
+
+- 
+
+Evaluate and reduce risk without waiting for full-scale training runs
+
+- 
+
+Design architectures and training setups that make safer behavior the default
+
+- 
+
+Strengthen models by incorporating richer, earlier safety signals**
+**
+
+We collaborate across OpenAI’s safety ecosystem—from Safety Systems to Training—to ensure that safety foundations are robust, scalable, and grounded in real-world risks.
+
+## **In this role, you will:**
+
+- 
+
+Develop new techniques to predict, measure, and evaluate unsafe behavior in early-stage models
+
+- 
+
+Design data curation strategies that improve pretraining priors and reduce downstream risk
+
+- 
+
+Explore safe-by-design architectures and training configurations that improve controllability
+
+- 
+
+Introduce novel safety-oriented loss functions, metrics, and evals into the pretraining stack
+
+- 
+
+Work closely with cross-functional safety teams to unify pre- and post-training risk reduction
+
+## **You might thrive in this role if you: **
+
+- 
+
+Have experience developing or scaling pretraining architectures (LLMs, diffusion models, multimodal models, etc.)
+
+- 
+
+Are comfortable working with training infrastructure, data pipelines, and evaluation frameworks (e.g., Python, PyTorch/JAX, Apache Beam)
+
+- 
+
+Enjoy hands-on research — designing, implementing, and iterating on experiments
+
+- 
+
+Enjoy collaborating with diverse technical and cross-functional partners (e.g., policy, legal, training)
+
+- 
+
+Are data-driven with strong statistical reasoning and rigor in experimental design
+
+- 
+
+Value building clean, scalable research workflows and streamlining processes for yourself and others
+
+**About OpenAI**
+
+OpenAI is an AI research and deployment company dedicated to ensuring that general-purpose artificial intelligence benefits all of humanity. We push the boundaries of the capabilities of AI systems and seek to safely deploy them to the world through our products. AI is an extremely powerful tool that must be created with safety and human needs at its core, and to achieve our mission, we must encompass and value the many different perspectives, voices, and experiences that form the full spectrum of humanity. 
+
+We are an equal opportunity employer, and we do not discriminate on the basis of race, religion, color, national origin, sex, sexual orientation, age, veteran status, disability, genetic information, or other applicable legally protected characteristic. 
+
+For additional information, please see [OpenAI’s Affirmative Action and Equal Employment Opportunity Policy Statement](https://cdn.openai.com/policies/eeo-policy-statement.pdf).
+
+Background checks for applicants will be administered in accordance with applicable law, and qualified applicants with arrest or conviction records will be considered for employment consistent with those laws, including the San Francisco Fair Chance Ordinance, the Los Angeles County Fair Chance Ordinance for Employers, and the California Fair Chance Act, for US-based candidates. For unincorporated Los Angeles County workers: we reasonably believe that criminal history may have a direct, adverse and negative relationship with the following job duties, potentially resulting in the withdrawal of a conditional offer of employment: protect computer hardware entrusted to you from theft, loss or damage; return all computer hardware in your possession (including the data contained therein) upon termination of employment or end of assignment; and maintain the confidentiality of proprietary, confidential, and non-public information. In addition, job duties require access to secure and protected information technology systems and related data security obligations.
+
+To notify OpenAI that you believe this job posting is non-compliant, please submit a report through [this form](https://form.asana.com/?d=57018692298241&k=5MqR40fZd7jlxVUh5J-UeA). No response will be provided to inquiries unrelated to job posting compliance.
+
+We are committed to providing reasonable accommodations to applicants with disabilities, and requests can be made via this [link](https://form.asana.com/?k=bQ7w9h3iexRlicUdWRiwvg&d=57018692298241).
+
+[OpenAI Global Applicant Privacy Policy](https://cdn.openai.com/policies/global-employee-and-contractor-privacy-policy.pdf)
+
+At OpenAI, we believe artificial intelligence has the potential to help people solve immense global challenges, and we want the upside of AI to be widely shared. Join us in shaping the future of technology.
+
+**Compensation**
+
+$295K – $445K + Offers Equity
+
+[Apply now(opens in a new window)](https://jobs.ashbyhq.com/openai/d829b701-5ee2-414f-8596-ef94911a168a/application)

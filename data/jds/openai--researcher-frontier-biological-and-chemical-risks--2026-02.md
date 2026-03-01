@@ -1,12 +1,118 @@
 ---
 job_id: openai--researcher-frontier-biological-and-chemical-risks--2026-02
 source_url: https://openai.com/careers/researcher-frontier-biological-and-chemical-risks-san-francisco/
-fetched_date: 2026-02-28
-platform: 80k-hours
+fetched_date: 2026-03-01
+platform: generic
 ---
 
-* In this role, you'll own the scientific validity of frontier AI safety evaluations across biological, chemical, cyber and other catastrophic risk domains.
-* Identify emerging AI safety risks and develop new methodologies for assessing their potential impact.
-* Build and continuously refine evaluations that measure the extent of identified risks in frontier models.
-* Design scalable systems and processes to support comprehensive safety evaluations.
-* Develop best practice guidelines for AI safety evaluations and contribute to risk management frameworks.
+# Researcher, Frontier Biological and Chemical Risks
+
+OpenAI
+
+Careers
+
+## Researcher, Frontier Biological and Chemical Risks
+
+Preparedness - San Francisco
+
+[Apply now(opens in a new window)](https://jobs.ashbyhq.com/openai/3fc46cbc-7e5a-4edc-96dc-ca433e76d181/application)
+
+**About the Team**
+
+The Preparedness team is an important part of the[ Safety Systems](https://openai.com/safety/safety-systems) org at OpenAI, and is guided by OpenAI’s [Preparedness Framework](https://openai.com/index/updating-our-preparedness-framework/).
+
+Frontier AI models have the potential to benefit all of humanity, but also pose increasingly severe risks. To ensure that AI promotes positive change, the Preparedness team helps us prepare for the development of increasingly capable frontier AI models. This team is tasked with identifying, tracking, and preparing for catastrophic risks related to frontier AI models.
+
+The mission of the Preparedness team is to:
+
+1. 
+
+Closely monitor and predict the evolving capabilities of frontier AI systems, with an eye towards misuse risks whose impact could be catastrophic to our society
+
+2. 
+
+Ensure we have concrete procedures, infrastructure and partnerships to mitigate these risks and to safely handle the development of powerful AI systems
+
+Preparedness tightly connects capability assessment, evaluations, and internal red teaming, and mitigations for frontier models, as well as overall coordination on AGI preparedness. This is fast paced, exciting work that has far reaching importance for the company and for society.
+
+**About the Role**
+
+We are looking to hire exceptional research engineers that can push the boundaries of our frontier models. Specifically, we are looking for those that will help us shape our empirical grasp of the whole spectrum of AI safety concerns and will own individual threads within this endeavor end-to-end. 
+
+You will own the scientific validity of our frontier preparedness capability evaluations—designing new evals grounded in real threat models (including high-consequence domains like CBRN as well as cyber and other frontier-risk areas), and maintaining existing evals so they don’t stale or silently regress. You’ll define datasets, graders, rubrics, and threshold guidance, and produce auditable artifacts (evaluation cards, capability reports, system-card inputs) that leadership can trust during high-stakes launches.
+
+**In this role, you'll:**
+
+- 
+
+Work on identifying emerging AI safety risks and new methodologies for exploring the impact of these risks
+
+- 
+
+Build (and then continuously refine) evaluations of frontier AI models that assess the extent of identified risks
+
+- 
+
+Design and build scalable systems and processes that can support these kinds of evaluations
+
+- 
+
+Contribute to the refinement of risk management and the overall development of "best practice" guidelines for AI safety evaluations
+
+**You might thrive in this role if you:**
+
+- 
+
+Are passionate and knowledgeable about short-term and long-term AI safety risks
+
+- 
+
+Demonstrate the ability to think outside the box and have a robust “red-teaming mindset”
+
+- 
+
+Have experience in ML research engineering, ML observability and monitoring, creating large language model-enabled applications, and/or another technical domain applicable to AI risk
+
+- 
+
+Are able to operate effectively in a dynamic and extremely fast-paced research environment as well as scope and deliver projects end-to-end
+
+**It would be great if you also have:**
+
+- 
+
+First-hand experience in red-teaming systems—be it computer systems or otherwise
+
+- 
+
+A good understanding of the (nuances of) societal aspects of AI deployment
+
+- 
+
+Excellent communication skills and the ability to work cross-functionally
+
+*This role may require access to technology or technical data controlled under the U.S. Export Administration Regulations or International Traffic in Arms Regulations. Therefore, this role is restricted to individuals described in paragraph (a)(1) of the definition of “U.S. person” in the U.S. Export Administration Regulations, 15 C.F.R. § 772.1, and in the International Traffic in Arms Regulations, 22 C.F.R. § 120.62. U.S. persons are U.S. citizens, U.S. legal permanent residents, individuals granted asylum status in the United States, and individuals admitted to the United States as refugees.*
+
+**About OpenAI**
+
+OpenAI is an AI research and deployment company dedicated to ensuring that general-purpose artificial intelligence benefits all of humanity. We push the boundaries of the capabilities of AI systems and seek to safely deploy them to the world through our products. AI is an extremely powerful tool that must be created with safety and human needs at its core, and to achieve our mission, we must encompass and value the many different perspectives, voices, and experiences that form the full spectrum of humanity. 
+
+We are an equal opportunity employer, and we do not discriminate on the basis of race, religion, color, national origin, sex, sexual orientation, age, veteran status, disability, genetic information, or other applicable legally protected characteristic. 
+
+For additional information, please see [OpenAI’s Affirmative Action and Equal Employment Opportunity Policy Statement](https://cdn.openai.com/policies/eeo-policy-statement.pdf).
+
+Background checks for applicants will be administered in accordance with applicable law, and qualified applicants with arrest or conviction records will be considered for employment consistent with those laws, including the San Francisco Fair Chance Ordinance, the Los Angeles County Fair Chance Ordinance for Employers, and the California Fair Chance Act, for US-based candidates. For unincorporated Los Angeles County workers: we reasonably believe that criminal history may have a direct, adverse and negative relationship with the following job duties, potentially resulting in the withdrawal of a conditional offer of employment: protect computer hardware entrusted to you from theft, loss or damage; return all computer hardware in your possession (including the data contained therein) upon termination of employment or end of assignment; and maintain the confidentiality of proprietary, confidential, and non-public information. In addition, job duties require access to secure and protected information technology systems and related data security obligations.
+
+To notify OpenAI that you believe this job posting is non-compliant, please submit a report through [this form](https://form.asana.com/?d=57018692298241&k=5MqR40fZd7jlxVUh5J-UeA). No response will be provided to inquiries unrelated to job posting compliance.
+
+We are committed to providing reasonable accommodations to applicants with disabilities, and requests can be made via this [link](https://form.asana.com/?k=bQ7w9h3iexRlicUdWRiwvg&d=57018692298241).
+
+[OpenAI Global Applicant Privacy Policy](https://cdn.openai.com/policies/global-employee-and-contractor-privacy-policy.pdf)
+
+At OpenAI, we believe artificial intelligence has the potential to help people solve immense global challenges, and we want the upside of AI to be widely shared. Join us in shaping the future of technology.
+
+**Compensation**
+
+$295K – $445K
+
+[Apply now(opens in a new window)](https://jobs.ashbyhq.com/openai/3fc46cbc-7e5a-4edc-96dc-ca433e76d181/application)

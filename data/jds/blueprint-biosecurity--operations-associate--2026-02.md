@@ -1,12 +1,41 @@
 ---
 job_id: blueprint-biosecurity--operations-associate--2026-02
 source_url: https://blueprintbiosecurity.pinpointhq.com/postings/1f8e3879-ab59-4546-993e-278e705da351?toke[%E2%80%A6]&utm_medium=web_traffic_referral&utm_source=Website
-fetched_date: 2026-02-28
-platform: 80k-hours
+fetched_date: 2026-03-01
+platform: generic
 ---
 
-* In this role, you'll drive day-to-day operations, bringing structure and momentum to ensure work flows smoothly across teams.
-* Handle administrative tasks, quality assurance, and troubleshoot technology issues across organizational systems.
-* Develop and maintain documentation, keeping the internal knowledge base organized and current.
-* Manage administrative inboxes, ensuring timely responses and proper routing of inquiries.
-* Support compliance activities, finance processes, and implement data tracking systems and automations.
+# 
+ 
+ 
+  
+    Application Deadline March 01, 2026 Department Operations Employment Type Permanent - Full Time Location Remote - US  Workplace type Fully remote Compensation $78,000 - $100,000 / year  
+##  Key Responsibilities 
+ 
+ 
+   
+##  Qualifications 
+ 
+ 
+   
+##  What We Offer 
+ 
+ 
+   
+##  About Blueprint Biosecurity 
+ 
+ 
+Blueprint Biosecurity is a nonprofit dedicated to strengthening society’s ability to prevent and respond to pandemics. We advance practical, pathogen-agnostic solutions through targeted research, strategic grantmaking, and evidence-based policy guidance that protect vital workers and reinforce systems essential to pandemic preparedness and response.
+
+ 
+Our work spans personal protective equipment, far-UVC, and other airborne pathogen mitigation technologies. We pair research with active implementation, working with partners across government, academia, industry, and philanthropy to translate our strategic frameworks, known as Blueprints, into real-world action. Our goal is to ensure that when the next outbreak begins, society is ready to respond so communities remain safe, stable, and resilient.
+
+ 
+In 2025, Blueprint awarded millions in grants to academic institutions, nonprofit organizations, and technical partners advancing research on pandemic preparedness technologies and raised $17.5 million to accelerate this work. In 2026, we plan to significantly scale our team, grantmaking, and strategic engagements to identify, validate, and drive adoption of the most promising pandemic preparedness solutions.   
+ [Apply Now](/postings/1f8e3879-ab59-4546-993e-278e705da351/applications/new)   
+ 
+ 
+ 
+
+ Not quite right? Register your interest to be notified of any roles that come along that meet your criteria. 
+  [Register Your Interest](/themes/6776/register-your-interest/new)

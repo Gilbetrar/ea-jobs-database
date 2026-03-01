@@ -1,12 +1,104 @@
 ---
 job_id: openai--software-engineer-security-observability--2022-01
 source_url: https://openai.com/careers/software-engineer-security-observability-san-francisco/
-fetched_date: 2026-02-28
-platform: 80k-hours
+fetched_date: 2026-03-01
+platform: generic
 ---
 
-* In this role, you'll build secure, scalable systems that enhance security observability infrastructure across OpenAI.
-* Design and develop software systems that facilitate security observability across the infrastructure.
-* Build and maintain data pipelines that centralize security-relevant data from diverse sources.
-* Improve the resilience and reliability of data systems to ensure high platform availability.
-* Collaborate with Detection and Response teams to reduce security risks and support forensic investigations.
+# Software Engineer, Security Observability
+
+OpenAI
+
+Careers
+
+## Software Engineer, Security Observability
+
+Security - San Francisco
+
+[Apply now(opens in a new window)](https://jobs.ashbyhq.com/openai/3e254907-5101-438d-8708-f6f34e5c75ea/application)
+
+**About the Team**
+
+Security is at the foundation of OpenAI’s mission to ensure that artificial general intelligence benefits all of humanity. 
+
+The Security team protects OpenAI’s technology, people, and products. We are technical in what we build but are operational in how we do our work, and are committed to supporting all products and research at OpenAI. Our Security team tenets include: prioritizing for impact, enabling researchers, preparing for future transformative technologies, and engaging a robust security culture. 
+
+ 
+
+**About the Role**
+
+We are seeking a Software Engineer, Security Observability to join our Security team. In this role, you will be responsible for building secure, scalable systems that enhance our security observability infrastructure. Leveraging your strong engineering skills, you will collaborate with cross-functional teams to develop, deploy, and maintain robust software solutions that support our security and detection capabilities.
+
+This role is open to remote employees, or relocation assistance is available to one of our OpenAI offices in San Francisco, Seattle, or New York City.
+
+**In this role, you will:**
+
+- 
+
+Design and develop scalable software systems that facilitate security observability across our infrastructure.
+
+- 
+
+Build and maintain data pipelines that centralize and store security-relevant data from diverse sources.
+
+- 
+
+Proactively improve the resilience and reliability of data systems to ensure high platform availability
+
+- 
+
+Collaborate closely with Detection & Response (D&R) and other security teams to reduce the company’s security risk.
+
+- 
+
+Contribute to data engineering in support of forensic investigations and compliance efforts.
+
+**You might thrive in this role if you have:**
+
+- 
+
+Strong software engineering experience, with proficiency in programming languages such as Python, Golang, or similar.
+
+- 
+
+A background in infrastructure as code, with experience using tools like Terraform and working with cloud platforms such as Azure.
+
+- 
+
+Experience with building and maintaining data pipelines, particularly for security-related use cases.
+
+- 
+
+A generalist engineering mindset, with the flexibility to pivot between various technical domains such as databases, site reliability engineering (SRE), or security.
+
+- 
+
+The ability to collaborate effectively with security and engineering teams to understand evolving data needs and implement scalable solutions.
+
+- 
+
+A proactive and detail-oriented approach to problem-solving, with a focus on improving security data visibility and forensic capabilities.
+
+**About OpenAI**
+
+OpenAI is an AI research and deployment company dedicated to ensuring that general-purpose artificial intelligence benefits all of humanity. We push the boundaries of the capabilities of AI systems and seek to safely deploy them to the world through our products. AI is an extremely powerful tool that must be created with safety and human needs at its core, and to achieve our mission, we must encompass and value the many different perspectives, voices, and experiences that form the full spectrum of humanity. 
+
+We are an equal opportunity employer, and we do not discriminate on the basis of race, religion, color, national origin, sex, sexual orientation, age, veteran status, disability, genetic information, or other applicable legally protected characteristic. 
+
+For additional information, please see [OpenAI’s Affirmative Action and Equal Employment Opportunity Policy Statement](https://cdn.openai.com/policies/eeo-policy-statement.pdf).
+
+Background checks for applicants will be administered in accordance with applicable law, and qualified applicants with arrest or conviction records will be considered for employment consistent with those laws, including the San Francisco Fair Chance Ordinance, the Los Angeles County Fair Chance Ordinance for Employers, and the California Fair Chance Act, for US-based candidates. For unincorporated Los Angeles County workers: we reasonably believe that criminal history may have a direct, adverse and negative relationship with the following job duties, potentially resulting in the withdrawal of a conditional offer of employment: protect computer hardware entrusted to you from theft, loss or damage; return all computer hardware in your possession (including the data contained therein) upon termination of employment or end of assignment; and maintain the confidentiality of proprietary, confidential, and non-public information. In addition, job duties require access to secure and protected information technology systems and related data security obligations.
+
+To notify OpenAI that you believe this job posting is non-compliant, please submit a report through [this form](https://form.asana.com/?d=57018692298241&k=5MqR40fZd7jlxVUh5J-UeA). No response will be provided to inquiries unrelated to job posting compliance.
+
+We are committed to providing reasonable accommodations to applicants with disabilities, and requests can be made via this [link](https://form.asana.com/?k=bQ7w9h3iexRlicUdWRiwvg&d=57018692298241).
+
+[OpenAI Global Applicant Privacy Policy](https://cdn.openai.com/policies/global-employee-and-contractor-privacy-policy.pdf)
+
+At OpenAI, we believe artificial intelligence has the potential to help people solve immense global challenges, and we want the upside of AI to be widely shared. Join us in shaping the future of technology.
+
+**Compensation**
+
+$234.4K – $385K + Offers Equity
+
+[Apply now(opens in a new window)](https://jobs.ashbyhq.com/openai/3e254907-5101-438d-8708-f6f34e5c75ea/application)

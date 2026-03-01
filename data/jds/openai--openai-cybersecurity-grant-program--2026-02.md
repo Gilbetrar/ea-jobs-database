@@ -1,12 +1,93 @@
 ---
 job_id: openai--openai-cybersecurity-grant-program--2026-02
 source_url: https://openai.com/blog/openai-cybersecurity-grant-program
-fetched_date: 2026-02-28
-platform: 80k-hours
+fetched_date: 2026-03-01
+platform: generic
 ---
 
-* Empower defenders with AI capabilities.
-* Develop methods to quantify AI cybersecurity capabilities.
-* Foster rigorous discussions at AI and cybersecurity intersection.
-* Projects should focus on practical AI applications in defensive cybersecurity.
-* Funds granted in $10,000 increments from a $1M pool.
+# OpenAI Cybersecurity Grant Program
+
+June 1, 2023
+[Security](/news/security/)
+# OpenAI Cybersecurity Grant Program
+
+Our goal is to facilitate the development of AI-powered cybersecurity capabilities for defenders through grants and other support.
+
+Loading…
+
+Share
+
+***Update on February 5, 2026: ****We are evolving the Cybersecurity Grant Program to focus on large-scale deployment of our models to accelerate cyber defense. With the release of GPT‑5.3‑Codex, we are introducing *[*Trusted Access for Cyber *](/index/trusted-access-for-cyber/)*and committing $10M in API credits. *
+
+We are launching the Cybersecurity Grant Program—a $1M initiative to boost and quantify AI-powered cybersecurity capabilities and to foster high-level AI and cybersecurity discourse. 
+
+Our goal is to work with defenders across the globe to change the power dynamics of cybersecurity through the application of AI and the coordination of like-minded individuals working for our collective safety.
+
+**Our program seeks to:** 
+
+1. **Empower defenders**: We would like to ensure that cutting-edge AI capabilities benefit defenders first and most.
+2. **Measure capabilities**: We are working to develop methods for quantifying the cybersecurity capabilities of AI models, in order to better understand and improve their effectiveness.
+3. **Elevate discourse:** We are dedicated to fostering rigorous discussions at the intersection of AI and cybersecurity, encouraging a comprehensive and nuanced understanding of the challenges and opportunities in this domain.
+
+A traditional view in cybersecurity is that the landscape naturally advantages attackers over defenders. This is summed up in the well-worn axiom: “Defense must be correct 100% of the time, attackers only have to be right once.” While it may be true that attackers face fewer constraints and take advantage of their flexibility, defenders have something more valuable—coordination towards a common goal of keeping people safe.
+
+Below are some general project ideas that our team has put forward:
+
+- Collect and label data from cyber defenders to train defensive cybersecurity agents
+- Detect and mitigate social engineering tactics
+- Automate incident triage 
+- Identify security issues in source code
+- Assist network or device forensics
+- Automatically patch vulnerabilities
+- Optimize patch management processes to improve prioritization, scheduling, and deployment of security updates
+- Develop or improve confidential compute on GPUs
+- Create honeypots and deception technology to misdirect or trap attackers
+- Assist reverse engineers in creating signatures and behavior based detections of malware
+- Analyze an organization’s security controls and compare to compliance regimes
+- Assist developers to create [secure by design and secure by default⁠(opens in a new window)](https://www.cisa.gov/sites/default/files/2023-04/principles_approaches_for_security-by-design-default_508_0.pdf) software
+- Assist end users to adopt security best practices
+- Aid security engineers and developers to create robust threat models
+- Produce threat intelligence with salient and relevant information for defenders tailored to their organization
+- Help developers port code to memory safe languages
+
+## Apply now!
+
+If you share our vision for a secure and innovative AI-driven future, we invite you to submit your proposals and join us in our aim towards enhancing defensive cybersecurity technologies.
+
+OpenAI will evaluate and accept applications for funding or other support on a rolling basis. Strong preference will be given to practical applications of AI in defensive cybersecurity (tools, methods, processes). We will grant in increments of $10,000 USD from a fund of $1M USD, in the form of API credits, direct funding and/or equivalents.
+
+Offensive-security projects will not be considered for funding at this time.
+
+All projects should be intended to be licensed or distributed for maximal public benefit and sharing, and we will prioritize applications that have a clear plan for this. 
+
+Please submit your proposal [here⁠](/form/cybersecurity-grant-program/).
+
+- [Community](/news/?tags=community)
+- [2023](/news/?tags=2023)
+
+## Authors
+[Bob Rotsted](/news/?author=bob-rotsted#results), [Girish Sastry](/news/?author=girish-sastry#results), [Harold Nguyen](/news/?author=harold-nguyen#results), [Gabriel Bernadett-Shapiro](/news/?author=gabriel-bernadett-shapiro#results), [Joel Parish](/news/?author=joel-parish#results)
+
+## Related articles
+[View all](/news/security/)
+
+[
+
+Global news partnerships: Le Monde and Prisa Media
+
+CompanyMar 13, 2024
+](/index/global-news-partnerships-le-monde-and-prisa-media/)
+
+[
+
+OpenAI announces new members to board of directors
+
+CompanyMar 8, 2024
+](/index/openai-announces-new-members-to-board-of-directors/)
+
+[
+
+Review completed & Altman, Brockman to continue to lead OpenAI
+
+CompanyMar 8, 2024
+](/index/review-completed-altman-brockman-to-continue-to-lead-openai/)

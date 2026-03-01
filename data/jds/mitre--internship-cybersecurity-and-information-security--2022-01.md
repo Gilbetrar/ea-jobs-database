@@ -1,12 +1,94 @@
 ---
 job_id: mitre--internship-cybersecurity-and-information-security--2022-01
 source_url: https://careers.mitre.org/us/en/job/R115475/Internships-in-Cybersecurity-and-Information-Security
-fetched_date: 2026-02-28
-platform: 80k-hours
+fetched_date: 2026-03-01
+platform: generic
 ---
 
-* In this role, you'll collaborate with cybersecurity professionals to apply your knowledge to real-world information security challenges.
-* Gain hands-on experience in areas such as adversary emulation, cyber forensics, and threat intelligence.
-* Participate in projects focused on deception techniques, reverse engineering, and operational technology security.
-* Contribute to initiatives for securing IoT and mobile devices while developing cyber policies.
-* Engineer and architect safe, secure, and resilient systems for critical infrastructure protection.
+# Internship, Cybersecurity and Information Security
+
+-    ${widgetBundle['multilocationText'] | pht:{'multilocationValue': eachJob.multi_location.length}}  **  
+ 
+  -  ${eachLocation} 
+ ${widgetBundle['drivingTime'] | pht} ${widgetBundle['drivingTime'] | pht}: ** ${widgetBundle['whenDrivingTimeNotFound'] | pht} ${widgetBundle['drivingTimeInHoursText'] | pht:{"hours":eachJob.multi_location_array[$index].drivingTime.inHours}} ${eachJob.multi_location_array[$index].drivingTime.inHours} ${(eachJob.multi_location_array[$index].drivingTime.inHours == 1)?'hour':'hours'} ${widgetBundle['drivingTimeInMinutesText'] | pht:{"minutes":eachJob.multi_location_array[$index].drivingTime.inMinutes}} ${eachJob.multi_location_array[$index].drivingTime.inMinutes} ${(eachJob.multi_location_array[$index].drivingTime.inMinutes == 1)?'minute':'minutes'}   
+  
+   
+ 
+ 
+-  
+ [ ${widgetBundle['applyNowText'] | pht} ${eachJob.title}  ** ]()  
+  **   Share Job button   
+  
+    
+  ${widgetBundle['referText'] | pht}  **   
+   
+ 
+    **  ${widgetBundle['addToCartSaveText'] | pht}     **  ${widgetBundle['addToCartSavedText'] | pht}       
+ [ ${eachJob.title} **  ${widgetBundle['removeJobText'] | pht}  ](javascript:void(0))   
+  
+ 
+ 
+ 
+  **  
+ 
+ ${eachJob.title}  
+ ${widgetBundle['multipleLocation'] | pht:{"locationCount":eachJob.multi_location.length}}  
+ ${widgetBundle['locationApplicationInfo'] | pht}   
+ 
+ 
+-   **   ${eachLocation}  
+ ${widgetBundle['drivingTime'] | pht} ** ${widgetBundle['whenDrivingTimeNotFound'] | pht} ${widgetBundle['drivingTimeInHoursText'] | pht:{"hours":eachJob.multi_location_array[$index].drivingTime.inHours}} ${eachJob.multi_location_array[$index].drivingTime.inHours} ${(eachJob.multi_location_array[$index].drivingTime.inHours == 1)?'hour':'hours'} ${widgetBundle['drivingTimeInMinutesText'] | pht:{"minutes":eachJob.multi_location_array[$index].drivingTime.inMinutes}}  ${eachJob.multi_location_array[$index].drivingTime.inMinutes} ${(eachJob.multi_location_array[$index].drivingTime.inMinutes == 1)?'minute':'minutes'}    
+       
+ 
+    ${widgetBundle['seeMoreText'] | pht}  **     ${widgetBundle['seeLessText'] | pht}  **     ${widgetBundle['seeNextText'] | pht}  **     ${widgetBundle['seeEvenMoreText'] | pht}  **    
+ 
+
+  No recommendations found  
+       
+
+ 
+  
+
+[](#acc-skip-content)
+
+**
+[]()
+
+- 
+
+  - []()
+  - []()
+  - []()
+
+- []()
+- []()
+- []()
+- []()
+- 
+
+ 
+   **   
+ [    ]()   
+  
+    
+  
+          
+ 
+
+ 
+ 
+ 
+  
+ 
+          
+  
+    
+     
+  
+ 
+ 
+      
+##  We're sorry…the job you are trying to apply for is no longer available. 
+ 
+
+  Maybe you would like to consider the Categories below :

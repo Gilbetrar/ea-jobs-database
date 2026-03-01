@@ -1,9 +1,48 @@
 ---
 job_id: fred-hutchinson-cancer-research-center-bedford-lab--postdoctoral-fellow--2022-01
 source_url: https://bedford.io/misc/join/
-fetched_date: 2026-02-28
-platform: 80k-hours
+fetched_date: 2026-03-01
+platform: generic
 ---
 
-* In this role, you'll conduct research in genomic epidemiology, pathogen evolution, or machine learning as a postdoctoral fellow.
-* Contribute to interdisciplinary research at the intersection of evolution, epidemiology, virology, and immunology.
+# Postdoctoral Fellow
+
+[](/)
+
+- [](/blog/)
+- [](/papers/)
+- [](/projects/)
+- [](/team/)
+  
+ 
+ 
+ 
+ Join    
+ 
+ 
+  
+ 
+ 
+
+*We are particularly interested in postdoc candidates whose expertise includes genomic epidemiology, pathogen evolution or machine learning.*
+ 
+
+We are hiring across scientific and staff positions. We place particular emphasis on evolution, epidemiology, virology and immunology, and especially their intersection. Lab members have spanned biologists, statisticians, physicists and computer scientists, high school students through postdocs. We are committed to improving diversity in the computational sciences. Applicants of diverse backgrounds are particularly encouraged to apply.
+ 
+## Graduate students
+ 
+
+Graduate students from the [MCB program](https://depts.washington.edu/mcb/), the [UW Department of Epidemiology](https://sph.washington.edu/program/phd-epidemiology), the [UW Department of Genome Sciences](https://www.gs.washington.edu/academics/gradprogram/index.htm) and the [UW MSTP program](https://mstp.washington.edu/) can join the group. Rotation students are welcome. Please inquire if you’re thinking about graduate school and we can advise on appropriate programs at the UW.
+ 
+## Postdoctoral fellows
+ 
+
+Please send (1) cover letter that includes the names and contacts for two references and a short statement of research interests, (2) a current CV and (3) code samples or links to published/distributed code to tbobfuscate@bedford.io.
+ 
+## Programmers
+ 
+
+Please send (1) current resume, (2) code samples or links to published/distributed code and (3) contact information for two references to tbobfuscate@bedford.io. The lab primarily codes in Python and JavaScript.
+   
+   
+foo

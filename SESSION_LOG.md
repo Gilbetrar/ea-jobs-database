@@ -390,3 +390,23 @@
 - Actually running `--update-only` with a real AIRTABLE_PAT to sync JDs to Airtable
 - Close issue #8 after Airtable sync is confirmed
 
+
+---
+
+## Agent Session - Issue #3 Test Fix
+
+**Worked on:** Fixing test_issue_3.py — 163 test failures (0 failures → 0 failures after fix)
+
+**What I learned:**
+- YAML frontmatter parsing with `content.index("---", 3)` breaks when URLs contain `---` (Workday URLs like `.../Senior-Research-Lead---AI-Security-Portfolio`)
+- Line-based delimiter detection (looking for a line that is ONLY `---`) is the correct approach
+- Quoting URLs with `---` in YAML frontmatter resolves the parsing ambiguity
+- Form URL patterns in JD body content are legitimate (application links) — only source_url matters for filtering
+
+**Codebase facts discovered:**
+- 11 JD files had Workday/MIT URLs containing `---` that broke frontmatter parsing
+- 31 JD files have form URLs as source_url (expected for 80K Hours jobs with no direct posting)
+- 114 JD files reference form URLs in body text (legitimate application form links)
+
+**Mistakes made (if any):**
+- None — straightforward diagnostic and fix

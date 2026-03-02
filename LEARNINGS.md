@@ -72,6 +72,8 @@ python3 scripts/test_issue_8.py                          # Validate issue #8 Pha
 - `slugify()` must strip commas (e.g. "80,000 Hours" → "80000-hours")
 - Job schema uses `additionalProperties: false` — adding new fields (e.g. `jd_status`) requires schema update
 - JD files use YAML frontmatter (job_id, source_url, fetched_date, platform)
+- YAML frontmatter: NEVER use `content.index("---", 3)` to find end delimiter — URLs can contain `---` (Workday). Use line-based detection instead
+- `build_frontmatter()` quotes source_url when it contains `---`
 - stdlib `urllib.request` + `html.parser` used for fetching/parsing — no external deps needed for JD fetcher
 - Airtable sync uses env vars: AIRTABLE_API_KEY, AIRTABLE_BASE_ID (required for live sync)
 - Airtable multi-select fields require `[{"name": "value"}]` format, not plain arrays

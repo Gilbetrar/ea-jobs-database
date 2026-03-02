@@ -1,6 +1,6 @@
 ---
 job_id: rand-corporation--senior-research-lead-ai-security-portfolio--2026-02
-source_url: https://rand.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/San-Francisco-CA/Senior-Research-Lead---AI-Security-Portfolio_R3464-1
+source_url: "https://rand.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/San-Francisco-CA/Senior-Research-Lead---AI-Security-Portfolio_R3464-1"
 fetched_date: 2026-02-28
 platform: 80k-hours
 ---

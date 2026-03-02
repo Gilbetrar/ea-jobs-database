@@ -1,6 +1,6 @@
 ---
 job_id: rand-corporation--research-lead-ai-cyber-testing--2022-01
-source_url: https://rand.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/Washington-DC-DC-Metro-Area/Research-Lead----AI-Cyber-Testing---Evaluation_R3122
+source_url: "https://rand.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/Washington-DC-DC-Metro-Area/Research-Lead----AI-Cyber-Testing---Evaluation_R3122"
 fetched_date: 2026-02-28
 platform: 80k-hours
 ---

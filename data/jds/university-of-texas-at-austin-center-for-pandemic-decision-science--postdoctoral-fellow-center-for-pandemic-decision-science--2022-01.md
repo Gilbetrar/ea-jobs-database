@@ -1,6 +1,6 @@
 ---
 job_id: university-of-texas-at-austin-center-for-pandemic-decision-science--postdoctoral-fellow-center-for-pandemic-decision-science--2022-01
-source_url: https://utaustin.wd1.myworkdayjobs.com/en-US/UTstaff/job/UT-MAIN-CAMPUS/CFA-Postdoctoral-Fellow---Center-for-Pandemic-Decision-Science_R_00042531?q=Pandemic+decision+science
+source_url: "https://utaustin.wd1.myworkdayjobs.com/en-US/UTstaff/job/UT-MAIN-CAMPUS/CFA-Postdoctoral-Fellow---Center-for-Pandemic-Decision-Science_R_00042531?q=Pandemic+decision+science"
 fetched_date: 2026-02-28
 platform: 80k-hours
 ---

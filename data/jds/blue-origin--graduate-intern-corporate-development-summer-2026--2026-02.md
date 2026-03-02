@@ -1,6 +1,6 @@
 ---
 job_id: blue-origin--graduate-intern-corporate-development-summer-2026--2026-02
-source_url: https://blueorigin.wd5.myworkdayjobs.com/BlueOrigin/job/Greater-Seattle-Area/Summer-2026-Corporate-Development-Intern---Graduate_R56124
+source_url: "https://blueorigin.wd5.myworkdayjobs.com/BlueOrigin/job/Greater-Seattle-Area/Summer-2026-Corporate-Development-Intern---Graduate_R56124"
 fetched_date: 2026-02-28
 platform: 80k-hours
 ---

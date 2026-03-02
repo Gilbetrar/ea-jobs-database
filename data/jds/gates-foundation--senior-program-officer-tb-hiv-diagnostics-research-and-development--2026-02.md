@@ -1,6 +1,6 @@
 ---
 job_id: gates-foundation--senior-program-officer-tb-hiv-diagnostics-research-and-development--2026-02
-source_url: https://gatesfoundation.wd1.myworkdayjobs.com/en-US/Gates/job/Seattle-WA/Senior-Program-Officer--TB-HIV-Diagnostics-Research---Development_B021367-1
+source_url: "https://gatesfoundation.wd1.myworkdayjobs.com/en-US/Gates/job/Seattle-WA/Senior-Program-Officer--TB-HIV-Diagnostics-Research---Development_B021367-1"
 fetched_date: 2026-02-28
 platform: 80k-hours
 ---

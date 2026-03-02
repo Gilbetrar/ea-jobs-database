@@ -1,6 +1,6 @@
 ---
 job_id: rand-corporation--ai-security-biosecurity-engineer-center-on-ai-security-and-technology--2025-12
-source_url: https://rand.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/San-Francisco-CA/AI-Security---Biosecurity-Engineer--RAND-CAST_R3442
+source_url: "https://rand.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/San-Francisco-CA/AI-Security---Biosecurity-Engineer--RAND-CAST_R3442"
 fetched_date: 2026-02-28
 platform: 80k-hours
 ---

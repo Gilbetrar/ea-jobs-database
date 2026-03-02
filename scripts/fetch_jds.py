@@ -410,10 +410,14 @@ def fetch_url(url):
 
 def build_frontmatter(job_id, source_url, platform):
     """Build YAML frontmatter for a JD markdown file."""
+    # Quote source_url if it contains YAML-breaking sequences (e.g. --- in Workday URLs)
+    url_str = source_url or ""
+    if "---" in url_str:
+        url_str = f'"{url_str}"'
     return (
         f"---\n"
         f"job_id: {job_id}\n"
-        f"source_url: {source_url}\n"
+        f"source_url: {url_str}\n"
         f"fetched_date: {date.today().isoformat()}\n"
         f"platform: {platform}\n"
         f"---\n\n"

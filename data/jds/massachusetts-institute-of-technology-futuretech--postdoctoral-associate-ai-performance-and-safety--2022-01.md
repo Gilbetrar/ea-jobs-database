@@ -1,6 +1,6 @@
 ---
 job_id: massachusetts-institute-of-technology-futuretech--postdoctoral-associate-ai-performance-and-safety--2022-01
-source_url: https://futuretech.mit.edu/opportunities/postdoctoral-associate---ai-performance-and-safety
+source_url: "https://futuretech.mit.edu/opportunities/postdoctoral-associate---ai-performance-and-safety"
 fetched_date: 2026-03-01
 platform: generic
 ---

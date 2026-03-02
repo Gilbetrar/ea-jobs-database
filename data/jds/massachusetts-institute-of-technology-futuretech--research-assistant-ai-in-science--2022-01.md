@@ -1,6 +1,6 @@
 ---
 job_id: massachusetts-institute-of-technology-futuretech--research-assistant-ai-in-science--2022-01
-source_url: https://futuretech.mit.edu/opportunities/research-assistant---ai-in-science
+source_url: "https://futuretech.mit.edu/opportunities/research-assistant---ai-in-science"
 fetched_date: 2026-03-01
 platform: generic
 ---

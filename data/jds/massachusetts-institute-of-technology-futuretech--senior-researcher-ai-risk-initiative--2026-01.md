@@ -1,6 +1,6 @@
 ---
 job_id: massachusetts-institute-of-technology-futuretech--senior-researcher-ai-risk-initiative--2026-01
-source_url: https://futuretech.mit.edu/opportunities/senior-researcher---mit-ai-risk-initiative
+source_url: "https://futuretech.mit.edu/opportunities/senior-researcher---mit-ai-risk-initiative"
 fetched_date: 2026-03-01
 platform: generic
 ---

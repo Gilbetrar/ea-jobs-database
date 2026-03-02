@@ -1,6 +1,6 @@
 ---
 job_id: rand-corporation--research-lead-ai-security-policy--2022-01
-source_url: https://rand.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/Washington-DC-DC-Metro-Area/Research-Lead---AI-Security-Policy_R3121
+source_url: "https://rand.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/Washington-DC-DC-Metro-Area/Research-Lead---AI-Security-Policy_R3121"
 fetched_date: 2026-02-28
 platform: 80k-hours
 ---

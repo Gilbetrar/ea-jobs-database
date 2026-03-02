@@ -61,8 +61,7 @@ python3 scripts/test_issue_8.py                          # Validate issue #8 Pha
 
 ## Gotchas
 
-- No CI configured yet — no GitHub Actions workflows
-- No npm/node setup — this is a Python + JSON project
+- No CI configured — no GitHub Actions workflows, no npm/node setup (Python + JSON project)
 - `jsonschema` must be installed (`pip3 install jsonschema`) before running tests
 - Airtable integration is Tier 2 (warning only, not blocking)
 - macOS `find` is aliased to `fd` — use shell loops for file operations
@@ -82,11 +81,11 @@ python3 scripts/test_issue_8.py                          # Validate issue #8 Pha
 - Algolia SDK v4 returns Pydantic models — use `.to_dict()` to get plain dicts
 - 80K Hours data: `description_short` has HTML, `description` is usually empty
 - Use `datetime.fromtimestamp(ts, tz=timezone.utc)` not `utcfromtimestamp()` (deprecated Python 3.12+)
-- Issue #6 has a human review checkpoint (Phase 2) — merges cannot be auto-applied
 - Test section name assertions are case-insensitive substring checks — ensure report headers contain expected keywords
 - `rapidfuzz.fuzz.ratio` returns 0-100, divide by 100 for 0-1 range
 - `jd_quality.py` scorer: 0-100 scale, promote (>=60), review (40-59), quarantine (<40 or fatal)
-- Issue #8 is multi-phase: Phase 1 (scorer) done, Phase 2a (infrastructure) done, Phase 2b (run fetch) done, Phase 3 (code done, awaiting human review + Airtable sync)
+- Issues #1-7 are closed. Issue #8 is the only open issue — blocked on human review of `exports/jd_review_queue.md` + Airtable sync with PAT
+- No npm/CI setup — run Python test scripts directly (`python3 scripts/test_issue_N.py`)
 - `fetch_jds.py --overwrite` writes to `data/jds-staging/`, not production; `--promote` triggers score+backup+promote
 - Promotion only overwrites production if staged file body is longer than existing (prevents regression)
 - Lever pages have ~700KB inline CSS with class names matching content patterns — ALWAYS strip before `</style>` before extracting

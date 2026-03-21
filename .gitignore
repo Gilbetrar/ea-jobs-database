@@ -21,5 +21,8 @@ Thumbs.db
 data/jds-staging/
 data/jds-backup/
 
+# Bulk upload working data
+exports/upload_batches.json
+
 # Signal file (used by orchestrator)
 SIGNAL.txt

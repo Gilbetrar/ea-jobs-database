@@ -1,11 +1,11 @@
 JD Fetch Summary Report
 ========================================
-Date: 2026-02-28
+Date: 2026-03-01
 
-Total URLs found: 1
+Total URLs found: 835
 Fetched: 0
-Skipped (forms): 0
+Skipped (forms): 31
 Skipped (no URL): 0
-Skipped (already cached): 0
+Skipped (already cached): 804
 Failed (dead links): 0
 

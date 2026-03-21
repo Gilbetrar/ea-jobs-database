@@ -438,19 +438,21 @@
 
 ---
 
-## Agent Session - Issue #8 (Cleanup + Handoff)
+## Agent Session - Issue #8 (Airtable Sync + Close)
 
-**Worked on:** Issue #8 - Re-fetch full job descriptions from source URLs (final handoff)
+**Worked on:** Issue #8 - Re-fetch full job descriptions from source URLs (final sync + close)
 
 **What I learned:**
-- All code phases complete, 46/46 tests passing
-- Only human actions remain: review queue (25 items) + Airtable sync with PAT
-- `exports/upload_batches.json` (1.2MB working data) was untracked — added to .gitignore
-- LEARNINGS.md and jd_fetch_summary.txt had uncommitted edits from previous session
+- Airtable Long Text field limit is 100,000 characters — 1 file (Wellcome Trust, 213K chars) exceeds this
+- User prefers skipping oversized records over truncating — full JDs should always be preserved
+- Airtable PAT is in Claude memory at `~/.claude/projects/-Users-benjaminbateman-AI/memory/airtable-credentials.md`
+- Review queue items (25 borderline JDs) were all correctly classified — no promotions needed
+- `bulk_upload.py --update-only` is idempotent — safe to re-run
 
 **Codebase facts discovered:**
-- No CI/CD configured — no GitHub Actions workflows (purely Python project)
-- Issues #1-7 are closed; issue #8 is the sole remaining issue
+- `exports/upload_batches.json` (1.2MB) is working data from bulk upload — now gitignored
+- All 835 Airtable records synced with JD content (834 updated, 1 skipped as oversized)
 
 **Mistakes made (if any):**
-- None
+- Initially tried to create a HANDOFF for human action when the Airtable sync could be done directly with MCP credentials
+- First attempted truncation before user corrected — should skip, not truncate

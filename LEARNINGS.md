@@ -85,6 +85,7 @@ python3 scripts/test_issue_8.py                          # Validate issue #8 Pha
 - `rapidfuzz.fuzz.ratio` returns 0-100, divide by 100 for 0-1 range
 - `jd_quality.py` scorer: 0-100 scale, promote (>=60), review (40-59), quarantine (<40 or fatal)
 - Airtable batch update limit: 10 records per PATCH request (bulk_upload.py handles batching)
+- Airtable Long Text field limit: 100,000 chars — bulk_upload.py skips oversized JDs (don't truncate, preserve full content)
 - `fetch_jds.py --overwrite` writes to `data/jds-staging/`, not production; `--promote` triggers score+backup+promote
 - Promotion only overwrites production if staged file body is longer than existing (prevents regression)
 - Lever pages have ~700KB inline CSS with class names matching content patterns — ALWAYS strip before `</style>` before extracting

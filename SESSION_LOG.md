@@ -435,3 +435,22 @@
 
 **Mistakes made (if any):**
 - None
+
+---
+
+## Agent Session - Issue #8 (Cleanup + Handoff)
+
+**Worked on:** Issue #8 - Re-fetch full job descriptions from source URLs (final handoff)
+
+**What I learned:**
+- All code phases complete, 46/46 tests passing
+- Only human actions remain: review queue (25 items) + Airtable sync with PAT
+- `exports/upload_batches.json` (1.2MB working data) was untracked — added to .gitignore
+- LEARNINGS.md and jd_fetch_summary.txt had uncommitted edits from previous session
+
+**Codebase facts discovered:**
+- No CI/CD configured — no GitHub Actions workflows (purely Python project)
+- Issues #1-7 are closed; issue #8 is the sole remaining issue
+
+**Mistakes made (if any):**
+- None

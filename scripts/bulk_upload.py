@@ -266,6 +266,7 @@ def run_update_only(api_key, dry_run=False):
     updates = []
     skipped_no_jd = 0
     skipped_not_in_airtable = 0
+    skipped_oversized = []
 
     jd_files = sorted(JDS_DIR.glob("*.md"))
     log(f"Found {len(jd_files)} JD files locally")
@@ -283,10 +284,17 @@ def run_update_only(api_key, dry_run=False):
             skipped_not_in_airtable += 1
             continue
 
+        # Airtable Long Text field limit is 100,000 characters — skip oversized
+        if len(jd_content) > 100000:
+            skipped_oversized.append((job_id, len(jd_content)))
+            continue
+
         updates.append((record_id, {"Job Description": jd_content}))
 
     log(f"Prepared {len(updates)} JD updates")
-    log(f"  Skipped: {skipped_no_jd} empty JDs, {skipped_not_in_airtable} not in Airtable")
+    log(f"  Skipped: {skipped_no_jd} empty JDs, {skipped_not_in_airtable} not in Airtable, {len(skipped_oversized)} oversized (>100K chars)")
+    for job_id, size in skipped_oversized:
+        log(f"    Oversized: {job_id} ({size:,} chars)")
 
     if dry_run:
         log("\n--- DRY RUN ---")

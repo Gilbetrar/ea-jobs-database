@@ -1,0 +1,33 @@
+{
+  "id": "centre-for-the-governance-of-ai--director-of-operations--2026-04",
+  "title": "Director of Operations",
+  "organization": "centre-for-the-governance-of-ai",
+  "source": "manual",
+  "source_url": "https://docs.google.com/document/d/1-e0sINPu2aF1g-UppVXH-TlwbA-MCwNyF91L3gqgaBk/edit?usp=sharing",
+  "jd_file": "data/jds/centre-for-the-governance-of-ai--director-of-operations--2026-04.md",
+  "location": {
+    "type": "hybrid",
+    "cities": [
+      "Washington DC"
+    ]
+  },
+  "salary": {
+    "currency": "USD",
+    "period": "annual",
+    "min": 155000,
+    "max": 190000
+  },
+  "posted_date": null,
+  "deadline": null,
+  "date_added": "2026-04-27",
+  "tags": [
+    "ai-safety-policy",
+    "full-time",
+    "operations",
+    "management",
+    "strategy"
+  ],
+  "status": "open",
+  "confidence": 1.0,
+  "notes": "Recruited via direct email from Ben Garfinkel (Executive Director, GovAI) on 2026-04-24. Abraham Rowe (cc'd) is the outgoing Director of Operations. Primary contact: georg.arndt@governance.ai (Chief of Staff). Scheduling: victoria.lloyd@governance.ai. Salary scoped to DC-based candidates; UK candidates may also be considered (not explicit in JD)."
+}
